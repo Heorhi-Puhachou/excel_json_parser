@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+import com.fasterxml.jackson.databind.SerializationFeature;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
@@ -106,16 +107,15 @@ public class ConvertExcel2Json {
     /**
      * Convert Java Objects to JSON File
      *
-     * @param customers
+     * @param records
      * @param pathFile
      */
-    private static void writeObjects2JsonFile(List<Record> customers, String pathFile) {
-        ObjectMapper mapper = new ObjectMapper();
-
+    private static void writeObjects2JsonFile(List<Record> records, String pathFile) {
+        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         File file = new File(pathFile);
         try {
             // Serialize Java object info JSON file.
-            mapper.writeValue(file, customers);
+            mapper.writeValue(file, records);
         } catch (IOException e) {
             e.printStackTrace();
         }
