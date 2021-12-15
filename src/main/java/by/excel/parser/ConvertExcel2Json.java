@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+import by.convert.AcadLacinkaConverter;
+import by.convert.AcadTaraskConverter;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -23,7 +25,7 @@ public class ConvertExcel2Json {
         List<Record> customers = readExcelFile("base.xlsx");
 
         // Step 2: Write Java List Objects to JSON File
-        writeObjects2JsonFile(customers, "customers.json");
+        writeObjects2JsonFile(customers, "glossary.json");
 
         System.out.println("Done");
     }
@@ -86,9 +88,9 @@ public class ConvertExcel2Json {
                     break;
                 }
                 record = new Record(originalValue,
+                        AcadTaraskConverter.convert(acadValue), AcadTaraskConverter.convert(acadWrong), AcadTaraskConverter.convert(acadComment),
                         acadValue, acadWrong, acadComment,
-                        acadValue, acadWrong, acadComment,
-                        acadValue, acadWrong, acadComment
+                        AcadLacinkaConverter.convert(acadValue), AcadLacinkaConverter.convert(acadWrong), AcadLacinkaConverter.convert(acadComment)
 
                 );
 
