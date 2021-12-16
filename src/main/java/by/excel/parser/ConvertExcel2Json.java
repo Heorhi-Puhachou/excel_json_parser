@@ -55,6 +55,7 @@ public class ConvertExcel2Json {
                     rowNumber++;
                     continue;
                 }
+                rowNumber++;
 
 
                 Iterator<Cell> cellsInRow = currentRow.iterator();
@@ -87,7 +88,7 @@ public class ConvertExcel2Json {
                 if (originalValue.isEmpty()) {
                     break;
                 }
-                record = new Record(originalValue,
+                record = new Record(rowNumber, originalValue,
                         AcadTaraskConverter.convert(acadValue), AcadTaraskConverter.convert(acadWrong), AcadTaraskConverter.convert(acadComment),
                         acadValue, acadWrong, acadComment,
                         AcadLacinkaConverter.convert(acadValue), AcadLacinkaConverter.convert(acadWrong), AcadLacinkaConverter.convert(acadComment)

@@ -1,6 +1,9 @@
 package by.excel.parser;
 
 public class Record {
+
+
+    int id;
     private String originalValue;
     private TranslateInfo tarask;
     private TranslateInfo acad;
@@ -9,16 +12,24 @@ public class Record {
     public Record() {
     }
 
-    public Record(String originalValue,
+    public Record(int id, String originalValue,
                   String taraskValue, String taraskWrong, String taraskComment,
                   String acadValue, String acadWrong, String acadComment,
                   String lacinkaValue, String lacinkaWrong, String lacinkaComment) {
+        this.id = id;
         this.originalValue = originalValue;
         this.tarask = new TranslateInfo(taraskValue, taraskWrong, taraskComment);
         this.acad = new TranslateInfo(acadValue, acadWrong, acadComment);
         this.lacinka = new TranslateInfo(lacinkaValue, lacinkaWrong, lacinkaComment);
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public String getOriginalValue() {
         return originalValue;
