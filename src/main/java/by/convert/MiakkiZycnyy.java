@@ -7,6 +7,7 @@ public enum MiakkiZycnyy {
     V("в"),
     C("ц"),
     N("н"),
+    M("м"),
     Z("з"),
     DZ("дз");
 
