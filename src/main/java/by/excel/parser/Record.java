@@ -6,8 +6,8 @@ public class Record {
     int id;
     private String originalValue;
     private TranslateInfo tarask;
-    private TranslateInfo acad;
-    private TranslateInfo lacinka;
+    private TranslateInfo narkam;
+    private TranslateInfo lacink;
 
     public Record() {
     }
@@ -19,8 +19,8 @@ public class Record {
         this.id = id;
         this.originalValue = originalValue;
         this.tarask = new TranslateInfo(taraskValue, taraskWrong, taraskComment);
-        this.acad = new TranslateInfo(acadValue, acadWrong, acadComment);
-        this.lacinka = new TranslateInfo(lacinkaValue, lacinkaWrong, lacinkaComment);
+        this.narkam = new TranslateInfo(acadValue, acadWrong, acadComment);
+        this.lacink = new TranslateInfo(lacinkaValue, lacinkaWrong, lacinkaComment);
     }
 
     public int getId() {
@@ -47,20 +47,20 @@ public class Record {
         this.tarask = tarask;
     }
 
-    public TranslateInfo getAcad() {
-        return acad;
+    public TranslateInfo getNarkam() {
+        return narkam;
     }
 
-    public void setAcad(TranslateInfo acad) {
-        this.acad = acad;
+    public void setNarkam(TranslateInfo narkam) {
+        this.narkam = narkam;
     }
 
-    public TranslateInfo getLacinka() {
-        return lacinka;
+    public TranslateInfo getLacink() {
+        return lacink;
     }
 
-    public void setLacinka(TranslateInfo lacinka) {
-        this.lacinka = lacinka;
+    public void setLacink(TranslateInfo lacink) {
+        this.lacink = lacink;
     }
 
 

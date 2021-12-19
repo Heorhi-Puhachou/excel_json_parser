@@ -55,7 +55,6 @@ public class ConvertExcel2Json {
                     rowNumber++;
                     continue;
                 }
-                rowNumber++;
 
 
                 Iterator<Cell> cellsInRow = currentRow.iterator();
@@ -75,9 +74,9 @@ public class ConvertExcel2Json {
                         originalValue = currentCell.getStringCellValue();
                     } else if (cellIndex == 1) { // acad value
                         acadValue = currentCell.getStringCellValue();
-                    } else if (cellIndex == 2) { // Address
+                    } else if (cellIndex == 2) { // Wrong example
                         acadWrong = currentCell.getStringCellValue();
-                    } else if (cellIndex == 3) { // Age
+                    } else if (cellIndex == 3) { // Comment
                         acadComment = currentCell.getStringCellValue();
                     }
 
@@ -96,6 +95,7 @@ public class ConvertExcel2Json {
                 );
 
                 lstCustomers.add(record);
+                rowNumber++;
             }
 
             // Close WorkBook

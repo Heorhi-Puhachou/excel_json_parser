@@ -57,6 +57,8 @@ public class AcadLacinkaConverter {
                 .replace("ц", "c")
                 .replace("Ч", "Č")
                 .replace("ч", "č")
+                .replace("Ш", "Š")
+                .replace("ш", "š")
 
                 .replace("Ы", "Y")
                 .replace("ы", "y")
