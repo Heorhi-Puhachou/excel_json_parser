@@ -1,5 +1,8 @@
 package by.convert;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class AcadTaraskConverter {
 
     public static String convert(String acad) {
@@ -12,42 +15,27 @@ public class AcadTaraskConverter {
     }
 
     private static String chekMZ(String in) {
-        return in
-                .replace("сць", "сьць")
-                .replace("сці", "сьці")
-                .replace("сце", "сьце")
-                .replace("сцё", "сьцё")
-                .replace("сця", "сьця")
-                .replace("сцю", "сьцю")
+        ArrayList<String> zmyakchateli = new ArrayList<>();
+        zmyakchateli.add("ь");
 
-                .replace("нне", "ньне")
-                .replace("нні", "ньні")
-                .replace("ннё", "ньнё")
-                .replace("ння", "ньня")
-                .replace("нню", "ньню")
+        Arrays.stream(MiakkiHalosny.values()).forEach(val -> zmyakchateli.add(val.value));
 
-                .replace("све", "сьве")
-                .replace("свё", "сьвё")
-                .replace("сві", "сьві")
-                .replace("свя", "сьвя")
-                .replace("свю", "сьвю")
-
-                .replace("зме", "зьме")
-                .replace("змё", "зьмё")
-                .replace("змі", "зьмі")
-                .replace("змя", "зьмя")
-                .replace("змю", "зьмю")
-
-                .replace("дзве", "дзьве")
-                .replace("дзвё", "дзьвё")
-                .replace("дзві", "дзьві")
-                .replace("дзвя", "дзьвя")
-                .replace("дзвю", "дзьвю")
-
-                ;
+        for (int i = 0; i < MiakkiZycnyy.values().length; i++) {
+            for (int j = 0; j < MiakkiZycnyy.values().length; j++) {
+                for (int z = 0; z < zmyakchateli.size(); z++) {
+                    String narkam = MiakkiZycnyy.values()[i].value + MiakkiZycnyy.values()[j].value + zmyakchateli.get(z);
+                    String tarask = MiakkiZycnyy.values()[i].value + "ь" + MiakkiZycnyy.values()[j].value + zmyakchateli.get(z);
+                    in = in.replace(narkam, tarask);
+                }
+            }
+        }
+        return in;
     }
 
     private static String chekI(String in) {
+        // Arrays.stream(MiakkiHalosny.values()).forEach(mg -> in.replace(mg.value+" і ", mg.value+" й "));
+        //TODO add zverdija galosnija
+
         return in
                 .replace("е і ", "е й ")
                 .replace("ё і ", "ё й ")

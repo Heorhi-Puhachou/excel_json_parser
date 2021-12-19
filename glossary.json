@@ -292,7 +292,7 @@
   "tarask" : {
     "value" : "адміністратар",
     "wrong" : "",
-    "comment" : "трэба адрозніваць ад кіраўнікоў у ТГ."
+    "comment" : "трэба адрозьніваць ад кіраўнікоў у ТГ."
   },
   "narkam" : {
     "value" : "адміністратар",
@@ -1046,7 +1046,7 @@
   "id" : 59,
   "originalValue" : "Argentina",
   "tarask" : {
-    "value" : "Аргенціна",
+    "value" : "Аргеньціна",
     "wrong" : "",
     "comment" : "CLDR"
   },
@@ -1208,7 +1208,7 @@
   "id" : 68,
   "originalValue" : "associated",
   "tarask" : {
-    "value" : "! звязаны",
+    "value" : "! зьвязаны",
     "wrong" : "",
     "comment" : "MS"
   },
@@ -1264,7 +1264,7 @@
   "tarask" : {
     "value" : "прынамсі",
     "wrong" : "",
-    "comment" : "у гэтым сэнсе коскамі не адасабляецца"
+    "comment" : "у гэтым сэньсе коскамі не адасабляецца"
   },
   "narkam" : {
     "value" : "прынамсі",
@@ -2450,9 +2450,9 @@
   "id" : 137,
   "originalValue" : "body",
   "tarask" : {
-    "value" : "зьмест (дакумента); цела",
+    "value" : "змест (дакумента); цела",
     "wrong" : "",
-    "comment" : "Samsung — зьмест (дакумента)\nMS — тэкст (паведамленьня)\n\nДумаю, што тут можна лічыць паведамленьне й дакумент сінонімамі"
+    "comment" : "Samsung — змест (дакумента)\nMS — тэкст (паведамленьня)\n\nДумаю, што тут можна лічыць паведамленьне й дакумент сінонімамі"
   },
   "narkam" : {
     "value" : "змест (дакумента); цела",
@@ -2504,7 +2504,7 @@
   "id" : 140,
   "originalValue" : "Bosnia and Herzegovina",
   "tarask" : {
-    "value" : "Боснія й Герцагавіна",
+    "value" : "Босьнія й Герцагавіна",
     "wrong" : "",
     "comment" : "CLDR"
   },
@@ -2522,7 +2522,7 @@
   "id" : 141,
   "originalValue" : "Bosnian",
   "tarask" : {
-    "value" : "баснійская",
+    "value" : "басьнійская",
     "wrong" : "",
     "comment" : "CLDR"
   },
@@ -2846,7 +2846,7 @@
   "id" : 159,
   "originalValue" : "bug",
   "tarask" : {
-    "value" : "памылка; bug (там, дзе ў інтэрфэйсе ёсьць надпіс bug, альбо ўзнікае нейкая іншая неадназначнасьць)",
+    "value" : "памылка; bug (там, дзе ў інтэрфэйсе ёсьць надпіс bug, альбо ўзьнікае нейкая іншая неадназначнасьць)",
     "wrong" : "",
     "comment" : ""
   },
@@ -2954,7 +2954,7 @@
   "id" : 165,
   "originalValue" : "Burundi",
   "tarask" : {
-    "value" : "Бурундзі",
+    "value" : "Буруньдзі",
     "wrong" : "",
     "comment" : "CLDR"
   },
@@ -3530,7 +3530,7 @@
   "id" : 197,
   "originalValue" : "change",
   "tarask" : {
-    "value" : "зьмяніць",
+    "value" : "змяніць",
     "wrong" : "",
     "comment" : ""
   },
@@ -3548,7 +3548,7 @@
   "id" : 198,
   "originalValue" : "changes",
   "tarask" : {
-    "value" : "зьмены",
+    "value" : "змены",
     "wrong" : "",
     "comment" : ""
   },
@@ -3890,7 +3890,7 @@
   "id" : 217,
   "originalValue" : "click",
   "tarask" : {
-    "value" : "націскаць, націснуць, націсніце; націсканьне",
+    "value" : "націскаць, націснуць, націсьніце; націсканьне",
     "wrong" : "пстрык; пстрыкнуць, шчаўчок, клік",
     "comment" : "націсканьне - MS, Google, Samsung\n"
   },
@@ -4484,7 +4484,7 @@
   "id" : 250,
   "originalValue" : "contain",
   "tarask" : {
-    "value" : "зьмяшчаць; утрымліваць",
+    "value" : "змяшчаць; утрымліваць",
     "wrong" : "",
     "comment" : "Samsung, MS"
   },
@@ -4954,7 +4954,7 @@
   "tarask" : {
     "value" : "даныя",
     "wrong" : "даньні, дадзеныя",
-    "comment" : "Калі маецца на ўвазе information, можна «звесткі»"
+    "comment" : "Калі маецца на ўвазе information, можна «зьвесткі»"
   },
   "narkam" : {
     "value" : "даныя",
@@ -5708,9 +5708,9 @@
   "id" : 318,
   "originalValue" : "discard changes",
   "tarask" : {
-    "value" : "адмовіцца ад зьмен",
+    "value" : "адмовіцца ад змен",
     "wrong" : "",
-    "comment" : "MS — адмяніць зьмены, скасаваць зьмены\nАляксандар Шумскі: \"Карацей, як варыянты: discard changes - 1) Адхіліць зьмены (даслоўна) 2) Адмовіцца ад зьмен (больш літаратурна)\""
+    "comment" : "MS — адмяніць змены, скасаваць змены\nАляксандар Шумскі: \"Карацей, як варыянты: discard changes - 1) Адхіліць змены (даслоўна) 2) Адмовіцца ад змен (больш літаратурна)\""
   },
   "narkam" : {
     "value" : "адмовіцца ад змен",
@@ -7076,7 +7076,7 @@
   "id" : 394,
   "originalValue" : "expired",
   "tarask" : {
-    "value" : "тэрмін дзеяньня скончыўся; самазнішчылася (фота); знішчаны (файл)",
+    "value" : "тэрмін дзеяньня скончыўся; самазьнішчылася (фота); зьнішчаны (файл)",
     "wrong" : "",
     "comment" : ""
   },
@@ -7130,7 +7130,7 @@
   "id" : 397,
   "originalValue" : "external",
   "tarask" : {
-    "value" : "знешні",
+    "value" : "зьнешні",
     "wrong" : "",
     "comment" : ""
   },
@@ -8534,7 +8534,7 @@
   "id" : 475,
   "originalValue" : "Guernsey",
   "tarask" : {
-    "value" : "Гернсі",
+    "value" : "Герньсі",
     "wrong" : "",
     "comment" : "CLDR"
   },
@@ -9488,7 +9488,7 @@
   "id" : 528,
   "originalValue" : "info",
   "tarask" : {
-    "value" : "звесткі; інфармацыя",
+    "value" : "зьвесткі; інфармацыя",
     "wrong" : "",
     "comment" : ""
   },
@@ -9506,7 +9506,7 @@
   "id" : 529,
   "originalValue" : "information",
   "tarask" : {
-    "value" : "звесткі; інфармацыя",
+    "value" : "зьвесткі; інфармацыя",
     "wrong" : "",
     "comment" : ""
   },
@@ -10928,7 +10928,7 @@
   "id" : 608,
   "originalValue" : "license",
   "tarask" : {
-    "value" : "ліцэнзія",
+    "value" : "ліцэньзія",
     "wrong" : "",
     "comment" : ""
   },
@@ -11000,7 +11000,7 @@
   "id" : 612,
   "originalValue" : "linked",
   "tarask" : {
-    "value" : "звязаны",
+    "value" : "зьвязаны",
     "wrong" : "",
     "comment" : "Google, Samsung"
   },
@@ -11090,7 +11090,7 @@
   "id" : 617,
   "originalValue" : "location",
   "tarask" : {
-    "value" : "месцазнаходжаньне (геа.); разьмяшчэньне (файла на дыску)",
+    "value" : "месцазнаходжаньне (геа.); размяшчэньне (файла на дыску)",
     "wrong" : "",
     "comment" : ""
   },
@@ -12008,7 +12008,7 @@
   "id" : 668,
   "originalValue" : "merge",
   "tarask" : {
-    "value" : "аб'яднаць; зліццё; merge(Git)",
+    "value" : "аб'яднаць; зліцьцё; merge(Git)",
     "wrong" : "",
     "comment" : ""
   },
@@ -12314,7 +12314,7 @@
   "id" : 685,
   "originalValue" : "modification",
   "tarask" : {
-    "value" : "! зьмяненьне, мадыфікацыя",
+    "value" : "! змяненьне, мадыфікацыя",
     "wrong" : "",
     "comment" : ""
   },
@@ -12350,7 +12350,7 @@
   "id" : 687,
   "originalValue" : "modify",
   "tarask" : {
-    "value" : "зьмяняць",
+    "value" : "змяняць",
     "wrong" : "",
     "comment" : "Samsung"
   },
@@ -12476,7 +12476,7 @@
   "id" : 694,
   "originalValue" : "more information",
   "tarask" : {
-    "value" : "дадатковыя звесткі",
+    "value" : "дадатковыя зьвесткі",
     "wrong" : "",
     "comment" : ""
   },
@@ -15248,7 +15248,7 @@
   "id" : 848,
   "originalValue" : "press",
   "tarask" : {
-    "value" : "націсніце; націскаць",
+    "value" : "націсьніце; націскаць",
     "wrong" : "",
     "comment" : "MS"
   },
@@ -15716,7 +15716,7 @@
   "id" : 874,
   "originalValue" : "pull request",
   "tarask" : {
-    "value" : "pull request, запыт на ўнясеньне зьмяненьняў (Git)",
+    "value" : "pull request, запыт на ўнясеньне змяненьняў (Git)",
     "wrong" : "",
     "comment" : ""
   },
@@ -16544,7 +16544,7 @@
   "id" : 920,
   "originalValue" : "resize",
   "tarask" : {
-    "value" : "зьмяніць памер",
+    "value" : "змяніць памер",
     "wrong" : "",
     "comment" : "Samsung, Google"
   },
@@ -16616,7 +16616,7 @@
   "id" : 924,
   "originalValue" : "restart later",
   "tarask" : {
-    "value" : "перазапусьціць пазней",
+    "value" : "перазапусьціць пазьней",
     "wrong" : "",
     "comment" : "MS"
   },
@@ -17138,7 +17138,7 @@
   "id" : 953,
   "originalValue" : "Saint Vincent and the Grenadines",
   "tarask" : {
-    "value" : "Сент-Вінсент і Грэнадзіны",
+    "value" : "Сент-Віньсент і Грэнадзіны",
     "wrong" : "",
     "comment" : "CLDR"
   },
@@ -17210,7 +17210,7 @@
   "id" : 957,
   "originalValue" : "Sao Tome and Principe",
   "tarask" : {
-    "value" : "Сан-Тамэ й Прынсіпі",
+    "value" : "Сан-Тамэ й Прыньсіпі",
     "wrong" : "",
     "comment" : "CLDR"
   },
@@ -17750,7 +17750,7 @@
   "id" : 987,
   "originalValue" : "separate",
   "tarask" : {
-    "value" : "раздзяліць",
+    "value" : "разьдзяліць",
     "wrong" : "",
     "comment" : ""
   },
@@ -17768,7 +17768,7 @@
   "id" : 988,
   "originalValue" : "separation",
   "tarask" : {
-    "value" : "раздзяленьне",
+    "value" : "разьдзяленьне",
     "wrong" : "",
     "comment" : ""
   },
@@ -17786,7 +17786,7 @@
   "id" : 989,
   "originalValue" : "separator",
   "tarask" : {
-    "value" : "раздзяляльнік",
+    "value" : "разьдзяляльнік",
     "wrong" : "",
     "comment" : "MS"
   },
@@ -18848,7 +18848,7 @@
   "id" : 1048,
   "originalValue" : "split",
   "tarask" : {
-    "value" : "раздзяліць; раздзяленьне",
+    "value" : "разьдзяліць; разьдзяленьне",
     "wrong" : "",
     "comment" : ""
   },
@@ -18866,7 +18866,7 @@
   "id" : 1049,
   "originalValue" : "split bar",
   "tarask" : {
-    "value" : "раздзяляльная панэль",
+    "value" : "разьдзяляльная панэль",
     "wrong" : "",
     "comment" : "Samsung"
   },
@@ -18902,7 +18902,7 @@
   "id" : 1051,
   "originalValue" : "splitter",
   "tarask" : {
-    "value" : "раздзяляльная панэль",
+    "value" : "разьдзяляльная панэль",
     "wrong" : "",
     "comment" : "сінонім split bar"
   },
@@ -19282,7 +19282,7 @@
   "tarask" : {
     "value" : "",
     "wrong" : "",
-    "comment" : "звычайна апускаецца. Перакладайце тады, калі ў тэксьце ёсьць разьмежаваньне на выкананьне аперацыі з памылкамі і, уласна, паспяховае (беспамылковае) выкананьне.\n"
+    "comment" : "звычайна апускаецца. Перакладайце тады, калі ў тэксьце ёсьць размежаваньне на выкананьне аперацыі з памылкамі і, уласна, паспяховае (беспамылковае) выкананьне.\n"
   },
   "narkam" : {
     "value" : "",
@@ -19676,7 +19676,7 @@
   "id" : 1094,
   "originalValue" : "tag",
   "tarask" : {
-    "value" : "цэтлік (ключавое слова); тэг (элемент разьметкі)",
+    "value" : "цэтлік (ключавое слова); тэг (элемент разметкі)",
     "wrong" : "",
     "comment" : "цэтлік — Samsung"
   },
@@ -20090,7 +20090,7 @@
   "id" : 1117,
   "originalValue" : "this",
   "tarask" : {
-    "value" : "гэтая, гэтае, гэтыя, гэты (азначэньне); гэта (частка выказніка)",
+    "value" : "гэтая, гэтае, гэтыя, гэты (азначэньне); гэта (частка выказьніка)",
     "wrong" : "",
     "comment" : "Ubuntu - гэта свабодная аперацыйная сістэма. Гэтае абнаўленьне патрабуе 2МБ месца на дыску. Гэтая прылада не падтрымліваецца."
   },
@@ -20198,7 +20198,7 @@
   "id" : 1123,
   "originalValue" : "tiling",
   "tarask" : {
-    "value" : "разбіццё на пліткі",
+    "value" : "разбіцьцё на пліткі",
     "wrong" : "",
     "comment" : ""
   },
@@ -20792,7 +20792,7 @@
   "id" : 1156,
   "originalValue" : "type",
   "tarask" : {
-    "value" : "тып; ! уводзіць (пароль, звесткі й да т.п.); пісаць (паведамленьне); друкаваць (тэкст у рэдактары)",
+    "value" : "тып; ! уводзіць (пароль, зьвесткі й да т.п.); пісаць (паведамленьне); друкаваць (тэкст у рэдактары)",
     "wrong" : "",
     "comment" : ""
   },
@@ -21459,7 +21459,7 @@
   "originalValue" : "uploader",
   "tarask" : {
     "value" : "запампоўшчык; ! загрузчык",
-    "wrong" : "загрузнік",
+    "wrong" : "загрузьнік",
     "comment" : "Лепш запампоўшчык, бо upload — запампаваць"
   },
   "narkam" : {
@@ -21728,7 +21728,7 @@
   "id" : 1208,
   "originalValue" : "validation",
   "tarask" : {
-    "value" : "! праверка, пацверджаньне",
+    "value" : "! праверка, пацьверджаньне",
     "wrong" : "",
     "comment" : "MS"
   },
