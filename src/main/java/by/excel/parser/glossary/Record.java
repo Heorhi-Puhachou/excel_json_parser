@@ -1,4 +1,4 @@
-package by.excel.parser;
+package by.excel.parser.glossary;
 
 public class Record {
 

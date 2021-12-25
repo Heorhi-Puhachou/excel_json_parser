@@ -14384,58 +14384,40 @@
   "id" : 800,
   "originalValue" : "parse",
   "tarask" : {
-    "value" : "правесьці сінтаксічны аналіз",
+    "value" : "аналіз",
     "wrong" : "",
-    "comment" : ""
+    "comment" : "Samsung"
   },
   "narkam" : {
-    "value" : "правесці сінтаксічны аналіз",
+    "value" : "аналіз",
     "wrong" : "",
-    "comment" : ""
+    "comment" : "Samsung"
   },
   "lacink" : {
-    "value" : "prаvjescі sіntаksіčny аnаlіź",
+    "value" : "аnаlіź",
     "wrong" : "",
-    "comment" : ""
+    "comment" : "Samsung"
   }
 }, {
   "id" : 801,
   "originalValue" : "parser",
   "tarask" : {
-    "value" : "сінтаксічны аналізатар",
+    "value" : "сродак аналізу",
     "wrong" : "",
-    "comment" : ""
+    "comment" : "MS"
   },
   "narkam" : {
-    "value" : "сінтаксічны аналізатар",
+    "value" : "сродак аналізу",
     "wrong" : "",
-    "comment" : ""
+    "comment" : "MS"
   },
   "lacink" : {
-    "value" : "sіntаksіčny аnаlіźаtаr",
+    "value" : "srоdаk аnаlіźu",
     "wrong" : "",
-    "comment" : ""
+    "comment" : "MS"
   }
 }, {
   "id" : 802,
-  "originalValue" : "parsing",
-  "tarask" : {
-    "value" : "сінтаксічны аналіз",
-    "wrong" : "",
-    "comment" : ""
-  },
-  "narkam" : {
-    "value" : "сінтаксічны аналіз",
-    "wrong" : "",
-    "comment" : ""
-  },
-  "lacink" : {
-    "value" : "sіntаksіčny аnаlіź",
-    "wrong" : "",
-    "comment" : ""
-  }
-}, {
-  "id" : 803,
   "originalValue" : "password",
   "tarask" : {
     "value" : "пароль",
@@ -14453,7 +14435,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 804,
+  "id" : 803,
   "originalValue" : "paste",
   "tarask" : {
     "value" : "уставіць",
@@ -14471,7 +14453,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 805,
+  "id" : 804,
   "originalValue" : "pause",
   "tarask" : {
     "value" : "паўза; прыпыніць",
@@ -14489,7 +14471,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 806,
+  "id" : 805,
   "originalValue" : "PB",
   "tarask" : {
     "value" : "ПБ; петабайт",
@@ -14507,7 +14489,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 807,
+  "id" : 806,
   "originalValue" : "PByte",
   "tarask" : {
     "value" : "ПБайт",
@@ -14525,7 +14507,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 808,
+  "id" : 807,
   "originalValue" : "Peer-to-Peer",
   "tarask" : {
     "value" : "P2P",
@@ -14543,7 +14525,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 809,
+  "id" : 808,
   "originalValue" : "pending",
   "tarask" : {
     "value" : "чакаецца",
@@ -14561,7 +14543,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 810,
+  "id" : 809,
   "originalValue" : "Peru",
   "tarask" : {
     "value" : "Перу",
@@ -14579,7 +14561,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 811,
+  "id" : 810,
   "originalValue" : "petabyte",
   "tarask" : {
     "value" : "петабайт",
@@ -14597,7 +14579,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 812,
+  "id" : 811,
   "originalValue" : "petabytes",
   "tarask" : {
     "value" : "петабайты; петабайта",
@@ -14615,7 +14597,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 813,
+  "id" : 812,
   "originalValue" : "Philippines",
   "tarask" : {
     "value" : "Філіпіны",
@@ -14633,7 +14615,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 814,
+  "id" : 813,
   "originalValue" : "photo",
   "tarask" : {
     "value" : "фота",
@@ -14651,7 +14633,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 815,
+  "id" : 814,
   "originalValue" : "picker",
   "tarask" : {
     "value" : "выбар; сродак выбару (элемент інтэрфейса)",
@@ -14669,7 +14651,7 @@
     "comment" : "vybаr — MS, Google\nsrоdаk vybаru — MS"
   }
 }, {
-  "id" : 816,
+  "id" : 815,
   "originalValue" : "picker",
   "tarask" : {
     "value" : "сродак выбару (напр. color picker - сродак выбару колеру)",
@@ -14687,7 +14669,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 817,
+  "id" : 816,
   "originalValue" : "picture",
   "tarask" : {
     "value" : "відарыс; фота (калі гэта фота); малюнак (калі ён намаляваны)",
@@ -14705,7 +14687,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 818,
+  "id" : 817,
   "originalValue" : "picture frame",
   "tarask" : {
     "value" : "фотарамка",
@@ -14723,7 +14705,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 819,
+  "id" : 818,
   "originalValue" : "pink",
   "tarask" : {
     "value" : "ружовы",
@@ -14741,7 +14723,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 820,
+  "id" : 819,
   "originalValue" : "pinned",
   "tarask" : {
     "value" : "замацаваны, замацаваныя",
@@ -14759,7 +14741,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 821,
+  "id" : 820,
   "originalValue" : "Pitcairn",
   "tarask" : {
     "value" : "Астравы Піткэрн",
@@ -14777,7 +14759,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 822,
+  "id" : 821,
   "originalValue" : "pixel per inch",
   "tarask" : {
     "value" : "піксель на цалю",
@@ -14795,7 +14777,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 823,
+  "id" : 822,
   "originalValue" : "pixels per inch",
   "tarask" : {
     "value" : "пікселі на цалю",
@@ -14813,7 +14795,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 824,
+  "id" : 823,
   "originalValue" : "placeholder color",
   "tarask" : {
     "value" : "запаўняльны колер",
@@ -14831,7 +14813,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 825,
+  "id" : 824,
   "originalValue" : "plain text",
   "tarask" : {
     "value" : "звычайны тэкст",
@@ -14849,7 +14831,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 826,
+  "id" : 825,
   "originalValue" : "play",
   "tarask" : {
     "value" : "іграць (музыку); гуляць (у гульню)",
@@ -14867,7 +14849,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 827,
+  "id" : 826,
   "originalValue" : "playback",
   "tarask" : {
     "value" : "прайграваньне",
@@ -14885,7 +14867,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 828,
+  "id" : 827,
   "originalValue" : "player",
   "tarask" : {
     "value" : "прайгравальнік (праграма)",
@@ -14903,7 +14885,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 829,
+  "id" : 828,
   "originalValue" : "playlist",
   "tarask" : {
     "value" : "плэй-ліст",
@@ -14921,7 +14903,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 830,
+  "id" : 829,
   "originalValue" : "plug",
   "tarask" : {
     "value" : "падключыць (фізічны канэкт - як штэкер у гняздо)",
@@ -14939,7 +14921,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 831,
+  "id" : 830,
   "originalValue" : "plug-in",
   "tarask" : {
     "value" : "убудова",
@@ -14957,7 +14939,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 832,
+  "id" : 831,
   "originalValue" : "plugin",
   "tarask" : {
     "value" : "убудова",
@@ -14975,7 +14957,7 @@
     "comment" : "MS, Samsung, Google"
   }
 }, {
-  "id" : 833,
+  "id" : 832,
   "originalValue" : "PM",
   "tarask" : {
     "value" : "PM",
@@ -14993,7 +14975,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 834,
+  "id" : 833,
   "originalValue" : "pointer",
   "tarask" : {
     "value" : "указальнік; указка (лазерная)",
@@ -15011,7 +14993,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 835,
+  "id" : 834,
   "originalValue" : "Poland",
   "tarask" : {
     "value" : "Польшча",
@@ -15029,7 +15011,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 836,
+  "id" : 835,
   "originalValue" : "portrait",
   "tarask" : {
     "value" : "кніжная",
@@ -15047,7 +15029,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 837,
+  "id" : 836,
   "originalValue" : "Portugal",
   "tarask" : {
     "value" : "Партугалія",
@@ -15065,7 +15047,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 838,
+  "id" : 837,
   "originalValue" : "position",
   "tarask" : {
     "value" : "пазіцыя",
@@ -15083,7 +15065,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 839,
+  "id" : 838,
   "originalValue" : "post",
   "tarask" : {
     "value" : "публікаваць; публікацыя; допіс",
@@ -15101,7 +15083,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 840,
+  "id" : 839,
   "originalValue" : "power",
   "tarask" : {
     "value" : "сілкаваньне",
@@ -15119,7 +15101,7 @@
     "comment" : "kаlі nje źrаźumjelа - eljektrаsіlkаvаnnje"
   }
 }, {
-  "id" : 841,
+  "id" : 840,
   "originalValue" : "Power Off",
   "tarask" : {
     "value" : "Выключыць",
@@ -15137,7 +15119,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 842,
+  "id" : 841,
   "originalValue" : "power saving",
   "tarask" : {
     "value" : "энергазберажэньне",
@@ -15155,7 +15137,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 843,
+  "id" : 842,
   "originalValue" : "powered by",
   "tarask" : {
     "value" : "на платформе",
@@ -15173,7 +15155,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 844,
+  "id" : 843,
   "originalValue" : "PRC",
   "tarask" : {
     "value" : "КНР",
@@ -15191,7 +15173,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 845,
+  "id" : 844,
   "originalValue" : "pre-release",
   "tarask" : {
     "value" : "перадфінальны",
@@ -15209,7 +15191,7 @@
     "comment" : "termіn by А. Šumskі)"
   }
 }, {
-  "id" : 846,
+  "id" : 845,
   "originalValue" : "preference",
   "tarask" : {
     "value" : "параметр",
@@ -15227,7 +15209,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 847,
+  "id" : 846,
   "originalValue" : "preset",
   "tarask" : {
     "value" : "перадвызначаная налада",
@@ -15245,7 +15227,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 848,
+  "id" : 847,
   "originalValue" : "press",
   "tarask" : {
     "value" : "націсьніце; націскаць",
@@ -15263,7 +15245,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 849,
+  "id" : 848,
   "originalValue" : "prev",
   "tarask" : {
     "value" : "наз.",
@@ -15281,7 +15263,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 850,
+  "id" : 849,
   "originalValue" : "preview",
   "tarask" : {
     "value" : "перадпрагляд",
@@ -15299,7 +15281,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 851,
+  "id" : 850,
   "originalValue" : "previous",
   "tarask" : {
     "value" : "папярэдні; назад (калі без назоўніка й побач з next)",
@@ -15317,7 +15299,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 852,
+  "id" : 851,
   "originalValue" : "print",
   "tarask" : {
     "value" : "друк",
@@ -15335,7 +15317,7 @@
     "comment" : "MS — druk; drukаvаnnje\nSamsung — druk\nGoogle — druk"
   }
 }, {
-  "id" : 853,
+  "id" : 852,
   "originalValue" : "print preview",
   "tarask" : {
     "value" : "прагляд вобласьці друку",
@@ -15353,7 +15335,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 854,
+  "id" : 853,
   "originalValue" : "printer",
   "tarask" : {
     "value" : "прынтар",
@@ -15371,7 +15353,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 855,
+  "id" : 854,
   "originalValue" : "printing",
   "tarask" : {
     "value" : "друк",
@@ -15389,7 +15371,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 856,
+  "id" : 855,
   "originalValue" : "privacy",
   "tarask" : {
     "value" : "прыватнасьць",
@@ -15407,7 +15389,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 857,
+  "id" : 856,
   "originalValue" : "private",
   "tarask" : {
     "value" : "прыватны",
@@ -15425,7 +15407,7 @@
     "comment" : "Samsung, Google, MS"
   }
 }, {
-  "id" : 858,
+  "id" : 857,
   "originalValue" : "productivity",
   "tarask" : {
     "value" : "прадукцыйнасьць",
@@ -15443,7 +15425,7 @@
     "comment" : "MS, Samsung"
   }
 }, {
-  "id" : 859,
+  "id" : 858,
   "originalValue" : "Profile",
   "tarask" : {
     "value" : "профіль",
@@ -15461,7 +15443,7 @@
     "comment" : "Google, Samsung, MS"
   }
 }, {
-  "id" : 860,
+  "id" : 859,
   "originalValue" : "programming",
   "tarask" : {
     "value" : "праграмаваньне",
@@ -15479,7 +15461,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 861,
+  "id" : 860,
   "originalValue" : "programming language",
   "tarask" : {
     "value" : "мова праграмаваньня",
@@ -15497,7 +15479,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 862,
+  "id" : 861,
   "originalValue" : "progress",
   "tarask" : {
     "value" : "ход выкананьня",
@@ -15515,7 +15497,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 863,
+  "id" : 862,
   "originalValue" : "promotion",
   "tarask" : {
     "value" : "прома-акцыя",
@@ -15533,7 +15515,7 @@
     "comment" : "Google — prоmа-аkcyі; prаmоcyja, prоmа-rоlіk; prаsоŭvаnnje\nSamsung — prоmа-аkcyja\nMS — reklаmа; rаspаŭsjudzvаnnje"
   }
 }, {
-  "id" : 864,
+  "id" : 863,
   "originalValue" : "Promotions",
   "tarask" : {
     "value" : "Прома-акцыі",
@@ -15551,7 +15533,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 865,
+  "id" : 864,
   "originalValue" : "property",
   "tarask" : {
     "value" : "уласьцівасьць; уласьцівасьці",
@@ -15569,7 +15551,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 866,
+  "id" : 865,
   "originalValue" : "protected",
   "tarask" : {
     "value" : "абаронена; абаронены",
@@ -15587,7 +15569,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 867,
+  "id" : 866,
   "originalValue" : "protocol",
   "tarask" : {
     "value" : "пратакол",
@@ -15605,7 +15587,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 868,
+  "id" : 867,
   "originalValue" : "provide",
   "tarask" : {
     "value" : "пастаўляць",
@@ -15623,7 +15605,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 869,
+  "id" : 868,
   "originalValue" : "provider",
   "tarask" : {
     "value" : "пастаўшчык; ! служба",
@@ -15641,7 +15623,7 @@
     "comment" : "Samsung — pаstаŭščyk\nGoogle — sluzbа"
   }
 }, {
-  "id" : 870,
+  "id" : 869,
   "originalValue" : "provides",
   "tarask" : {
     "value" : "забяспечвае",
@@ -15659,7 +15641,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 871,
+  "id" : 870,
   "originalValue" : "public",
   "tarask" : {
     "value" : "публічны; агульнадаступны",
@@ -15677,7 +15659,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 872,
+  "id" : 871,
   "originalValue" : "Puerto Rico",
   "tarask" : {
     "value" : "Пуэрта-Рыка",
@@ -15695,7 +15677,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 873,
+  "id" : 872,
   "originalValue" : "pull",
   "tarask" : {
     "value" : "pull (Git)",
@@ -15713,7 +15695,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 874,
+  "id" : 873,
   "originalValue" : "pull request",
   "tarask" : {
     "value" : "pull request, запыт на ўнясеньне зьмяненьняў (Git)",
@@ -15731,7 +15713,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 875,
+  "id" : 874,
   "originalValue" : "push",
   "tarask" : {
     "value" : "push (Git)",
@@ -15749,7 +15731,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 876,
+  "id" : 875,
   "originalValue" : "Qatar",
   "tarask" : {
     "value" : "Катар",
@@ -15767,7 +15749,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 877,
+  "id" : 876,
   "originalValue" : "question",
   "tarask" : {
     "value" : "пытаньне",
@@ -15785,7 +15767,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 878,
+  "id" : 877,
   "originalValue" : "queue",
   "tarask" : {
     "value" : "чарга",
@@ -15803,7 +15785,7 @@
     "comment" : "Samsung, Google, MS"
   }
 }, {
-  "id" : 879,
+  "id" : 878,
   "originalValue" : "queuing",
   "tarask" : {
     "value" : "арганізацыя чаргі\n",
@@ -15821,7 +15803,7 @@
     "comment" : "Trebа prаvjarаc kаntekst, mаbyc і nje pаdyjdźje"
   }
 }, {
-  "id" : 880,
+  "id" : 879,
   "originalValue" : "quit",
   "tarask" : {
     "value" : "выйсьці з; выйсьці",
@@ -15839,7 +15821,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 881,
+  "id" : 880,
   "originalValue" : "radius",
   "tarask" : {
     "value" : "радыус",
@@ -15857,7 +15839,7 @@
     "comment" : "Аnhlа-bjel"
   }
 }, {
-  "id" : 882,
+  "id" : 881,
   "originalValue" : "raw",
   "tarask" : {
     "value" : "неапрацаваны",
@@ -15875,7 +15857,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 883,
+  "id" : 882,
   "originalValue" : "read",
   "tarask" : {
     "value" : "чытаньне",
@@ -15893,7 +15875,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 884,
+  "id" : 883,
   "originalValue" : "read-only",
   "tarask" : {
     "value" : "толькі для чытаньня",
@@ -15911,7 +15893,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 885,
+  "id" : 884,
   "originalValue" : "reader",
   "tarask" : {
     "value" : "чытальнік",
@@ -15929,7 +15911,7 @@
     "comment" : "Samsung, MS"
   }
 }, {
-  "id" : 886,
+  "id" : 885,
   "originalValue" : "ready",
   "tarask" : {
     "value" : "гатова (праграма), гатовы",
@@ -15947,7 +15929,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 887,
+  "id" : 886,
   "originalValue" : "reboot",
   "tarask" : {
     "value" : "перазагрузка; перазагружаць",
@@ -15965,7 +15947,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 888,
+  "id" : 887,
   "originalValue" : "record",
   "tarask" : {
     "value" : "запіс; запісваць",
@@ -15983,7 +15965,7 @@
     "comment" : "MS, Google"
   }
 }, {
-  "id" : 889,
+  "id" : 888,
   "originalValue" : "recorder",
   "tarask" : {
     "value" : "запіс",
@@ -16001,7 +15983,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 890,
+  "id" : 889,
   "originalValue" : "rectangle",
   "tarask" : {
     "value" : "прамавугольнік",
@@ -16019,7 +16001,7 @@
     "comment" : "Аnhlа-bjel"
   }
 }, {
-  "id" : 891,
+  "id" : 890,
   "originalValue" : "recurring",
   "tarask" : {
     "value" : "шматразовы; перыядычны",
@@ -16037,7 +16019,7 @@
     "comment" : "Samsung — šmаtrаźоvy\nMS — pjeryjadyčny"
   }
 }, {
-  "id" : 892,
+  "id" : 891,
   "originalValue" : "red",
   "tarask" : {
     "value" : "чырвоны",
@@ -16055,7 +16037,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 893,
+  "id" : 892,
   "originalValue" : "redo",
   "tarask" : {
     "value" : "узнавіць",
@@ -16073,7 +16055,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 894,
+  "id" : 893,
   "originalValue" : "refresh",
   "tarask" : {
     "value" : "абнавіць",
@@ -16091,7 +16073,7 @@
     "comment" : "MS, Samsung"
   }
 }, {
-  "id" : 895,
+  "id" : 894,
   "originalValue" : "refreshed",
   "tarask" : {
     "value" : "абноўлены",
@@ -16109,7 +16091,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 896,
+  "id" : 895,
   "originalValue" : "region",
   "tarask" : {
     "value" : "рэгіён",
@@ -16127,7 +16109,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 897,
+  "id" : 896,
   "originalValue" : "regional Formats",
   "tarask" : {
     "value" : "рэгіянальныя фарматы",
@@ -16145,7 +16127,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 898,
+  "id" : 897,
   "originalValue" : "register",
   "tarask" : {
     "value" : "зарэгістравацца",
@@ -16163,7 +16145,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 899,
+  "id" : 898,
   "originalValue" : "registered",
   "tarask" : {
     "value" : "зарэгістраваны",
@@ -16181,7 +16163,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 900,
+  "id" : 899,
   "originalValue" : "reject",
   "tarask" : {
     "value" : "адхіліць",
@@ -16199,7 +16181,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 901,
+  "id" : 900,
   "originalValue" : "rejected",
   "tarask" : {
     "value" : "адхілена",
@@ -16217,7 +16199,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 902,
+  "id" : 901,
   "originalValue" : "release",
   "tarask" : {
     "value" : "выпуск, выпуску",
@@ -16235,7 +16217,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 903,
+  "id" : 902,
   "originalValue" : "relevant",
   "tarask" : {
     "value" : "рэлевантны (выдача ў пошуку); адпаведны; важны; ! істотна",
@@ -16253,7 +16235,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 904,
+  "id" : 903,
   "originalValue" : "remind",
   "tarask" : {
     "value" : "напамінаць; нагадаць",
@@ -16271,7 +16253,7 @@
     "comment" : "MS — nаpоmnіc, nаhаdаc"
   }
 }, {
-  "id" : 905,
+  "id" : 904,
   "originalValue" : "reminder",
   "tarask" : {
     "value" : "напамін",
@@ -16289,7 +16271,7 @@
     "comment" : "Samsung, MS"
   }
 }, {
-  "id" : 906,
+  "id" : 905,
   "originalValue" : "reminders",
   "tarask" : {
     "value" : "напаміны",
@@ -16307,7 +16289,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 907,
+  "id" : 906,
   "originalValue" : "remote",
   "tarask" : {
     "value" : "аддалены; аддалена",
@@ -16325,7 +16307,7 @@
     "comment" : "Google, Samsung, MS"
   }
 }, {
-  "id" : 908,
+  "id" : 907,
   "originalValue" : "remote control",
   "tarask" : {
     "value" : "аддаленае кіраваньне",
@@ -16343,7 +16325,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 909,
+  "id" : 908,
   "originalValue" : "removable",
   "tarask" : {
     "value" : "здымны",
@@ -16361,7 +16343,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 910,
+  "id" : 909,
   "originalValue" : "remove",
   "tarask" : {
     "value" : "выдаліць",
@@ -16379,7 +16361,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 911,
+  "id" : 910,
   "originalValue" : "removed",
   "tarask" : {
     "value" : "выдаліў(-ла); выдалены",
@@ -16397,7 +16379,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 912,
+  "id" : 911,
   "originalValue" : "rename",
   "tarask" : {
     "value" : "перайменаваць",
@@ -16415,7 +16397,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 913,
+  "id" : 912,
   "originalValue" : "repeat",
   "tarask" : {
     "value" : "паўтараць; паўтарэньне",
@@ -16433,7 +16415,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 914,
+  "id" : 913,
   "originalValue" : "report",
   "tarask" : {
     "value" : "справаздача",
@@ -16451,7 +16433,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 915,
+  "id" : 914,
   "originalValue" : "repository",
   "tarask" : {
     "value" : "рэпазіторый (Git)",
@@ -16469,7 +16451,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 916,
+  "id" : 915,
   "originalValue" : "request",
   "tarask" : {
     "value" : "запыт",
@@ -16487,7 +16469,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 917,
+  "id" : 916,
   "originalValue" : "require",
   "tarask" : {
     "value" : "патрабаваць",
@@ -16505,7 +16487,7 @@
     "comment" : "MS, Samsung"
   }
 }, {
-  "id" : 918,
+  "id" : 917,
   "originalValue" : "required",
   "tarask" : {
     "value" : "патрабуецца; ! абавязкова",
@@ -16523,7 +16505,7 @@
     "comment" : "pаtrаbujeccа — Samsung"
   }
 }, {
-  "id" : 919,
+  "id" : 918,
   "originalValue" : "reset",
   "tarask" : {
     "value" : "скінуць; скід",
@@ -16541,7 +16523,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 920,
+  "id" : 919,
   "originalValue" : "resize",
   "tarask" : {
     "value" : "зьмяніць памер",
@@ -16559,7 +16541,7 @@
     "comment" : "Samsung, Google"
   }
 }, {
-  "id" : 921,
+  "id" : 920,
   "originalValue" : "resolving",
   "tarask" : {
     "value" : "! вырашэньне",
@@ -16577,7 +16559,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 922,
+  "id" : 921,
   "originalValue" : "response",
   "tarask" : {
     "value" : "адказ; водгук",
@@ -16595,7 +16577,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 923,
+  "id" : 922,
   "originalValue" : "restart",
   "tarask" : {
     "value" : "перазапуск; перазапусьціць",
@@ -16613,7 +16595,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 924,
+  "id" : 923,
   "originalValue" : "restart later",
   "tarask" : {
     "value" : "перазапусьціць пазьней",
@@ -16631,7 +16613,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 925,
+  "id" : 924,
   "originalValue" : "restart now",
   "tarask" : {
     "value" : "перазапусьціць",
@@ -16649,7 +16631,7 @@
     "comment" : "MS — Pjerаźаpuscіc, Pjerаźаpuscіc źаrаź"
   }
 }, {
-  "id" : 926,
+  "id" : 925,
   "originalValue" : "restore",
   "tarask" : {
     "value" : "аднавіць",
@@ -16667,7 +16649,7 @@
     "comment" : "Samsung, Google, MS"
   }
 }, {
-  "id" : 927,
+  "id" : 926,
   "originalValue" : "restoring",
   "tarask" : {
     "value" : "аднаўленьне",
@@ -16685,7 +16667,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 928,
+  "id" : 927,
   "originalValue" : "restrict",
   "tarask" : {
     "value" : "абмежаваць",
@@ -16703,7 +16685,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 929,
+  "id" : 928,
   "originalValue" : "restricted",
   "tarask" : {
     "value" : "абмежавана; абмежаваны",
@@ -16721,7 +16703,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 930,
+  "id" : 929,
   "originalValue" : "result",
   "tarask" : {
     "value" : "вынік",
@@ -16739,7 +16721,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 931,
+  "id" : 930,
   "originalValue" : "resume",
   "tarask" : {
     "value" : "узнавіць",
@@ -16757,7 +16739,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 932,
+  "id" : 931,
   "originalValue" : "Réunion",
   "tarask" : {
     "value" : "Рэюньён",
@@ -16775,7 +16757,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 933,
+  "id" : 932,
   "originalValue" : "revert",
   "tarask" : {
     "value" : "! ск­інуць",
@@ -16793,7 +16775,7 @@
     "comment" : "hl. reset"
   }
 }, {
-  "id" : 934,
+  "id" : 933,
   "originalValue" : "rights",
   "tarask" : {
     "value" : "правы",
@@ -16811,7 +16793,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 935,
+  "id" : 934,
   "originalValue" : "Romania",
   "tarask" : {
     "value" : "Румынія",
@@ -16829,7 +16811,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 936,
+  "id" : 935,
   "originalValue" : "rotate",
   "tarask" : {
     "value" : "павярнуць",
@@ -16847,7 +16829,7 @@
     "comment" : "Google, Samsung, MS"
   }
 }, {
-  "id" : 937,
+  "id" : 936,
   "originalValue" : "rotation",
   "tarask" : {
     "value" : "паварот",
@@ -16865,7 +16847,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 938,
+  "id" : 937,
   "originalValue" : "router",
   "tarask" : {
     "value" : "маршрутызатар",
@@ -16883,7 +16865,7 @@
     "comment" : "ms, samsung"
   }
 }, {
-  "id" : 939,
+  "id" : 938,
   "originalValue" : "row",
   "tarask" : {
     "value" : "радок",
@@ -16901,7 +16883,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 940,
+  "id" : 939,
   "originalValue" : "run",
   "tarask" : {
     "value" : "выконваць; выканаць (каманду); запусьціць (камп’ютар)",
@@ -16919,7 +16901,7 @@
     "comment" : "Samsung, MS"
   }
 }, {
-  "id" : 941,
+  "id" : 940,
   "originalValue" : "running",
   "tarask" : {
     "value" : "выкананьне; запуск",
@@ -16937,7 +16919,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 942,
+  "id" : 941,
   "originalValue" : "Russia",
   "tarask" : {
     "value" : "Расія",
@@ -16955,7 +16937,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 943,
+  "id" : 942,
   "originalValue" : "Rwanda",
   "tarask" : {
     "value" : "Руанда",
@@ -16973,7 +16955,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 944,
+  "id" : 943,
   "originalValue" : "s",
   "tarask" : {
     "value" : "с (секунда); секунда",
@@ -16991,7 +16973,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 945,
+  "id" : 944,
   "originalValue" : "safe",
   "tarask" : {
     "value" : "бяспечны",
@@ -17009,7 +16991,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 946,
+  "id" : 945,
   "originalValue" : "safely",
   "tarask" : {
     "value" : "бяспечна",
@@ -17027,7 +17009,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 947,
+  "id" : 946,
   "originalValue" : "safety\n",
   "tarask" : {
     "value" : "бяспека",
@@ -17045,7 +17027,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 948,
+  "id" : 947,
   "originalValue" : "Saint Barthélemy",
   "tarask" : {
     "value" : "Сен-Бартэльмі",
@@ -17063,7 +17045,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 949,
+  "id" : 948,
   "originalValue" : "Saint Kitts and Nevis",
   "tarask" : {
     "value" : "Сент-Кітс і Невіс",
@@ -17081,7 +17063,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 950,
+  "id" : 949,
   "originalValue" : "Saint Lucia",
   "tarask" : {
     "value" : "Сент-Люсія",
@@ -17099,7 +17081,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 951,
+  "id" : 950,
   "originalValue" : "Saint Martin",
   "tarask" : {
     "value" : "Сен-Мартэн",
@@ -17117,7 +17099,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 952,
+  "id" : 951,
   "originalValue" : "Saint Pierre and Miquelon",
   "tarask" : {
     "value" : "Сен-П’ер і Мікелон",
@@ -17135,7 +17117,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 953,
+  "id" : 952,
   "originalValue" : "Saint Vincent and the Grenadines",
   "tarask" : {
     "value" : "Сент-Віньсент і Грэнадзіны",
@@ -17153,7 +17135,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 954,
+  "id" : 953,
   "originalValue" : "Samoa",
   "tarask" : {
     "value" : "Самоа",
@@ -17171,7 +17153,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 955,
+  "id" : 954,
   "originalValue" : "San Marino",
   "tarask" : {
     "value" : "Сан-Марына",
@@ -17189,7 +17171,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 956,
+  "id" : 955,
   "originalValue" : "São Tomé",
   "tarask" : {
     "value" : "Сан-Тамэ",
@@ -17207,7 +17189,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 957,
+  "id" : 956,
   "originalValue" : "Sao Tome and Principe",
   "tarask" : {
     "value" : "Сан-Тамэ й Прыньсіпі",
@@ -17225,7 +17207,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 958,
+  "id" : 957,
   "originalValue" : "saturation\n",
   "tarask" : {
     "value" : "насычанасьць",
@@ -17243,7 +17225,7 @@
     "comment" : "Samsung, Google"
   }
 }, {
-  "id" : 959,
+  "id" : 958,
   "originalValue" : "Saudi Arabia",
   "tarask" : {
     "value" : "Саудаўская Аравія",
@@ -17261,7 +17243,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 960,
+  "id" : 959,
   "originalValue" : "save",
   "tarask" : {
     "value" : "захаваць",
@@ -17279,7 +17261,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 961,
+  "id" : 960,
   "originalValue" : "save as",
   "tarask" : {
     "value" : "захаваць як",
@@ -17297,7 +17279,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 962,
+  "id" : 961,
   "originalValue" : "saving",
   "tarask" : {
     "value" : "захаваньне",
@@ -17315,7 +17297,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 963,
+  "id" : 962,
   "originalValue" : "scale",
   "tarask" : {
     "value" : "шкала; маштаб",
@@ -17333,7 +17315,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 964,
+  "id" : 963,
   "originalValue" : "scans",
   "tarask" : {
     "value" : "сканаваныя дакументы",
@@ -17351,7 +17333,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 965,
+  "id" : 964,
   "originalValue" : "schedule",
   "tarask" : {
     "value" : "расклад; запланаваць; планаваньне; графік",
@@ -17369,7 +17351,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 966,
+  "id" : 965,
   "originalValue" : "science",
   "tarask" : {
     "value" : "навука",
@@ -17387,7 +17369,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 967,
+  "id" : 966,
   "originalValue" : "Scotland",
   "tarask" : {
     "value" : "Шатландыя",
@@ -17405,7 +17387,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 968,
+  "id" : 967,
   "originalValue" : "screen",
   "tarask" : {
     "value" : "экран",
@@ -17423,7 +17405,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 969,
+  "id" : 968,
   "originalValue" : "screen capture",
   "tarask" : {
     "value" : "здымак экрана; здымак",
@@ -17441,7 +17423,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 970,
+  "id" : 969,
   "originalValue" : "screen reader",
   "tarask" : {
     "value" : "чытаньне з экрана",
@@ -17459,7 +17441,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 971,
+  "id" : 970,
   "originalValue" : "screenshot",
   "tarask" : {
     "value" : "здымак экрана; здымак",
@@ -17477,7 +17459,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 972,
+  "id" : 971,
   "originalValue" : "script",
   "tarask" : {
     "value" : "пісьмо (арабскае, кітайскае); скрыпт, ! сцэнарый",
@@ -17495,7 +17477,7 @@
     "comment" : "MS — skrypt, scenаryj\nSamsung — scenаryj"
   }
 }, {
-  "id" : 973,
+  "id" : 972,
   "originalValue" : "scroll",
   "tarask" : {
     "value" : "прагортваць; прагортка",
@@ -17513,7 +17495,7 @@
     "comment" : "Google, Samsung"
   }
 }, {
-  "id" : 974,
+  "id" : 973,
   "originalValue" : "search",
   "tarask" : {
     "value" : "шукаць; пошук",
@@ -17531,7 +17513,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 975,
+  "id" : 974,
   "originalValue" : "search web",
   "tarask" : {
     "value" : "шукаць у інтэрнэце",
@@ -17549,7 +17531,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 976,
+  "id" : 975,
   "originalValue" : "second",
   "tarask" : {
     "value" : "секунда (мера часу); другі",
@@ -17567,7 +17549,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 977,
+  "id" : 976,
   "originalValue" : "secure",
   "tarask" : {
     "value" : "абаронены; бяспечны",
@@ -17585,7 +17567,7 @@
     "comment" : "Samsung, MS"
   }
 }, {
-  "id" : 978,
+  "id" : 977,
   "originalValue" : "security",
   "tarask" : {
     "value" : "бяспека",
@@ -17603,7 +17585,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 979,
+  "id" : 978,
   "originalValue" : "select",
   "tarask" : {
     "value" : "выбраць; выбар",
@@ -17621,7 +17603,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 980,
+  "id" : 979,
   "originalValue" : "selected",
   "tarask" : {
     "value" : "выбранае",
@@ -17639,7 +17621,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 981,
+  "id" : 980,
   "originalValue" : "selected area",
   "tarask" : {
     "value" : "выбраная вобласьць",
@@ -17657,7 +17639,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 982,
+  "id" : 981,
   "originalValue" : "selection",
   "tarask" : {
     "value" : "вылучэньне (працэс); вылучанае",
@@ -17675,7 +17657,7 @@
     "comment" : "MS — vylučаnаje; Samsung — vylučennje"
   }
 }, {
-  "id" : 983,
+  "id" : 982,
   "originalValue" : "selection mode",
   "tarask" : {
     "value" : "рэжым вылучэньня",
@@ -17693,7 +17675,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 984,
+  "id" : 983,
   "originalValue" : "send",
   "tarask" : {
     "value" : "адправіць",
@@ -17711,7 +17693,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 985,
+  "id" : 984,
   "originalValue" : "sender",
   "tarask" : {
     "value" : "адпраўнік",
@@ -17729,7 +17711,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 986,
+  "id" : 985,
   "originalValue" : "Senegal",
   "tarask" : {
     "value" : "Сенегал",
@@ -17747,7 +17729,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 987,
+  "id" : 986,
   "originalValue" : "separate",
   "tarask" : {
     "value" : "разьдзяліць",
@@ -17765,7 +17747,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 988,
+  "id" : 987,
   "originalValue" : "separation",
   "tarask" : {
     "value" : "разьдзяленьне",
@@ -17783,7 +17765,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 989,
+  "id" : 988,
   "originalValue" : "separator",
   "tarask" : {
     "value" : "разьдзяляльнік",
@@ -17801,7 +17783,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 990,
+  "id" : 989,
   "originalValue" : "sepia",
   "tarask" : {
     "value" : "сепія",
@@ -17819,7 +17801,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 991,
+  "id" : 990,
   "originalValue" : "Serbia",
   "tarask" : {
     "value" : "Сербія",
@@ -17837,7 +17819,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 992,
+  "id" : 991,
   "originalValue" : "server",
   "tarask" : {
     "value" : "сервер",
@@ -17855,7 +17837,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 993,
+  "id" : 992,
   "originalValue" : "service",
   "tarask" : {
     "value" : "сэрвіс",
@@ -17873,7 +17855,7 @@
     "comment" : "Samsung, Google"
   }
 }, {
-  "id" : 994,
+  "id" : 993,
   "originalValue" : "service agreement",
   "tarask" : {
     "value" : "пагадненьне на абслугоўваньне",
@@ -17891,7 +17873,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 995,
+  "id" : 994,
   "originalValue" : "services agreement",
   "tarask" : {
     "value" : "пагадненьне аб выкарыстаньні сэрвісаў",
@@ -17909,7 +17891,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 996,
+  "id" : 995,
   "originalValue" : "session",
   "tarask" : {
     "value" : "сеанс",
@@ -17927,7 +17909,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 997,
+  "id" : 996,
   "originalValue" : "set",
   "tarask" : {
     "value" : "задаць",
@@ -17945,7 +17927,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 998,
+  "id" : 997,
   "originalValue" : "set up",
   "tarask" : {
     "value" : "наладзіць; наладка",
@@ -17963,7 +17945,7 @@
     "comment" : "Google, Samsung"
   }
 }, {
-  "id" : 999,
+  "id" : 998,
   "originalValue" : "setting",
   "tarask" : {
     "value" : "налада",
@@ -17981,7 +17963,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1000,
+  "id" : 999,
   "originalValue" : "settings",
   "tarask" : {
     "value" : "налады, налад",
@@ -17999,7 +17981,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1001,
+  "id" : 1000,
   "originalValue" : "setup",
   "tarask" : {
     "value" : "наладжваньне (працэс); усталяваньне (app setup), усталяваць",
@@ -18017,7 +17999,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1002,
+  "id" : 1001,
   "originalValue" : "setup",
   "tarask" : {
     "value" : "наладжваньне; наладка",
@@ -18035,7 +18017,7 @@
     "comment" : "Google, Samsung"
   }
 }, {
-  "id" : 1003,
+  "id" : 1002,
   "originalValue" : "Seychelles",
   "tarask" : {
     "value" : "Сейшэльскія астравы",
@@ -18053,7 +18035,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1004,
+  "id" : 1003,
   "originalValue" : "share",
   "tarask" : {
     "value" : "абагуліць",
@@ -18071,7 +18053,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1005,
+  "id" : 1004,
   "originalValue" : "shared",
   "tarask" : {
     "value" : "абагулены",
@@ -18089,7 +18071,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1006,
+  "id" : 1005,
   "originalValue" : "shelf",
   "tarask" : {
     "value" : "паліца",
@@ -18107,7 +18089,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1007,
+  "id" : 1006,
   "originalValue" : "shell",
   "tarask" : {
     "value" : "абалонка",
@@ -18125,7 +18107,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1008,
+  "id" : 1007,
   "originalValue" : "shortcut",
   "tarask" : {
     "value" : "ярлык; спалучэньне клавіш",
@@ -18143,7 +18125,7 @@
     "comment" : "MS — jarlyk; cetlіk\nGoogle — jarlyk; spаlučennje klаvіš\nSamsung — jarlyk"
   }
 }, {
-  "id" : 1009,
+  "id" : 1008,
   "originalValue" : "shortcut menu",
   "tarask" : {
     "value" : "кантэкстнае меню",
@@ -18161,7 +18143,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1010,
+  "id" : 1009,
   "originalValue" : "shortcuts pane",
   "tarask" : {
     "value" : "вобласьць ярлыкоў",
@@ -18179,7 +18161,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1011,
+  "id" : 1010,
   "originalValue" : "show",
   "tarask" : {
     "value" : "паказаць",
@@ -18197,7 +18179,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1012,
+  "id" : 1011,
   "originalValue" : "Sierra Leone",
   "tarask" : {
     "value" : "Сьера-Леонэ",
@@ -18215,7 +18197,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1013,
+  "id" : 1012,
   "originalValue" : "sign in",
   "tarask" : {
     "value" : "увайсьці",
@@ -18233,7 +18215,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1014,
+  "id" : 1013,
   "originalValue" : "sign in with",
   "tarask" : {
     "value" : "увайсьці праз",
@@ -18251,7 +18233,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1015,
+  "id" : 1014,
   "originalValue" : "signed",
   "tarask" : {
     "value" : "падпісаны",
@@ -18269,7 +18251,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1016,
+  "id" : 1015,
   "originalValue" : "significant",
   "tarask" : {
     "value" : "значны",
@@ -18287,7 +18269,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1017,
+  "id" : 1016,
   "originalValue" : "Singapore",
   "tarask" : {
     "value" : "Сінгапур",
@@ -18305,7 +18287,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1018,
+  "id" : 1017,
   "originalValue" : "site",
   "tarask" : {
     "value" : "сайт",
@@ -18323,7 +18305,7 @@
     "comment" : "Samsung — veb-sаjt; sаjt\nMS — sаjt"
   }
 }, {
-  "id" : 1019,
+  "id" : 1018,
   "originalValue" : "size",
   "tarask" : {
     "value" : "памер",
@@ -18341,7 +18323,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1020,
+  "id" : 1019,
   "originalValue" : "slide",
   "tarask" : {
     "value" : "слайд",
@@ -18359,7 +18341,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1021,
+  "id" : 1020,
   "originalValue" : "slide show",
   "tarask" : {
     "value" : "слайд-шоў",
@@ -18377,7 +18359,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1022,
+  "id" : 1021,
   "originalValue" : "slider",
   "tarask" : {
     "value" : "паўзунок",
@@ -18395,7 +18377,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1023,
+  "id" : 1022,
   "originalValue" : "sliders",
   "tarask" : {
     "value" : "паўзункі",
@@ -18413,7 +18395,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1024,
+  "id" : 1023,
   "originalValue" : "slideshow",
   "tarask" : {
     "value" : "паказ слайдаў",
@@ -18431,7 +18413,7 @@
     "comment" : "Samsung\nGoogle — slаjd-šоu"
   }
 }, {
-  "id" : 1025,
+  "id" : 1024,
   "originalValue" : "Slovakia",
   "tarask" : {
     "value" : "Славакія",
@@ -18449,7 +18431,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1026,
+  "id" : 1025,
   "originalValue" : "Slovenia",
   "tarask" : {
     "value" : "Славенія",
@@ -18467,7 +18449,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1027,
+  "id" : 1026,
   "originalValue" : "Slow Keys",
   "tarask" : {
     "value" : "! Павольныя клавішы",
@@ -18485,7 +18467,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1028,
+  "id" : 1027,
   "originalValue" : "soft fail",
   "tarask" : {
     "value" : "некрытычная памылка",
@@ -18503,7 +18485,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1029,
+  "id" : 1028,
   "originalValue" : "software",
   "tarask" : {
     "value" : "праграмнае забеспячэньне; ПЗ",
@@ -18521,7 +18503,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1030,
+  "id" : 1029,
   "originalValue" : "software update",
   "tarask" : {
     "value" : "абнаўленьне ПЗ; абнаўленьне праграмнага забеспячэньня",
@@ -18539,7 +18521,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1031,
+  "id" : 1030,
   "originalValue" : "Software Updater",
   "tarask" : {
     "value" : "Абнаўленьне праграм",
@@ -18557,7 +18539,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1032,
+  "id" : 1031,
   "originalValue" : "Solomon Islands",
   "tarask" : {
     "value" : "Саламонавы астравы",
@@ -18575,7 +18557,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1033,
+  "id" : 1032,
   "originalValue" : "Somalia",
   "tarask" : {
     "value" : "Самалі",
@@ -18593,7 +18575,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1034,
+  "id" : 1033,
   "originalValue" : "sorry",
   "tarask" : {
     "value" : "выбачайце",
@@ -18611,7 +18593,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1035,
+  "id" : 1034,
   "originalValue" : "sort",
   "tarask" : {
     "value" : "сартаваць; сартаваньне",
@@ -18629,7 +18611,7 @@
     "comment" : "Samsung — sаrtаvаc\nMS — sаrtаvаc, upаrаdkоŭvаc; upаrаdkаvаnnje, sаrtаvаnnje, sаrcіrоŭkа"
   }
 }, {
-  "id" : 1036,
+  "id" : 1035,
   "originalValue" : "sort by",
   "tarask" : {
     "value" : "сартаваць",
@@ -18647,7 +18629,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1037,
+  "id" : 1036,
   "originalValue" : "sound",
   "tarask" : {
     "value" : "гук",
@@ -18665,7 +18647,7 @@
     "comment" : "MS, Google, Samsung"
   }
 }, {
-  "id" : 1038,
+  "id" : 1037,
   "originalValue" : "sound card",
   "tarask" : {
     "value" : "гукавая карта",
@@ -18683,7 +18665,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1039,
+  "id" : 1038,
   "originalValue" : "source",
   "tarask" : {
     "value" : "крыніца",
@@ -18701,7 +18683,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1040,
+  "id" : 1039,
   "originalValue" : "source file",
   "tarask" : {
     "value" : "зыходны файл",
@@ -18719,7 +18701,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1041,
+  "id" : 1040,
   "originalValue" : "South Africa",
   "tarask" : {
     "value" : "Паўднёва-Афрыканская Рэспубліка",
@@ -18737,7 +18719,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1042,
+  "id" : 1041,
   "originalValue" : "South Georgia and the South Sandwich Islands",
   "tarask" : {
     "value" : "Паўднёвая Георгія й Паўднёвыя Сандвічавы астравы",
@@ -18755,7 +18737,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1043,
+  "id" : 1042,
   "originalValue" : "South Korea",
   "tarask" : {
     "value" : "Паўднёвая Карэя",
@@ -18773,7 +18755,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1044,
+  "id" : 1043,
   "originalValue" : "space",
   "tarask" : {
     "value" : "прабел; прастора",
@@ -18791,7 +18773,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1045,
+  "id" : 1044,
   "originalValue" : "spacing",
   "tarask" : {
     "value" : "інтэрвал",
@@ -18809,7 +18791,7 @@
     "comment" : "Samsung, MS"
   }
 }, {
-  "id" : 1046,
+  "id" : 1045,
   "originalValue" : "Spain",
   "tarask" : {
     "value" : "Іспанія",
@@ -18827,7 +18809,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1047,
+  "id" : 1046,
   "originalValue" : "speed\n",
   "tarask" : {
     "value" : "хуткасьць; хуткі",
@@ -18845,7 +18827,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1048,
+  "id" : 1047,
   "originalValue" : "split",
   "tarask" : {
     "value" : "разьдзяліць; разьдзяленьне",
@@ -18863,7 +18845,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1049,
+  "id" : 1048,
   "originalValue" : "split bar",
   "tarask" : {
     "value" : "разьдзяляльная панэль",
@@ -18881,7 +18863,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1050,
+  "id" : 1049,
   "originalValue" : "split view",
   "tarask" : {
     "value" : "падзелены экран",
@@ -18899,7 +18881,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1051,
+  "id" : 1050,
   "originalValue" : "splitter",
   "tarask" : {
     "value" : "разьдзяляльная панэль",
@@ -18917,7 +18899,7 @@
     "comment" : "sіnоnіm split bar"
   }
 }, {
-  "id" : 1052,
+  "id" : 1051,
   "originalValue" : "Sri Lanka",
   "tarask" : {
     "value" : "Шры-Ланка",
@@ -18935,7 +18917,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1053,
+  "id" : 1052,
   "originalValue" : "St. Helena",
   "tarask" : {
     "value" : "Востраў Святой Алены",
@@ -18953,7 +18935,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1054,
+  "id" : 1053,
   "originalValue" : "starred",
   "tarask" : {
     "value" : "! абранае (favorites)",
@@ -18971,7 +18953,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1055,
+  "id" : 1054,
   "originalValue" : "start",
   "tarask" : {
     "value" : "запусьціць; пуск",
@@ -18989,7 +18971,7 @@
     "comment" : "MS — Pusk, Źаpusk"
   }
 }, {
-  "id" : 1056,
+  "id" : 1055,
   "originalValue" : "startup",
   "tarask" : {
     "value" : "запуск; запусьціць; аўтазапуск",
@@ -19007,7 +18989,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1057,
+  "id" : 1056,
   "originalValue" : "statistics",
   "tarask" : {
     "value" : "статыстыка",
@@ -19025,7 +19007,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1058,
+  "id" : 1057,
   "originalValue" : "status",
   "tarask" : {
     "value" : "стан",
@@ -19043,7 +19025,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1059,
+  "id" : 1058,
   "originalValue" : "Sticky Keys",
   "tarask" : {
     "value" : "! Ліпкія клавішы",
@@ -19061,7 +19043,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1060,
+  "id" : 1059,
   "originalValue" : "storage",
   "tarask" : {
     "value" : "сховішча",
@@ -19079,7 +19061,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1061,
+  "id" : 1060,
   "originalValue" : "store",
   "tarask" : {
     "value" : "крама",
@@ -19097,7 +19079,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1062,
+  "id" : 1061,
   "originalValue" : "store page",
   "tarask" : {
     "value" : "старонка выканаўцы (муз.)",
@@ -19115,7 +19097,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1063,
+  "id" : 1062,
   "originalValue" : "storing",
   "tarask" : {
     "value" : "захоўваньне",
@@ -19133,7 +19115,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1064,
+  "id" : 1063,
   "originalValue" : "story",
   "tarask" : {
     "value" : "гісторыя",
@@ -19151,7 +19133,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1065,
+  "id" : 1064,
   "originalValue" : "stream",
   "tarask" : {
     "value" : "плынь",
@@ -19169,7 +19151,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1066,
+  "id" : 1065,
   "originalValue" : "subfolder",
   "tarask" : {
     "value" : "падпапка\n",
@@ -19187,7 +19169,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1067,
+  "id" : 1066,
   "originalValue" : "subscription",
   "tarask" : {
     "value" : "падпіска",
@@ -19205,7 +19187,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1068,
+  "id" : 1067,
   "originalValue" : "subsequent",
   "tarask" : {
     "value" : "наступны",
@@ -19223,7 +19205,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1069,
+  "id" : 1068,
   "originalValue" : "subsequent events",
   "tarask" : {
     "value" : "наступныя падзеі",
@@ -19241,7 +19223,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1070,
+  "id" : 1069,
   "originalValue" : "subtitle",
   "tarask" : {
     "value" : "субцітр",
@@ -19259,7 +19241,7 @@
     "comment" : "Google, Samsung"
   }
 }, {
-  "id" : 1071,
+  "id" : 1070,
   "originalValue" : "subtitles",
   "tarask" : {
     "value" : "субцітры",
@@ -19277,7 +19259,7 @@
     "comment" : "MS, Google"
   }
 }, {
-  "id" : 1072,
+  "id" : 1071,
   "originalValue" : "successfully",
   "tarask" : {
     "value" : "",
@@ -19295,7 +19277,7 @@
     "comment" : "źvyčаjnа аpuskаjeccа. Pjerаklаdаjcje tаdy, kаlі ŭ tekscje josc rаźmjezаvаnnje nа vykаnаnnje аpjerаcyі ź pаmylkаmі і, ulаsnа, pаspjachоvаje (bjespаmylkоvаje) vykаnаnnje.\n"
   }
 }, {
-  "id" : 1073,
+  "id" : 1072,
   "originalValue" : "Sudan",
   "tarask" : {
     "value" : "Судан",
@@ -19313,7 +19295,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1074,
+  "id" : 1073,
   "originalValue" : "summary",
   "tarask" : {
     "value" : "зводка",
@@ -19331,7 +19313,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1075,
+  "id" : 1074,
   "originalValue" : "support",
   "tarask" : {
     "value" : "падтрымка, падтрымкі",
@@ -19349,7 +19331,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1076,
+  "id" : 1075,
   "originalValue" : "support team",
   "tarask" : {
     "value" : "група падтрымкі",
@@ -19367,7 +19349,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1077,
+  "id" : 1076,
   "originalValue" : "supported",
   "tarask" : {
     "value" : "што падтрымліваецца",
@@ -19385,7 +19367,7 @@
     "comment" : "U kаntekscje mоznа і pjerаfаrmuljavаc. N-d: \"Pаdtrymlіvаjuccа mоvy:\""
   }
 }, {
-  "id" : 1078,
+  "id" : 1077,
   "originalValue" : "Suriname",
   "tarask" : {
     "value" : "Сурынам",
@@ -19403,7 +19385,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1079,
+  "id" : 1078,
   "originalValue" : "suspend",
   "tarask" : {
     "value" : "прыпыніць [працу камп'ютара]; прыпыненьне [працы камп'ютара]",
@@ -19421,7 +19403,7 @@
     "comment" : "prypynіc — Google, MS\nPоbаč ź pjerаźаhruźіc і vyključyc budźje nаturаlnjej vyhljadаc prоstа prypynіc.\nDlja іnšych vypаdkаŭ, dźje ŭmjaščаjeccа pіšаm pоŭnаscju try аbо dvа(bjeź \"prаcu\") slоvy ź pjerаvаhаj u bоk pjeršаj fоrmy."
   }
 }, {
-  "id" : 1080,
+  "id" : 1079,
   "originalValue" : "Svalbard and Jan Mayen",
   "tarask" : {
     "value" : "Шпіцберген і Ян-Маен",
@@ -19439,7 +19421,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1081,
+  "id" : 1080,
   "originalValue" : "Swaziland",
   "tarask" : {
     "value" : "Эсватыні (калі няма парэбы захоўваць старую назву); Свазіленд",
@@ -19457,7 +19439,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1082,
+  "id" : 1081,
   "originalValue" : "Sweden",
   "tarask" : {
     "value" : "Швецыя",
@@ -19475,7 +19457,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1083,
+  "id" : 1082,
   "originalValue" : "swipe",
   "tarask" : {
     "value" : "правесьці пальцам; прагартаць",
@@ -19493,7 +19475,7 @@
     "comment" : "MS — stuknuc, vybrаc, čyrkаnnje, čyrknuc, prаkrutkа, аdźіnkаvаje pаstukvаnnje\nGoogle — prаvjescі pаlcаm, prаhаrtаc\nSamsung — prаvjadźjennje"
   }
 }, {
-  "id" : 1084,
+  "id" : 1083,
   "originalValue" : "switch",
   "tarask" : {
     "value" : "пераключыцца, пераключыць; пераключальнік",
@@ -19511,7 +19493,7 @@
     "comment" : "pjerаključyccа — Samsung\npjerаključаlnіk — Samsung, Google, MS"
   }
 }, {
-  "id" : 1085,
+  "id" : 1084,
   "originalValue" : "Switzerland",
   "tarask" : {
     "value" : "Швейцарыя",
@@ -19529,7 +19511,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1086,
+  "id" : 1085,
   "originalValue" : "symmetry",
   "tarask" : {
     "value" : "сіметрыя",
@@ -19547,7 +19529,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1087,
+  "id" : 1086,
   "originalValue" : "symmetryc",
   "tarask" : {
     "value" : "сіметрычны",
@@ -19565,7 +19547,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1088,
+  "id" : 1087,
   "originalValue" : "synchronization",
   "tarask" : {
     "value" : "сінхранізацыя",
@@ -19583,7 +19565,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1089,
+  "id" : 1088,
   "originalValue" : "synchronize",
   "tarask" : {
     "value" : "сінхранізаваць",
@@ -19601,7 +19583,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1090,
+  "id" : 1089,
   "originalValue" : "Syria",
   "tarask" : {
     "value" : "Сірыя",
@@ -19619,7 +19601,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1091,
+  "id" : 1090,
   "originalValue" : "system",
   "tarask" : {
     "value" : "сістэма",
@@ -19637,7 +19619,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1092,
+  "id" : 1091,
   "originalValue" : "tab",
   "tarask" : {
     "value" : "укладка (элемент інтэрфейса); табуляцыя (indent)",
@@ -19655,7 +19637,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1093,
+  "id" : 1092,
   "originalValue" : "table",
   "tarask" : {
     "value" : "табліца",
@@ -19673,7 +19655,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1094,
+  "id" : 1093,
   "originalValue" : "tag",
   "tarask" : {
     "value" : "цэтлік (ключавое слова); тэг (элемент разьметкі)",
@@ -19689,6 +19671,24 @@
     "value" : "cetlіk (ključаvоje slоvа); teh (eljemjent rаźmjetkі)",
     "wrong" : "",
     "comment" : "cetlіk — Samsung"
+  }
+}, {
+  "id" : 1094,
+  "originalValue" : "Taiwan",
+  "tarask" : {
+    "value" : "Тайвань",
+    "wrong" : "",
+    "comment" : "CLDR"
+  },
+  "narkam" : {
+    "value" : "Тайвань",
+    "wrong" : "",
+    "comment" : "CLDR"
+  },
+  "lacink" : {
+    "value" : "Tаjvаn",
+    "wrong" : "",
+    "comment" : "CLDR"
   }
 }, {
   "id" : 1095,
@@ -19710,24 +19710,6 @@
   }
 }, {
   "id" : 1096,
-  "originalValue" : "Taiwan",
-  "tarask" : {
-    "value" : "Тайвань",
-    "wrong" : "",
-    "comment" : "CLDR"
-  },
-  "narkam" : {
-    "value" : "Тайвань",
-    "wrong" : "",
-    "comment" : "CLDR"
-  },
-  "lacink" : {
-    "value" : "Tаjvаn",
-    "wrong" : "",
-    "comment" : "CLDR"
-  }
-}, {
-  "id" : 1097,
   "originalValue" : "Tajikistan",
   "tarask" : {
     "value" : "Таджыкістан",
@@ -19745,7 +19727,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1098,
+  "id" : 1097,
   "originalValue" : "Tanzania",
   "tarask" : {
     "value" : "Танзанія",
@@ -19763,7 +19745,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1099,
+  "id" : 1098,
   "originalValue" : "target",
   "tarask" : {
     "value" : "мэтавы; мэта",
@@ -19781,7 +19763,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1100,
+  "id" : 1099,
   "originalValue" : "targeting",
   "tarask" : {
     "value" : "таргетынг",
@@ -19799,7 +19781,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1101,
+  "id" : 1100,
   "originalValue" : "task",
   "tarask" : {
     "value" : "! задача, заданьне",
@@ -19817,7 +19799,7 @@
     "comment" : "Google, Samsung — źаdаnnje(źаdаčа — todo)\nMS — źаdаčа, źаdаnnje"
   }
 }, {
-  "id" : 1102,
+  "id" : 1101,
   "originalValue" : "TB\n",
   "tarask" : {
     "value" : "TB — ТБ; тэрабайт; Tb — Тбіт; тэрабіт",
@@ -19835,7 +19817,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1103,
+  "id" : 1102,
   "originalValue" : "Tbit\n",
   "tarask" : {
     "value" : "Тбіт",
@@ -19853,7 +19835,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1104,
+  "id" : 1103,
   "originalValue" : "TByte",
   "tarask" : {
     "value" : "ТБ",
@@ -19871,7 +19853,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1105,
+  "id" : 1104,
   "originalValue" : "teal",
   "tarask" : {
     "value" : "сіне-зялёны",
@@ -19889,7 +19871,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1106,
+  "id" : 1105,
   "originalValue" : "template",
   "tarask" : {
     "value" : "шаблон",
@@ -19907,7 +19889,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1107,
+  "id" : 1106,
   "originalValue" : "temporary",
   "tarask" : {
     "value" : "часовы; нерэгулярны",
@@ -19925,7 +19907,7 @@
     "comment" : "MS, Samsung"
   }
 }, {
-  "id" : 1108,
+  "id" : 1107,
   "originalValue" : "temporary error",
   "tarask" : {
     "value" : "нерэгулярная памылка",
@@ -19943,7 +19925,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1109,
+  "id" : 1108,
   "originalValue" : "terabit",
   "tarask" : {
     "value" : "тэрабіт",
@@ -19961,7 +19943,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1110,
+  "id" : 1109,
   "originalValue" : "terabits",
   "tarask" : {
     "value" : "тэрабіты",
@@ -19979,7 +19961,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1111,
+  "id" : 1110,
   "originalValue" : "terabyte",
   "tarask" : {
     "value" : "тэрабайт",
@@ -19997,7 +19979,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1112,
+  "id" : 1111,
   "originalValue" : "terabytes",
   "tarask" : {
     "value" : "тэрабайты",
@@ -20015,7 +19997,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1113,
+  "id" : 1112,
   "originalValue" : "Thai",
   "tarask" : {
     "value" : "Тайскае",
@@ -20033,7 +20015,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1114,
+  "id" : 1113,
   "originalValue" : "Thailand",
   "tarask" : {
     "value" : "Тайланд",
@@ -20051,7 +20033,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1115,
+  "id" : 1114,
   "originalValue" : "theme",
   "tarask" : {
     "value" : "тэма",
@@ -20069,7 +20051,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1116,
+  "id" : 1115,
   "originalValue" : "third-party",
   "tarask" : {
     "value" : "староньні; староньні суб'ект",
@@ -20087,7 +20069,7 @@
     "comment" : "Źа vyključynnjem vypаdkаŭ, kаlі ŭ tekscje jaŭnа pjerаlіčvаjuccа pjeršy, druhі і trecі bаkі"
   }
 }, {
-  "id" : 1117,
+  "id" : 1116,
   "originalValue" : "this",
   "tarask" : {
     "value" : "гэтая, гэтае, гэтыя, гэты (азначэньне); гэта (частка выказьніка)",
@@ -20105,7 +20087,7 @@
     "comment" : "Ubuntu - hetа svаbоdnаja аpjerаcyjnаja sіstemа. Hetаje аbnаŭljennje pаtrаbuje 2MB mjescа nа dysku. Hetаja prylаdа nje pаdtrymlіvаjeccа."
   }
 }, {
-  "id" : 1118,
+  "id" : 1117,
   "originalValue" : "threat",
   "tarask" : {
     "value" : "пагроза",
@@ -20123,7 +20105,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1119,
+  "id" : 1118,
   "originalValue" : "threshold",
   "tarask" : {
     "value" : "парог, парога",
@@ -20141,7 +20123,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1120,
+  "id" : 1119,
   "originalValue" : "thumbnail",
   "tarask" : {
     "value" : "мініяцюра",
@@ -20159,7 +20141,7 @@
     "comment" : "Google, Samsung"
   }
 }, {
-  "id" : 1121,
+  "id" : 1120,
   "originalValue" : "tilde",
   "tarask" : {
     "value" : "тыльда",
@@ -20177,7 +20159,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1122,
+  "id" : 1121,
   "originalValue" : "tile",
   "tarask" : {
     "value" : "плітка; разбіць на пліткі",
@@ -20195,7 +20177,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1123,
+  "id" : 1122,
   "originalValue" : "tiling",
   "tarask" : {
     "value" : "разбіцьцё на пліткі",
@@ -20213,7 +20195,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1124,
+  "id" : 1123,
   "originalValue" : "Timor-Leste",
   "tarask" : {
     "value" : "Тымор-Лешці",
@@ -20231,7 +20213,7 @@
     "comment" : "CLDR, TNPА"
   }
 }, {
-  "id" : 1125,
+  "id" : 1124,
   "originalValue" : "tip",
   "tarask" : {
     "value" : "падказка",
@@ -20249,7 +20231,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1126,
+  "id" : 1125,
   "originalValue" : "title",
   "tarask" : {
     "value" : "загаловак; назва",
@@ -20267,7 +20249,7 @@
     "comment" : "MS, Google — źаhаlоvаk\nSamsung — źаhаlоvаk, nаźvа"
   }
 }, {
-  "id" : 1127,
+  "id" : 1126,
   "originalValue" : "to do",
   "tarask" : {
     "value" : "задача; задачы (назва праграмы To Do)",
@@ -20285,7 +20267,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1128,
+  "id" : 1127,
   "originalValue" : "to-do",
   "tarask" : {
     "value" : "задача",
@@ -20303,7 +20285,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1129,
+  "id" : 1128,
   "originalValue" : "to-dos",
   "tarask" : {
     "value" : "задачы",
@@ -20321,7 +20303,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1130,
+  "id" : 1129,
   "originalValue" : "today",
   "tarask" : {
     "value" : "сёньня; сёньняшні",
@@ -20339,7 +20321,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1131,
+  "id" : 1130,
   "originalValue" : "todo",
   "tarask" : {
     "value" : "задача; TODO (каментарый у кодзе)",
@@ -20357,7 +20339,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1132,
+  "id" : 1131,
   "originalValue" : "toggle",
   "tarask" : {
     "value" : "пераключыць",
@@ -20375,7 +20357,7 @@
     "comment" : "Google, MS"
   }
 }, {
-  "id" : 1133,
+  "id" : 1132,
   "originalValue" : "toggle blur",
   "tarask" : {
     "value" : "пераключэньне размытасьці",
@@ -20393,7 +20375,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1134,
+  "id" : 1133,
   "originalValue" : "toggle key",
   "tarask" : {
     "value" : "клавіша пераключэньня",
@@ -20411,7 +20393,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1135,
+  "id" : 1134,
   "originalValue" : "Togo",
   "tarask" : {
     "value" : "Тога",
@@ -20429,7 +20411,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1136,
+  "id" : 1135,
   "originalValue" : "Tokelau",
   "tarask" : {
     "value" : "Такелау",
@@ -20447,7 +20429,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1137,
+  "id" : 1136,
   "originalValue" : "tomorrow",
   "tarask" : {
     "value" : "заўтра",
@@ -20465,7 +20447,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1138,
+  "id" : 1137,
   "originalValue" : "Tonga",
   "tarask" : {
     "value" : "Тонга",
@@ -20483,7 +20465,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1139,
+  "id" : 1138,
   "originalValue" : "tool",
   "tarask" : {
     "value" : "інструмент",
@@ -20501,7 +20483,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1140,
+  "id" : 1139,
   "originalValue" : "Top Free",
   "tarask" : {
     "value" : "Топ бясплатных",
@@ -20519,7 +20501,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1141,
+  "id" : 1140,
   "originalValue" : "Top Paid",
   "tarask" : {
     "value" : "Топ платных",
@@ -20537,7 +20519,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1142,
+  "id" : 1141,
   "originalValue" : "touchpad",
   "tarask" : {
     "value" : "! сэнсарная пляцоўка",
@@ -20555,7 +20537,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1143,
+  "id" : 1142,
   "originalValue" : "track",
   "tarask" : {
     "value" : "трэк",
@@ -20573,7 +20555,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1144,
+  "id" : 1143,
   "originalValue" : "trash",
   "tarask" : {
     "value" : "сьметніца",
@@ -20591,7 +20573,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1145,
+  "id" : 1144,
   "originalValue" : "Trinidad and Tobago",
   "tarask" : {
     "value" : "Трынідад і Табага",
@@ -20609,7 +20591,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1146,
+  "id" : 1145,
   "originalValue" : "try a different search",
   "tarask" : {
     "value" : "паспрабуйце пашукаць іншае",
@@ -20627,7 +20609,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1147,
+  "id" : 1146,
   "originalValue" : "Tunisia",
   "tarask" : {
     "value" : "Туніс",
@@ -20645,7 +20627,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1148,
+  "id" : 1147,
   "originalValue" : "Turkey",
   "tarask" : {
     "value" : "Турцыя",
@@ -20663,7 +20645,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1149,
+  "id" : 1148,
   "originalValue" : "Turkmenistan",
   "tarask" : {
     "value" : "Туркменістан",
@@ -20681,7 +20663,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1150,
+  "id" : 1149,
   "originalValue" : "Turks and Caicos Islands",
   "tarask" : {
     "value" : "Астравы Цёркс і Кайкас",
@@ -20699,7 +20681,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1151,
+  "id" : 1150,
   "originalValue" : "turn off",
   "tarask" : {
     "value" : "выключыць",
@@ -20717,7 +20699,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1152,
+  "id" : 1151,
   "originalValue" : "turn on",
   "tarask" : {
     "value" : "уключыць",
@@ -20735,7 +20717,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1153,
+  "id" : 1152,
   "originalValue" : "tutorial",
   "tarask" : {
     "value" : "інструкцыя",
@@ -20753,7 +20735,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1154,
+  "id" : 1153,
   "originalValue" : "Tuvalu",
   "tarask" : {
     "value" : "Тувалу",
@@ -20771,7 +20753,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1155,
+  "id" : 1154,
   "originalValue" : "tween",
   "tarask" : {
     "value" : "! копія працэса",
@@ -20789,7 +20771,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1156,
+  "id" : 1155,
   "originalValue" : "type",
   "tarask" : {
     "value" : "тып; ! уводзіць (пароль, зьвесткі й да т.п.); пісаць (паведамленьне); друкаваць (тэкст у рэдактары)",
@@ -20807,7 +20789,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1157,
+  "id" : 1156,
   "originalValue" : "Ubuntu",
   "tarask" : {
     "value" : "Ubuntu",
@@ -20825,7 +20807,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1158,
+  "id" : 1157,
   "originalValue" : "Ubuntu Software",
   "tarask" : {
     "value" : "Праграмы Ubuntu",
@@ -20843,7 +20825,7 @@
     "comment" : "Čаsаm pіšuc prоstа Software ź vjalіkаj lіtаry jak nаźvu іnstrumjentа, tаdy pjerаklаdаjem \"Prаhrаmy\". software jak аhulnаje іmja tаk NJe pjerаklаdаjem"
   }
 }, {
-  "id" : 1159,
+  "id" : 1158,
   "originalValue" : "Uganda",
   "tarask" : {
     "value" : "Уганда",
@@ -20861,7 +20843,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1160,
+  "id" : 1159,
   "originalValue" : "UK",
   "tarask" : {
     "value" : "Вялікабрытанія",
@@ -20879,7 +20861,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1161,
+  "id" : 1160,
   "originalValue" : "UK English",
   "tarask" : {
     "value" : "вялікабрытанская англійская; англійская (Вялікабрытанія)",
@@ -20897,7 +20879,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1162,
+  "id" : 1161,
   "originalValue" : "Ukraine",
   "tarask" : {
     "value" : "Украіна",
@@ -20915,7 +20897,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1163,
+  "id" : 1162,
   "originalValue" : "Ukrainian",
   "tarask" : {
     "value" : "Украінская",
@@ -20933,7 +20915,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1164,
+  "id" : 1163,
   "originalValue" : "unable",
   "tarask" : {
     "value" : "немагчыма",
@@ -20951,7 +20933,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1165,
+  "id" : 1164,
   "originalValue" : "unauthorized",
   "tarask" : {
     "value" : "! несанкцыянаваны",
@@ -20969,7 +20951,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1166,
+  "id" : 1165,
   "originalValue" : "uncompressing",
   "tarask" : {
     "value" : "распакаваньне",
@@ -20987,7 +20969,7 @@
     "comment" : "hl. decompressing"
   }
 }, {
-  "id" : 1167,
+  "id" : 1166,
   "originalValue" : "undo",
   "tarask" : {
     "value" : "адрабіць",
@@ -21005,7 +20987,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1168,
+  "id" : 1167,
   "originalValue" : "undone",
   "tarask" : {
     "value" : "адроблены",
@@ -21023,7 +21005,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1169,
+  "id" : 1168,
   "originalValue" : "unexpected",
   "tarask" : {
     "value" : "нечаканы",
@@ -21041,7 +21023,7 @@
     "comment" : "njamа ŭ termіnаch"
   }
 }, {
-  "id" : 1170,
+  "id" : 1169,
   "originalValue" : "unimplimented",
   "tarask" : {
     "value" : "нерэалізаваны (прагр.)",
@@ -21059,7 +21041,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1171,
+  "id" : 1170,
   "originalValue" : "unit",
   "tarask" : {
     "value" : "адзінка",
@@ -21077,7 +21059,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1172,
+  "id" : 1171,
   "originalValue" : "United Arab Emirates",
   "tarask" : {
     "value" : "Аб’яднаныя Арабскія Эміраты",
@@ -21095,7 +21077,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1173,
+  "id" : 1172,
   "originalValue" : "United Kingdom",
   "tarask" : {
     "value" : "Вялікабрытанія",
@@ -21113,7 +21095,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1174,
+  "id" : 1173,
   "originalValue" : "United States",
   "tarask" : {
     "value" : "Злучаныя Штаты Амерыкі",
@@ -21131,7 +21113,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1175,
+  "id" : 1174,
   "originalValue" : "United States Minor Outlying Islands",
   "tarask" : {
     "value" : "Малыя Аддаленыя астравы ЗША",
@@ -21149,7 +21131,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1176,
+  "id" : 1175,
   "originalValue" : "United States Virgin Islands",
   "tarask" : {
     "value" : "Амерыканскія Віргінскія астравы",
@@ -21167,7 +21149,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1177,
+  "id" : 1176,
   "originalValue" : "unknown",
   "tarask" : {
     "value" : "невядомы",
@@ -21185,7 +21167,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1178,
+  "id" : 1177,
   "originalValue" : "unlock",
   "tarask" : {
     "value" : "разблакіраваць",
@@ -21203,7 +21185,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1179,
+  "id" : 1178,
   "originalValue" : "unmanaged",
   "tarask" : {
     "value" : "некіруемы",
@@ -21221,7 +21203,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1180,
+  "id" : 1179,
   "originalValue" : "unmaximize",
   "tarask" : {
     "value" : "! скасаваць разгортваньне, паменшыць",
@@ -21239,7 +21221,7 @@
     "comment" : "hetа kаlі my rаźhоrnutаje аknо rоbіm mаljenkіm"
   }
 }, {
-  "id" : 1181,
+  "id" : 1180,
   "originalValue" : "unmount",
   "tarask" : {
     "value" : "адключаць",
@@ -21257,7 +21239,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1182,
+  "id" : 1181,
   "originalValue" : "unnamed",
   "tarask" : {
     "value" : "без назвы; неназваны (калі выкарыстоўваем замест назвы)",
@@ -21275,7 +21257,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1183,
+  "id" : 1182,
   "originalValue" : "unresolvable",
   "tarask" : {
     "value" : "невырашальны",
@@ -21293,7 +21275,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1184,
+  "id" : 1183,
   "originalValue" : "unsupported",
   "tarask" : {
     "value" : "не падтрымліваецца",
@@ -21311,7 +21293,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1185,
+  "id" : 1184,
   "originalValue" : "unzip",
   "tarask" : {
     "value" : "распакаваць",
@@ -21329,7 +21311,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1186,
+  "id" : 1185,
   "originalValue" : "up",
   "tarask" : {
     "value" : "уверх",
@@ -21347,7 +21329,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1187,
+  "id" : 1186,
   "originalValue" : "up to date",
   "tarask" : {
     "value" : "абноўлены (калі мае месца абнаўленьне); актуалізаваны (калі мае месца актуалізацыя)",
@@ -21365,7 +21347,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1188,
+  "id" : 1187,
   "originalValue" : "upcoming",
   "tarask" : {
     "value" : "будучы",
@@ -21383,7 +21365,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1189,
+  "id" : 1188,
   "originalValue" : "update",
   "tarask" : {
     "value" : "абнавіць; абнаўленьне",
@@ -21401,7 +21383,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1190,
+  "id" : 1189,
   "originalValue" : "updater",
   "tarask" : {
     "value" : "інструмент абнаўленьня",
@@ -21419,7 +21401,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1191,
+  "id" : 1190,
   "originalValue" : "upgrade",
   "tarask" : {
     "value" : "абнавіць; абнаўленьне",
@@ -21437,7 +21419,7 @@
     "comment" : "MS, Samsung — аbnаvіc\nMS, Google — аbnаŭljennje"
   }
 }, {
-  "id" : 1192,
+  "id" : 1191,
   "originalValue" : "upload",
   "tarask" : {
     "value" : "запампаваць, запампоўваць",
@@ -21455,7 +21437,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1193,
+  "id" : 1192,
   "originalValue" : "uploader",
   "tarask" : {
     "value" : "запампоўшчык; ! загрузчык",
@@ -21473,7 +21455,7 @@
     "comment" : "Ljepš źаpаmpоŭščyk, bо upload — źаpаmpаvаc"
   }
 }, {
-  "id" : 1194,
+  "id" : 1193,
   "originalValue" : "uploading",
   "tarask" : {
     "value" : "запампоўваньне",
@@ -21491,7 +21473,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1195,
+  "id" : 1194,
   "originalValue" : "Uruguay",
   "tarask" : {
     "value" : "Уругвай",
@@ -21509,7 +21491,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1196,
+  "id" : 1195,
   "originalValue" : "US",
   "tarask" : {
     "value" : "ЗША",
@@ -21527,7 +21509,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1197,
+  "id" : 1196,
   "originalValue" : "US English",
   "tarask" : {
     "value" : "англійская (ЗША)",
@@ -21545,7 +21527,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1198,
+  "id" : 1197,
   "originalValue" : "usage",
   "tarask" : {
     "value" : "выкарыстаньне",
@@ -21563,7 +21545,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1199,
+  "id" : 1198,
   "originalValue" : "use",
   "tarask" : {
     "value" : "выкарыстоўваць",
@@ -21581,7 +21563,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1200,
+  "id" : 1199,
   "originalValue" : "user",
   "tarask" : {
     "value" : "карыстальнік",
@@ -21599,7 +21581,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1201,
+  "id" : 1200,
   "originalValue" : "user account",
   "tarask" : {
     "value" : "уліковы запіс",
@@ -21617,7 +21599,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1202,
+  "id" : 1201,
   "originalValue" : "user name",
   "tarask" : {
     "value" : "імя карыстальніка",
@@ -21635,7 +21617,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1203,
+  "id" : 1202,
   "originalValue" : "username",
   "tarask" : {
     "value" : "імя карыстальніка",
@@ -21653,7 +21635,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1204,
+  "id" : 1203,
   "originalValue" : "utility",
   "tarask" : {
     "value" : "утыліта",
@@ -21671,7 +21653,7 @@
     "comment" : "utylіtа — Samsung, Google\nsluzbоvаja prаhrаmа, dаpаmоznаja prаhrаmа — MS"
   }
 }, {
-  "id" : 1205,
+  "id" : 1204,
   "originalValue" : "Uzbekistan",
   "tarask" : {
     "value" : "Узбекістан",
@@ -21689,7 +21671,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1206,
+  "id" : 1205,
   "originalValue" : "valid",
   "tarask" : {
     "value" : "сапраўдны; правільны",
@@ -21707,7 +21689,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1207,
+  "id" : 1206,
   "originalValue" : "validate",
   "tarask" : {
     "value" : "праверыць",
@@ -21725,7 +21707,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1208,
+  "id" : 1207,
   "originalValue" : "validation",
   "tarask" : {
     "value" : "! праверка, пацьверджаньне",
@@ -21743,7 +21725,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1209,
+  "id" : 1208,
   "originalValue" : "Validator",
   "tarask" : {
     "value" : "Сродак праверкі",
@@ -21761,7 +21743,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1210,
+  "id" : 1209,
   "originalValue" : "value",
   "tarask" : {
     "value" : "значэньне",
@@ -21779,7 +21761,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1211,
+  "id" : 1210,
   "originalValue" : "Vanuatu",
   "tarask" : {
     "value" : "Вануату",
@@ -21797,7 +21779,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1212,
+  "id" : 1211,
   "originalValue" : "Vatican",
   "tarask" : {
     "value" : "Ватыкан",
@@ -21815,7 +21797,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1213,
+  "id" : 1212,
   "originalValue" : "Vatican City",
   "tarask" : {
     "value" : "Ватыкан",
@@ -21833,7 +21815,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1214,
+  "id" : 1213,
   "originalValue" : "Venezuela",
   "tarask" : {
     "value" : "Венесуэла",
@@ -21851,7 +21833,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1215,
+  "id" : 1214,
   "originalValue" : "verified",
   "tarask" : {
     "value" : "спраўджаны",
@@ -21869,7 +21851,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1216,
+  "id" : 1215,
   "originalValue" : "verify",
   "tarask" : {
     "value" : "спраўдзіць",
@@ -21887,7 +21869,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1217,
+  "id" : 1216,
   "originalValue" : "version",
   "tarask" : {
     "value" : "версія, версіі",
@@ -21905,7 +21887,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1218,
+  "id" : 1217,
   "originalValue" : "vertical",
   "tarask" : {
     "value" : "вертыкальны",
@@ -21923,7 +21905,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1219,
+  "id" : 1218,
   "originalValue" : "video",
   "tarask" : {
     "value" : "відэа",
@@ -21941,7 +21923,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1220,
+  "id" : 1219,
   "originalValue" : "video player",
   "tarask" : {
     "value" : "відэапрайгравальнік",
@@ -21959,7 +21941,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1221,
+  "id" : 1220,
   "originalValue" : "Viet Nam",
   "tarask" : {
     "value" : "В’етнам",
@@ -21977,7 +21959,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1222,
+  "id" : 1221,
   "originalValue" : "view",
   "tarask" : {
     "value" : "рэжым; выгляд (уласьцівасьць, аб’ект); прагляд (дзеяньне)",
@@ -21995,7 +21977,7 @@
     "comment" : "Samsung, Google — rezym, vyhljad, pаkаź, prаhljad\nMS — vyhljad, prаhljad, prаhljadаc"
   }
 }, {
-  "id" : 1223,
+  "id" : 1222,
   "originalValue" : "violet",
   "tarask" : {
     "value" : "ліловы",
@@ -22013,7 +21995,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1224,
+  "id" : 1223,
   "originalValue" : "visible",
   "tarask" : {
     "value" : "бачны",
@@ -22031,7 +22013,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1225,
+  "id" : 1224,
   "originalValue" : "visit",
   "tarask" : {
     "value" : "наведайце; наведаць; наведаньне",
@@ -22049,7 +22031,7 @@
     "comment" : "MS — nаvjedаjcje, nаvjedаc, pjerаjscі, nаvjedvаnnje\nSamsung — nаvjedаnnje"
   }
 }, {
-  "id" : 1226,
+  "id" : 1225,
   "originalValue" : "visitor\n",
   "tarask" : {
     "value" : "наведвальнік",
@@ -22067,7 +22049,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1227,
+  "id" : 1226,
   "originalValue" : "visitors",
   "tarask" : {
     "value" : "наведвальнікі",
@@ -22085,7 +22067,7 @@
     "comment" : "Google"
   }
 }, {
-  "id" : 1228,
+  "id" : 1227,
   "originalValue" : "Vitsyebsk",
   "tarask" : {
     "value" : "Віцебск",
@@ -22103,7 +22085,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1229,
+  "id" : 1228,
   "originalValue" : "Voice Recorder",
   "tarask" : {
     "value" : "Дыктафон",
@@ -22121,7 +22103,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1230,
+  "id" : 1229,
   "originalValue" : "volume",
   "tarask" : {
     "value" : "гучнасьць",
@@ -22139,7 +22121,7 @@
     "comment" : "Samsung, Google, MS"
   }
 }, {
-  "id" : 1231,
+  "id" : 1230,
   "originalValue" : "wait",
   "tarask" : {
     "value" : "пачакаць",
@@ -22157,7 +22139,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1232,
+  "id" : 1231,
   "originalValue" : "waiting",
   "tarask" : {
     "value" : "чаканьне",
@@ -22175,7 +22157,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1233,
+  "id" : 1232,
   "originalValue" : "Wales",
   "tarask" : {
     "value" : "Уэльс",
@@ -22193,7 +22175,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1234,
+  "id" : 1233,
   "originalValue" : "Wallis and Futuna",
   "tarask" : {
     "value" : "Уоліс і Футуна",
@@ -22211,7 +22193,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1235,
+  "id" : 1234,
   "originalValue" : "wallpaper",
   "tarask" : {
     "value" : "шпалеры",
@@ -22229,7 +22211,7 @@
     "comment" : "Špаljer — MS, Samsung, Google"
   }
 }, {
-  "id" : 1236,
+  "id" : 1235,
   "originalValue" : "want",
   "tarask" : {
     "value" : "хацець",
@@ -22247,7 +22229,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1237,
+  "id" : 1236,
   "originalValue" : "weather",
   "tarask" : {
     "value" : "надвор'е",
@@ -22265,7 +22247,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1238,
+  "id" : 1237,
   "originalValue" : "weather reports",
   "tarask" : {
     "value" : "! метэазводка",
@@ -22283,7 +22265,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1239,
+  "id" : 1238,
   "originalValue" : "web",
   "tarask" : {
     "value" : "вэб; інтэрнэт, інтэрнэту",
@@ -22301,7 +22283,7 @@
     "comment" : "Samsung — veb\nMS — veb; іnternet"
   }
 }, {
-  "id" : 1240,
+  "id" : 1239,
   "originalValue" : "web address",
   "tarask" : {
     "value" : "вэб-адрас",
@@ -22319,7 +22301,7 @@
     "comment" : "MSs"
   }
 }, {
-  "id" : 1241,
+  "id" : 1240,
   "originalValue" : "Web browser",
   "tarask" : {
     "value" : "вэб-браўзер",
@@ -22337,7 +22319,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1242,
+  "id" : 1241,
   "originalValue" : "Web browsing",
   "tarask" : {
     "value" : "Прагляд вэб-старонак",
@@ -22355,7 +22337,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1243,
+  "id" : 1242,
   "originalValue" : "web feed",
   "tarask" : {
     "value" : "вэб-канал",
@@ -22373,7 +22355,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1244,
+  "id" : 1243,
   "originalValue" : "web filtering",
   "tarask" : {
     "value" : "вэб-фільтрацыя",
@@ -22391,7 +22373,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1245,
+  "id" : 1244,
   "originalValue" : "Web hosting",
   "tarask" : {
     "value" : "Вэб-хостынг",
@@ -22409,7 +22391,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1246,
+  "id" : 1245,
   "originalValue" : "web package",
   "tarask" : {
     "value" : "вэб-пакет",
@@ -22427,7 +22409,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1247,
+  "id" : 1246,
   "originalValue" : "web page",
   "tarask" : {
     "value" : "вэб-старонка",
@@ -22445,7 +22427,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1248,
+  "id" : 1247,
   "originalValue" : "web portal",
   "tarask" : {
     "value" : "вэб-партал",
@@ -22463,7 +22445,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1249,
+  "id" : 1248,
   "originalValue" : "Web query",
   "tarask" : {
     "value" : "вэб-запыт",
@@ -22481,7 +22463,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1250,
+  "id" : 1249,
   "originalValue" : "Web Runtime",
   "tarask" : {
     "value" : "Web Runtime",
@@ -22499,7 +22481,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1251,
+  "id" : 1250,
   "originalValue" : "Web server",
   "tarask" : {
     "value" : "вэб-сервер",
@@ -22517,7 +22499,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1252,
+  "id" : 1251,
   "originalValue" : "Web service",
   "tarask" : {
     "value" : "вэб-сэрвіс",
@@ -22535,7 +22517,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1253,
+  "id" : 1252,
   "originalValue" : "web services",
   "tarask" : {
     "value" : "вэб-сэрвісы",
@@ -22553,7 +22535,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1254,
+  "id" : 1253,
   "originalValue" : "web site",
   "tarask" : {
     "value" : "вэб-сайт; сайт",
@@ -22571,7 +22553,7 @@
     "comment" : "Samsung, MS"
   }
 }, {
-  "id" : 1255,
+  "id" : 1254,
   "originalValue" : "webpage",
   "tarask" : {
     "value" : "вэб-старонка",
@@ -22589,7 +22571,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1256,
+  "id" : 1255,
   "originalValue" : "website",
   "tarask" : {
     "value" : "вэб-сайт; сайт",
@@ -22607,7 +22589,7 @@
     "comment" : "Samsung — veb-sаjt; sаjt\nMS — veb-stаrоnkа"
   }
 }, {
-  "id" : 1257,
+  "id" : 1256,
   "originalValue" : "Webview",
   "tarask" : {
     "value" : "Вэб-выгляд",
@@ -22625,7 +22607,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1258,
+  "id" : 1257,
   "originalValue" : "weekly",
   "tarask" : {
     "value" : "штотыдзень; штотыднёвы; за тыдзень",
@@ -22643,7 +22625,7 @@
     "comment" : "MS, Samsung"
   }
 }, {
-  "id" : 1259,
+  "id" : 1258,
   "originalValue" : "Western Sahara",
   "tarask" : {
     "value" : "Заходняя Сахара",
@@ -22661,7 +22643,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1260,
+  "id" : 1259,
   "originalValue" : "while connected to",
   "tarask" : {
     "value" : "падчас злучэньня з",
@@ -22679,7 +22661,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1261,
+  "id" : 1260,
   "originalValue" : "white",
   "tarask" : {
     "value" : "белы",
@@ -22697,7 +22679,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1262,
+  "id" : 1261,
   "originalValue" : "widget",
   "tarask" : {
     "value" : "віджэт",
@@ -22715,7 +22697,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1263,
+  "id" : 1262,
   "originalValue" : "width",
   "tarask" : {
     "value" : "шырыня",
@@ -22733,7 +22715,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1264,
+  "id" : 1263,
   "originalValue" : "window",
   "tarask" : {
     "value" : "акно",
@@ -22751,7 +22733,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1265,
+  "id" : 1264,
   "originalValue" : "wired",
   "tarask" : {
     "value" : "правадны",
@@ -22769,7 +22751,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1266,
+  "id" : 1265,
   "originalValue" : "wireless",
   "tarask" : {
     "value" : "бесправадны",
@@ -22787,7 +22769,7 @@
     "comment" : "Samsung, Google, MS"
   }
 }, {
-  "id" : 1267,
+  "id" : 1266,
   "originalValue" : "wishlist",
   "tarask" : {
     "value" : "спіс пажаданьняў",
@@ -22805,7 +22787,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1268,
+  "id" : 1267,
   "originalValue" : "word",
   "tarask" : {
     "value" : "слова",
@@ -22823,7 +22805,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1269,
+  "id" : 1268,
   "originalValue" : "workspace",
   "tarask" : {
     "value" : "працоўная прастора",
@@ -22841,7 +22823,7 @@
     "comment" : "MS"
   }
 }, {
-  "id" : 1270,
+  "id" : 1269,
   "originalValue" : "world clocks",
   "tarask" : {
     "value" : "сусьветныя гадзіньнікі",
@@ -22859,7 +22841,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1271,
+  "id" : 1270,
   "originalValue" : "WWW",
   "tarask" : {
     "value" : "WWW",
@@ -22877,7 +22859,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1272,
+  "id" : 1271,
   "originalValue" : "yearly",
   "tarask" : {
     "value" : "штогод; штогадовы; за год",
@@ -22895,7 +22877,7 @@
     "comment" : "MS, Samsung"
   }
 }, {
-  "id" : 1273,
+  "id" : 1272,
   "originalValue" : "yellow",
   "tarask" : {
     "value" : "жоўты",
@@ -22913,7 +22895,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1274,
+  "id" : 1273,
   "originalValue" : "Yemen",
   "tarask" : {
     "value" : "Емен",
@@ -22931,7 +22913,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1275,
+  "id" : 1274,
   "originalValue" : "yes",
   "tarask" : {
     "value" : "так",
@@ -22949,7 +22931,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1276,
+  "id" : 1275,
   "originalValue" : "yesterday",
   "tarask" : {
     "value" : "учора",
@@ -22967,7 +22949,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1277,
+  "id" : 1276,
   "originalValue" : "your",
   "tarask" : {
     "value" : "ваш, вашы",
@@ -22985,7 +22967,7 @@
     "comment" : ""
   }
 }, {
-  "id" : 1278,
+  "id" : 1277,
   "originalValue" : "Zambia",
   "tarask" : {
     "value" : "Замбія",
@@ -23003,7 +22985,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1279,
+  "id" : 1278,
   "originalValue" : "Zimbabwe",
   "tarask" : {
     "value" : "Зімбабвэ",
@@ -23021,7 +23003,7 @@
     "comment" : "CLDR"
   }
 }, {
-  "id" : 1280,
+  "id" : 1279,
   "originalValue" : "zoom",
   "tarask" : {
     "value" : "! павелічэньне; маштаб; маштабаваньне (экрана)",
@@ -23039,7 +23021,7 @@
     "comment" : "Samsung — źum, mаštаb\nGoogle — pаvjelіčennje, mаštаbаvаnnje\nMS — pаvjelіčennje, mаštаb, mаštаbаvаnnje"
   }
 }, {
-  "id" : 1281,
+  "id" : 1280,
   "originalValue" : "zoom in",
   "tarask" : {
     "value" : "павялічыць",
@@ -23057,7 +23039,7 @@
     "comment" : "Samsung"
   }
 }, {
-  "id" : 1282,
+  "id" : 1281,
   "originalValue" : "zoom out",
   "tarask" : {
     "value" : "паменшыць",
