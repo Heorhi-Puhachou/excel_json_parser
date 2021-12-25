@@ -12,6 +12,7 @@ import by.convert.AcadLacinkaConverter;
 import by.convert.AcadTaraskConverter;
 import by.excel.parser.glossary.Record;
 import by.excel.parser.links.Link;
+import by.excel.parser.links.LinkGroup;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -30,10 +31,10 @@ public class ConvertExcel2Json {
         writeObjects2JsonFile(customers, "glossary.json");
 
 
-        HashMap<String, ArrayList<Link>> linksInfo = readLinksInfo(
+        ArrayList<LinkGroup> linksInfo = readLinksInfo(
                 "Гласарый і стайлгайд перакладу Ubuntu на беларускую мову.xlsx",
                 "Карысныя спасылкі");
-        writeLinks2JsonFile(linksInfo, "links.json");
+        writeObjects2JsonFile(linksInfo, "links.json");
 
         System.out.println("Канвертацыя скончана.");
     }
@@ -115,32 +116,15 @@ public class ConvertExcel2Json {
     /**
      * Convert Java Objects to JSON File
      *
-     * @param links
+     * @param list
      * @param pathFile
      */
-    private static void writeLinks2JsonFile(HashMap<String, ArrayList<Link>> links, String pathFile) {
+    private static void writeObjects2JsonFile(List<?> list, String pathFile) {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         File file = new File(pathFile);
         try {
             // Serialize Java object info JSON file.
-            mapper.writeValue(file, links);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    /**
-     * Convert Java Objects to JSON File
-     *
-     * @param records
-     * @param pathFile
-     */
-    private static void writeObjects2JsonFile(List<Record> records, String pathFile) {
-        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
-        File file = new File(pathFile);
-        try {
-            // Serialize Java object info JSON file.
-            mapper.writeValue(file, records);
+            mapper.writeValue(file, list);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -163,13 +147,12 @@ public class ConvertExcel2Json {
      * @param filePath
      * @return
      */
-    private static HashMap<String, ArrayList<Link>> readLinksInfo(String filePath, String sheetName) {
+    private static ArrayList<LinkGroup> readLinksInfo(String filePath, String sheetName) {
         try {
             Workbook workbook = getWorkbook(filePath);
             Iterator<Row> rows = getSheetIterator(workbook, sheetName);
 
-            HashMap<String, ArrayList<Link>> categorizedLinks = new HashMap<>();
-
+            ArrayList<LinkGroup> linkGroups = new ArrayList<>();
             int rowNumber = 0;
             while (rows.hasNext()) {
                 Row currentRow = rows.next();
@@ -211,20 +194,28 @@ public class ConvertExcel2Json {
                 if (category.isEmpty()) {
                     category = "Агульнае";
                 }
-                if (categorizedLinks.get(category) == null) {
-                    categorizedLinks.put(category, new ArrayList<>());
+
+                if (getGroupByName(category, linkGroups) == null) {
+                    LinkGroup newGroup = new LinkGroup(category, new ArrayList<>());
+                    linkGroups.add(newGroup);
                 }
-                ArrayList linksForCategory = categorizedLinks.get(category);
-                linksForCategory.add(link);
-
-
+                getGroupByName(category, linkGroups).getLinks().add(link);
                 rowNumber++;
             }
-
             workbook.close();
-            return categorizedLinks;
+            return linkGroups;
         } catch (IOException e) {
             throw new RuntimeException("FAIL! -> message = " + e.getMessage());
         }
+    }
+
+    private static LinkGroup getGroupByName(String name, List<LinkGroup> groups) {
+        LinkGroup result = null;
+        for (int i = 0; i < groups.size(); i++) {
+            if (groups.get(i).getGroupName().equals(name)) {
+                result = groups.get(i);
+            }
+        }
+        return result;
     }
 }
