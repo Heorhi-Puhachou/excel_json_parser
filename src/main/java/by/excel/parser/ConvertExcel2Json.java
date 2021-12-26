@@ -13,6 +13,8 @@ import by.convert.AcadTaraskConverter;
 import by.excel.parser.glossary.Record;
 import by.excel.parser.links.Link;
 import by.excel.parser.links.LinkGroup;
+import by.excel.parser.style.StyleGroup;
+import by.excel.parser.style.StyleInfo;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -35,6 +37,12 @@ public class ConvertExcel2Json {
                 "Гласарый і стайлгайд перакладу Ubuntu на беларускую мову.xlsx",
                 "Карысныя спасылкі");
         writeObjects2JsonFile(linksInfo, "links.json");
+
+
+        ArrayList<StyleGroup> styleInfo = readStyleInfo(
+                "Гласарый і стайлгайд перакладу Ubuntu на беларускую мову.xlsx",
+                "Стайлгайд");
+        writeObjects2JsonFile(styleInfo, "style.json");
 
         System.out.println("Канвертацыя скончана.");
     }
@@ -209,10 +217,79 @@ public class ConvertExcel2Json {
         }
     }
 
+    private static ArrayList<StyleGroup> readStyleInfo(String filePath, String sheetName) {
+        try {
+            Workbook workbook = getWorkbook(filePath);
+            Iterator<Row> rows = getSheetIterator(workbook, sheetName);
+
+            ArrayList<StyleGroup> styleGroups = new ArrayList<>();
+            int rowNumber = 0;
+            while (rows.hasNext()) {
+                Row currentRow = rows.next();
+
+                // skip header
+                if (rowNumber == 0) {
+                    rowNumber++;
+                    continue;
+                }
+
+
+                Iterator<Cell> cellsInRow = currentRow.iterator();
+
+                String category = "";
+                String description = "";
+                String example = "";
+
+
+                int cellIndex = 0;
+                while (cellsInRow.hasNext()) {
+                    Cell currentCell = cellsInRow.next();
+
+                    if (cellIndex == 0) { // Original value
+                        category = currentCell.getStringCellValue();
+                    } else if (cellIndex == 1) { // acad value
+                        description = currentCell.getStringCellValue();
+                    } else if (cellIndex == 2) { // Wrong example
+                        example = currentCell.getStringCellValue();
+                    }
+
+                    cellIndex++;
+                }
+
+                if (description.isEmpty()) {
+                    break;
+                }
+
+                StyleInfo styleInfo = new StyleInfo(description, example);
+
+                if (getStyleGroupByName(category, styleGroups) == null) {
+                    StyleGroup newGroup = new StyleGroup(category, new ArrayList<>());
+                    styleGroups.add(newGroup);
+                }
+                getStyleGroupByName(category, styleGroups).getRecords().add(styleInfo);
+                rowNumber++;
+            }
+            workbook.close();
+            return styleGroups;
+        } catch (IOException e) {
+            throw new RuntimeException("FAIL! -> message = " + e.getMessage());
+        }
+    }
+
     private static LinkGroup getGroupByName(String name, List<LinkGroup> groups) {
         LinkGroup result = null;
         for (int i = 0; i < groups.size(); i++) {
             if (groups.get(i).getGroupName().equals(name)) {
+                result = groups.get(i);
+            }
+        }
+        return result;
+    }
+
+    private static StyleGroup getStyleGroupByName(String name, List<StyleGroup> groups) {
+        StyleGroup result = null;
+        for (int i = 0; i < groups.size(); i++) {
+            if (groups.get(i).getCategory().equals(name)) {
                 result = groups.get(i);
             }
         }
