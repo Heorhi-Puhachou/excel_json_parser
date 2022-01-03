@@ -1,8 +1,8 @@
 package by.convert;
 
-public class AcadLacinkaConverter {
+public class AcadLacinkaConverter extends BaseConverter {
 
-    public static String convert(String acad) {
+    public String convert(String acad) {
 
         if (acad == null || acad.isEmpty()) {
             return acad;
@@ -24,7 +24,6 @@ public class AcadLacinkaConverter {
                 .replace("ж", "z")
                 .replace("З", "Ź")
                 .replace("з", "ź")
-
                 .replace("Й", "J")
                 .replace("й", "j")
                 .replace("К", "K")
@@ -35,8 +34,6 @@ public class AcadLacinkaConverter {
                 .replace("м", "m")
                 .replace("Н", "N")
                 .replace("н", "n")
-
-
                 .replace("П", "P")
                 .replace("п", "p")
                 .replace("Р", "R")
@@ -59,7 +56,6 @@ public class AcadLacinkaConverter {
                 .replace("ч", "č")
                 .replace("Ш", "Š")
                 .replace("ш", "š")
-
                 .replace("Ы", "Y")
                 .replace("ы", "y")
                 .replace("Ь", "")
@@ -69,13 +65,7 @@ public class AcadLacinkaConverter {
                 .replace("Ю", "Ju")
                 .replace("ю", "ju")
                 .replace("Я", "Ja")
-                .replace("я", "ja")
-
-                .replace("", "")
-
-
-                ;
-
+                .replace("я", "ja");
     }
 
 }

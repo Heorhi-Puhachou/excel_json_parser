@@ -1,0 +1,61 @@
+[ {
+  "groupName" : "Правапіс",
+  "links" : [ {
+    "url" : "http://academy.edu.by/files/zak_420-3.pdf",
+    "description" : "Аб Правілах беларускай арфаграфіі й пунктуацыі» ад 24 чэрвеня 2008 года"
+  } ]
+}, {
+  "groupName" : "Слоўнікі",
+  "links" : [ {
+    "url" : "https://drive.google.com/file/d/1KC2LBuPd1yJXlIIEn6HMgban3vHgOlwd/view?usp=sharing",
+    "description" : "Агульны Англійска-Беларускі слоўнік 2013 года"
+  }, {
+    "url" : "http://slounik.org/sbm",
+    "description" : "Слоўнік беларускай мовы. Менск: Беларуская навука, 2012. ISBN 978-985-08-1365-7"
+  } ]
+}, {
+  "groupName" : "Стайлгайд",
+  "links" : [ {
+    "url" : "https://docs.google.com/document/d/1T9OTVSQhT2ULxNxoBcs0ET0hUQeYdyadhQClsnxqZYw/edit",
+    "description" : "СТАЙЛГАЙД «ЛІНГВІСТЫЧНЫЯ ПАСЛУГІ З БЕЛАРУСКАЙ МОВАЙ», якім з намі падзяліўся сп. Аляксандар Шумскі."
+  } ]
+}, {
+  "groupName" : "Тлумачальны слоўнік",
+  "links" : [ {
+    "url" : "https://www.skarnik.by/tsbm",
+    "description" : "Тлумачальны слоўнік беларускай мовы"
+  } ]
+}, {
+  "groupName" : "Тэрміналогія",
+  "links" : [ {
+    "url" : "https://www.microsoft.com/en-us/language/",
+    "description" : "Microsoft Language Portal(Гласарый ад Microsoft). Часткова састарэўшы, але вельмі карысны таму, што адзіны такі гласарый у адкрытым доступе. Больш падрабязнасьцей у \"Стайлгайдзе\"."
+  }, {
+    "url" : "https://translations.telegram.org/be/",
+    "description" : "Праект перакладу Telegram на беларускую мову. Можна карыстацца пошукам для праверкі таго, як перакладалі некаторыя тэрміны й словаспалучэньні."
+  }, {
+    "url" : "http://st.unicode.org/cldr-apps/v#/be//",
+    "description" : "Актуальныя назвы розных адзінак вымярэньня, краін, рэгіёнаў, моў (з улікам зьмяненьняў 2008 г.)"
+  }, {
+    "url" : "http://mounik.org/files/osm/daviednik_Lemciuhovaj.csv.gz",
+    "description" : "Афіцыйнае напісаньне беларускіх тапонімаў"
+  }, {
+    "url" : "http://www.tnpa.by/?fbclid=IwAR0cJ7883BKWxHv4e3WTSCIFe4DomKfW_QfZyzp4zmsPGJrd_YHOR18l-Ew#!/FileText/418234/300260",
+    "description" : "Справочник наименований государств и территорий мира (далее – Справочник) устанавливает написание наименований государств и территорий мира, их столиц и центров на русском, белорусском и английском языках. "
+  } ]
+}, {
+  "groupName" : "Агульнае",
+  "links" : [ {
+    "url" : "https://help.launchpad.net/Translations/Guide",
+    "description" : "Тэхнічныя аспекты радкоў Ubuntu"
+  }, {
+    "url" : "https://wiki.ubuntu.com/Translations/KnowledgeBase#General_documentation",
+    "description" : "Звесткі пра жыцьцёвы цыкл і асаблівасьці ажыцьцяўленьня перакладу ва Ubuntu "
+  }, {
+    "url" : "https://bnkorpus.info/download.html",
+    "description" : "Праверка правапісу для Mozilla Firefox/Thunderbird, MSOffice 2007/2010/2013, LibreOffice/OpenOffice"
+  }, {
+    "url" : "https://be.wikipedia.org/wiki/Вікіпедыя:Спраўджванне_правапісу ",
+    "description" : "Выкарыстоўвайце сродкі праверкі правапісу. Інструкцыі (спасылка працуе)"
+  } ]
+} ]

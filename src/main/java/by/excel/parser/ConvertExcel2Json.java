@@ -10,6 +10,7 @@ import java.util.List;
 
 import by.convert.AcadLacinkaConverter;
 import by.convert.AcadTaraskConverter;
+import by.convert.BaseConverter;
 import by.excel.parser.glossary.Record;
 import by.excel.parser.links.Link;
 import by.excel.parser.links.LinkGroup;
@@ -26,25 +27,49 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class ConvertExcel2Json {
 
+    private static final String INPUT_FILE = "Гласарый і стайлгайд перакладу Ubuntu на беларускую мову.xlsx";
+    private static final String GLOSSARY_SHEET_NAME = "Спіс тэрмінаў";
+    private static final String LINKS_SHEET_NAME = "Карысныя спасылкі";
+    private static final String STYLE_SHEET_NAME = "Стайлгайд";
+
     public static void main(String[] args) {
-        List<Record> customers = readExcelFile(
-                "Гласарый і стайлгайд перакладу Ubuntu на беларускую мову.xlsx",
-                "Спіс тэрмінаў");
-        writeObjects2JsonFile(customers, "glossary.json");
+        readConvertWriteGlossary(new BaseConverter(), "generated/glossary/1959acad.json");
+        readConvertWriteGlossary(new AcadTaraskConverter(), "generated/glossary/tarask.json");
+        readConvertWriteGlossary(new AcadLacinkaConverter(), "generated/glossary/lacinka.json");
 
+        readConvertWriteLinks(new BaseConverter(), "generated/links/1959acad.json");
+        readConvertWriteLinks(new AcadTaraskConverter(), "generated/links/tarask.json");
+        readConvertWriteLinks(new AcadLacinkaConverter(), "generated/links/lacinka.json");
 
-        ArrayList<LinkGroup> linksInfo = readLinksInfo(
-                "Гласарый і стайлгайд перакладу Ubuntu на беларускую мову.xlsx",
-                "Карысныя спасылкі");
-        writeObjects2JsonFile(linksInfo, "links.json");
-
-
-        ArrayList<StyleGroup> styleInfo = readStyleInfo(
-                "Гласарый і стайлгайд перакладу Ubuntu на беларускую мову.xlsx",
-                "Стайлгайд");
-        writeObjects2JsonFile(styleInfo, "style.json");
+        readConvertWriteStyle(new BaseConverter(), "generated/style/1959acad.json");
+        readConvertWriteStyle(new AcadTaraskConverter(), "generated/style/tarask.json");
+        readConvertWriteStyle(new AcadLacinkaConverter(), "generated/style/lacinka.json");
 
         System.out.println("Канвертацыя скончана.");
+    }
+
+    public static void readConvertWriteGlossary(BaseConverter baseConverter, String writePath) {
+        List<Record> records = readExcelFile(
+                INPUT_FILE,
+                GLOSSARY_SHEET_NAME,
+                baseConverter);
+        writeObjects2JsonFile(records, writePath);
+    }
+
+    public static void readConvertWriteLinks(BaseConverter baseConverter, String writePath) {
+        ArrayList<LinkGroup> linksInfo = readLinksInfo(
+                INPUT_FILE,
+                LINKS_SHEET_NAME,
+                baseConverter);
+        writeObjects2JsonFile(linksInfo, writePath);
+    }
+
+    public static void readConvertWriteStyle(BaseConverter converter, String writePath) {
+        ArrayList<StyleGroup> styleInfo = readStyleInfo(
+                INPUT_FILE,
+                STYLE_SHEET_NAME,
+                converter);
+        writeObjects2JsonFile(styleInfo, writePath);
     }
 
     /**
@@ -53,7 +78,7 @@ public class ConvertExcel2Json {
      * @param filePath
      * @return
      */
-    private static List<Record> readExcelFile(String filePath, String sheetName) {
+    private static List<Record> readExcelFile(String filePath, String sheetName, BaseConverter converter) {
         try {
             Workbook workbook = getWorkbook(filePath);
             Iterator<Row> rows = getSheetIterator(workbook, sheetName);
@@ -101,12 +126,12 @@ public class ConvertExcel2Json {
                 if (originalValue.isEmpty()) {
                     break;
                 }
-                record = new Record(rowNumber, originalValue,
-                        AcadTaraskConverter.convert(acadValue), AcadTaraskConverter.convert(acadWrong), AcadTaraskConverter.convert(acadComment),
-                        acadValue, acadWrong, acadComment,
-                        AcadLacinkaConverter.convert(acadValue), AcadLacinkaConverter.convert(acadWrong), AcadLacinkaConverter.convert(acadComment)
 
-                );
+                record = new Record(rowNumber,
+                        originalValue,
+                        converter.convert(acadValue),
+                        converter.convert(acadWrong),
+                        converter.convert(acadComment));
 
                 lstCustomers.add(record);
                 rowNumber++;
@@ -155,7 +180,7 @@ public class ConvertExcel2Json {
      * @param filePath
      * @return
      */
-    private static ArrayList<LinkGroup> readLinksInfo(String filePath, String sheetName) {
+    private static ArrayList<LinkGroup> readLinksInfo(String filePath, String sheetName, BaseConverter converter) {
         try {
             Workbook workbook = getWorkbook(filePath);
             Iterator<Row> rows = getSheetIterator(workbook, sheetName);
@@ -184,11 +209,11 @@ public class ConvertExcel2Json {
                     Cell currentCell = cellsInRow.next();
 
                     if (cellIndex == 0) { // Original value
-                        category = currentCell.getStringCellValue();
+                        category = converter.convert(currentCell.getStringCellValue());
                     } else if (cellIndex == 1) { // acad value
                         url = currentCell.getStringCellValue();
                     } else if (cellIndex == 2) { // Wrong example
-                        description = currentCell.getStringCellValue();
+                        description = converter.convert(currentCell.getStringCellValue());
                     }
 
                     cellIndex++;
@@ -217,7 +242,7 @@ public class ConvertExcel2Json {
         }
     }
 
-    private static ArrayList<StyleGroup> readStyleInfo(String filePath, String sheetName) {
+    private static ArrayList<StyleGroup> readStyleInfo(String filePath, String sheetName, BaseConverter converter) {
         try {
             Workbook workbook = getWorkbook(filePath);
             Iterator<Row> rows = getSheetIterator(workbook, sheetName);
@@ -246,11 +271,11 @@ public class ConvertExcel2Json {
                     Cell currentCell = cellsInRow.next();
 
                     if (cellIndex == 0) { // Original value
-                        category = currentCell.getStringCellValue();
+                        category = converter.convert(currentCell.getStringCellValue());
                     } else if (cellIndex == 1) { // acad value
-                        description = currentCell.getStringCellValue();
+                        description = converter.convert(currentCell.getStringCellValue());
                     } else if (cellIndex == 2) { // Wrong example
-                        example = currentCell.getStringCellValue();
+                        example = converter.convert(currentCell.getStringCellValue());
                     }
 
                     cellIndex++;

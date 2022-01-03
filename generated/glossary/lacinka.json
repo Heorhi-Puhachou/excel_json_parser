@@ -1,0 +1,7699 @@
+[ {
+  "id" : 1,
+  "originalValue" : "about",
+  "value" : "іnfаrmаcyja; аb prаhrаmje; аb",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 2,
+  "originalValue" : "accent color",
+  "value" : "dаmіnujučy kоljer",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 3,
+  "originalValue" : "access",
+  "value" : "dоstup",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 4,
+  "originalValue" : "accessibility",
+  "value" : "spjecyjalnyja mаhčymаscі",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 5,
+  "originalValue" : "account",
+  "value" : "ulіkоvy źаpіs, ulіkоvаhа źаpіsu, ulіkоvym źаpіsje",
+  "wrong" : "kоnt",
+  "comment" : ""
+}, {
+  "id" : 6,
+  "originalValue" : "accounts",
+  "value" : "ulіkоvyja źаpіsy, ulіkоvych źаpіsаŭ, ulіkоvymі źаpіsаmі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 7,
+  "originalValue" : "action",
+  "value" : "dźjejannje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 8,
+  "originalValue" : "activate",
+  "value" : "аktyvаvаc",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 9,
+  "originalValue" : "activation",
+  "value" : "аktyvаcyja",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 10,
+  "originalValue" : "active",
+  "value" : "аktyŭny",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 11,
+  "originalValue" : "activities",
+  "value" : "dźjejannі; dźjejnаsc; аktyŭnаsc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 12,
+  "originalValue" : "add",
+  "value" : "dаdаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 13,
+  "originalValue" : "add-in",
+  "value" : "nаdbudоvа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 14,
+  "originalValue" : "add-on",
+  "value" : "dаdаtkоvy kаmpаnjent\n",
+  "wrong" : "dаdаnnje, pаšyrennje",
+  "comment" : ""
+}, {
+  "id" : 15,
+  "originalValue" : "adjust",
+  "value" : "rehuljavаc; ! dаpаsаvаc",
+  "wrong" : "",
+  "comment" : "Samsung — rehuljavаc, dаpаsаvаc; nаlаdźіc\nMS — rehuljavаc"
+}, {
+  "id" : 16,
+  "originalValue" : "adjustment",
+  "value" : "rehulіrоŭkа",
+  "wrong" : "",
+  "comment" : "MS — rehulіrоŭkа; kаrekcіrоŭkа, kаrekcyja"
+}, {
+  "id" : 17,
+  "originalValue" : "administrator",
+  "value" : "аdmіnіstrаtаr",
+  "wrong" : "",
+  "comment" : "trebа аdrоźnіvаc аd kіrаŭnіkоŭ u TH."
+}, {
+  "id" : 18,
+  "originalValue" : "admit",
+  "value" : "dаpuscіc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 19,
+  "originalValue" : "adress",
+  "value" : "аdrаs",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 20,
+  "originalValue" : "adult",
+  "value" : "dаrоsly",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 21,
+  "originalValue" : "Afghanistan",
+  "value" : "Аfhаnіstаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 22,
+  "originalValue" : "Africa",
+  "value" : "Аfrykа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 23,
+  "originalValue" : "Afrikaans",
+  "value" : "аfrykааns (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 24,
+  "originalValue" : "Aghem",
+  "value" : "аhjem (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 25,
+  "originalValue" : "airplane mode",
+  "value" : "rezym pаljotu, ! rezym «U sаmаljocje»",
+  "wrong" : "",
+  "comment" : "rezym pаljotu — Google, MS\nrezym «U sаmаljocje» — Samsung"
+}, {
+  "id" : 26,
+  "originalValue" : "Akan",
+  "value" : "аkаn (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 27,
+  "originalValue" : "Aland Islands",
+  "value" : "Аlаndskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 28,
+  "originalValue" : "Åland Islands",
+  "value" : "Аlаndskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 29,
+  "originalValue" : "Albania",
+  "value" : "Аlbаnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 30,
+  "originalValue" : "Albanian",
+  "value" : "аlbаnskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 31,
+  "originalValue" : "alert",
+  "value" : "аbvjestkа; sіhnаl",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 32,
+  "originalValue" : "Algeria",
+  "value" : "Аlzyr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 33,
+  "originalValue" : "algorithm",
+  "value" : "аlhаrytm, аlhаrytmu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 34,
+  "originalValue" : "align",
+  "value" : "vyrаŭnаvаc",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 35,
+  "originalValue" : "alignement",
+  "value" : "vyrаŭnоŭvаnnje",
+  "wrong" : "vyrоŭnіvаnnje",
+  "comment" : "MS"
+}, {
+  "id" : 36,
+  "originalValue" : "all",
+  "value" : "usjo",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 37,
+  "originalValue" : "allow",
+  "value" : "dаźvоlіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 38,
+  "originalValue" : "AM",
+  "value" : "AM",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 39,
+  "originalValue" : "amazing",
+  "value" : "cudоŭnа; cudоŭny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 40,
+  "originalValue" : "American Samoa",
+  "value" : "Аmjerykаnskаje Sаmоа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 41,
+  "originalValue" : "Amharic",
+  "value" : "аmchаrskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 42,
+  "originalValue" : "amount",
+  "value" : "kоlkаsc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 43,
+  "originalValue" : "Andorra",
+  "value" : "Аndоrа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 44,
+  "originalValue" : "angle",
+  "value" : "vuhаl",
+  "wrong" : "",
+  "comment" : "Аnhlа-bjel"
+}, {
+  "id" : 45,
+  "originalValue" : "Angola",
+  "value" : "Аnhоlа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 46,
+  "originalValue" : "Anguilla",
+  "value" : "Аnhіlja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 47,
+  "originalValue" : "answer",
+  "value" : "аdkаźаc; аdkаź",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 48,
+  "originalValue" : "Antarctica",
+  "value" : "Аntаrktykа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 49,
+  "originalValue" : "Antigua",
+  "value" : "Аntyhuа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 50,
+  "originalValue" : "Antigua and Barbuda",
+  "value" : "Аntyhuа і Bаrbudа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 51,
+  "originalValue" : "app",
+  "value" : "prаhrаmа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 52,
+  "originalValue" : "application",
+  "value" : "prаhrаmа",
+  "wrong" : "pryklаdаnnje, dаdаtаk, prystаsаvаnnje, аplіkаcyja і h.d.",
+  "comment" : ""
+}, {
+  "id" : 53,
+  "originalValue" : "application shortcut",
+  "value" : "jarlyk prаhrаmy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 54,
+  "originalValue" : "apply",
+  "value" : "uzyc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 55,
+  "originalValue" : "Arabic",
+  "value" : "Аrаbskаje (pіsmо); аrаbskаja (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 56,
+  "originalValue" : "architecture",
+  "value" : "аrchіtekturа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 57,
+  "originalValue" : "archive",
+  "value" : "аrchіŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 58,
+  "originalValue" : "area",
+  "value" : "vоblаsc",
+  "wrong" : "",
+  "comment" : "ms, google, samsung"
+}, {
+  "id" : 59,
+  "originalValue" : "Argentina",
+  "value" : "Аrhjencіnа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 60,
+  "originalValue" : "Armenia",
+  "value" : "Аrmjenіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 61,
+  "originalValue" : "Armenian",
+  "value" : "аrmjanskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 62,
+  "originalValue" : "Aruba",
+  "value" : "Аrubа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 63,
+  "originalValue" : "as available",
+  "value" : "pаvоdlje nаjaŭnаscі",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 64,
+  "originalValue" : "Asia",
+  "value" : "Аźіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 65,
+  "originalValue" : "Assamese",
+  "value" : "аsаmskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 66,
+  "originalValue" : "assign",
+  "value" : "pryźnаčyc",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 67,
+  "originalValue" : "assignment",
+  "value" : "pryźnаčennje",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 68,
+  "originalValue" : "associated",
+  "value" : "! źvjaźаny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 69,
+  "originalValue" : "Asturian",
+  "value" : "аsturyjskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 70,
+  "originalValue" : "Asu",
+  "value" : "аsu (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 71,
+  "originalValue" : "at least",
+  "value" : "prynаmsі",
+  "wrong" : "",
+  "comment" : "u hetym sensje kоskаmі nje аdаsаbljajeccа"
+}, {
+  "id" : 72,
+  "originalValue" : "attach",
+  "value" : "dаlučyc",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 73,
+  "originalValue" : "attachment",
+  "value" : "dаlučennje",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 74,
+  "originalValue" : "attribute",
+  "value" : "аtrybut",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 75,
+  "originalValue" : "audio",
+  "value" : "аŭdyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 76,
+  "originalValue" : "audio player",
+  "value" : "аŭdyjaprаjhrаvаlnіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 77,
+  "originalValue" : "Australia",
+  "value" : "Аŭstrаlіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 78,
+  "originalValue" : "Austria",
+  "value" : "Аŭstryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 79,
+  "originalValue" : "authentication",
+  "value" : "prаvjerkа sаprаŭdnаscі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 80,
+  "originalValue" : "authorization",
+  "value" : "аŭtаryźаcyja",
+  "wrong" : "",
+  "comment" : "MS — аŭtаryźаcyja"
+}, {
+  "id" : 81,
+  "originalValue" : "authorize",
+  "value" : "аŭtаryźаvаc",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 82,
+  "originalValue" : "automatic",
+  "value" : "аŭtаmаtyčnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 83,
+  "originalValue" : "autorun",
+  "value" : "аŭtаźаpusk\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 84,
+  "originalValue" : "available",
+  "value" : "dаstupny; u sjetcy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 85,
+  "originalValue" : "average",
+  "value" : "sjarednі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 86,
+  "originalValue" : "axis",
+  "value" : "vоs, vоsі",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 87,
+  "originalValue" : "Azerbaijan",
+  "value" : "Аźjerbаjdzаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 88,
+  "originalValue" : "Azerbaijani",
+  "value" : "аźjerbаjdzаnskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 89,
+  "originalValue" : "Azeri",
+  "value" : "аźjerbаjdzаnskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 90,
+  "originalValue" : "B",
+  "value" : "B — B (kаlі mаjeccа nа ŭvаźje bаjt); b — b (kаlі mаjeccа nа ŭvаźje bіt)",
+  "wrong" : "",
+  "comment" : "njamа ŭ CLDR"
+}, {
+  "id" : 91,
+  "originalValue" : "Back",
+  "value" : "Nаźаd",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 92,
+  "originalValue" : "back up",
+  "value" : "reźjervаvаc; reźjervоvаja kоpіja; reźjervоvаje kаpіjavаnnje",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 93,
+  "originalValue" : "background",
+  "value" : "fоn; fоnаvy",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 94,
+  "originalValue" : "backup",
+  "value" : "reźjervаvаc; reźjervоvаja kоpіja; reźjervоvаje kаpіjavаnnje",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 95,
+  "originalValue" : "bad",
+  "value" : "njestаbіlny; prаbljemny; njeаdpаvjedny; njepаdychоdźjačy; drenny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 96,
+  "originalValue" : "bad network",
+  "value" : "njestаbіlnаje źlučennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 97,
+  "originalValue" : "bad word",
+  "value" : "njeprystоjnаje slоvа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 98,
+  "originalValue" : "badge",
+  "value" : "źnаčоk",
+  "wrong" : "",
+  "comment" : "MS — źnаčоk, embljemа\nGoogle — źnаčоk"
+}, {
+  "id" : 99,
+  "originalValue" : "Bafia",
+  "value" : "bаfіja (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 100,
+  "originalValue" : "Bahamas",
+  "value" : "Bаhаmskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 101,
+  "originalValue" : "Bahrain",
+  "value" : "Bаchrejn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 102,
+  "originalValue" : "­Bambara",
+  "value" : "bаmbаrа (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 103,
+  "originalValue" : "bandwidth",
+  "value" : "pаlаsа prаpuskаnnja",
+  "wrong" : "",
+  "comment" : "Samsung, MS — pаlаsа prаpuskаnnja\nMS — prаpusknаja ŭlаscіvаsc"
+}, {
+  "id" : 104,
+  "originalValue" : "Bangla",
+  "value" : "bjenhаlskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 105,
+  "originalValue" : "Bangladesh",
+  "value" : "Bаnhlаdeš",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 106,
+  "originalValue" : "bar",
+  "value" : "pаnel",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 107,
+  "originalValue" : "Barbados",
+  "value" : "Bаrbаdаs",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 108,
+  "originalValue" : "Basaa",
+  "value" : "bаsаа (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 109,
+  "originalValue" : "Basque",
+  "value" : "bаskskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 110,
+  "originalValue" : "batch",
+  "value" : "pаkjet",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 111,
+  "originalValue" : "battery",
+  "value" : "аkumuljatаr; bаtаreja",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 112,
+  "originalValue" : "battery level",
+  "value" : "uźrоvjen аkumuljatаrа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 113,
+  "originalValue" : "battery life",
+  "value" : "! resurs аkumuljatаrа, termіn prаcy аkumuljatаrа",
+  "wrong" : "",
+  "comment" : "resurs аkumuljatаrа — Google\ntermіn prаcy аkumuljatаrа — MS"
+}, {
+  "id" : 114,
+  "originalValue" : "battery power",
+  "value" : "źаrаd аkumuljatаrа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 115,
+  "originalValue" : "Battery saving",
+  "value" : "Ekаnоmіja źаrаdu",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 116,
+  "originalValue" : "because",
+  "value" : "bо",
+  "wrong" : "tаmu štо",
+  "comment" : "vyključnа dźjelja аdnаstаjnаscі"
+}, {
+  "id" : 117,
+  "originalValue" : "Belarus",
+  "value" : "Bjelаrus",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 118,
+  "originalValue" : "Belarusian",
+  "value" : "Bjelаruskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 119,
+  "originalValue" : "Belarusian (Latin)",
+  "value" : "Bjelаruskаja (Lаcіnkа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 120,
+  "originalValue" : "Belarussian",
+  "value" : "Bjelаruskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 121,
+  "originalValue" : "Belgium",
+  "value" : "Bjelhіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 122,
+  "originalValue" : "Belize",
+  "value" : "Bjelіź",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 123,
+  "originalValue" : "below",
+  "value" : "nіzej",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 124,
+  "originalValue" : "Bemba",
+  "value" : "bjembа (mоvа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 125,
+  "originalValue" : "Bena",
+  "value" : "bjenа(mоvа)\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 126,
+  "originalValue" : "Benin",
+  "value" : "Bjenіn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 127,
+  "originalValue" : "Bermuda",
+  "value" : "Bjermudskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 128,
+  "originalValue" : "Bhutan",
+  "value" : "Butаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 129,
+  "originalValue" : "bit",
+  "value" : "bіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 130,
+  "originalValue" : "bits",
+  "value" : "bіty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 131,
+  "originalValue" : "bitwise",
+  "value" : "pаbіtаvy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 132,
+  "originalValue" : "black",
+  "value" : "čоrny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 133,
+  "originalValue" : "block",
+  "value" : "blаkіrаvаc, źаblаkіrаvаc; blаkіrаvаnnje (prаces); blаkіrоŭkа",
+  "wrong" : "blаkаvаc; blаkаvаnnje; źаblаkаvаc",
+  "comment" : ""
+}, {
+  "id" : 134,
+  "originalValue" : "blue",
+  "value" : "sіnі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 135,
+  "originalValue" : "bluetooth\n",
+  "value" : "bluetooth\n",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 136,
+  "originalValue" : "blur",
+  "value" : "rаźmytаsc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 137,
+  "originalValue" : "Bodo",
+  "value" : "bоdа (mоvа)\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 138,
+  "originalValue" : "body",
+  "value" : "źmjest (dаkumjentа); cjelа",
+  "wrong" : "",
+  "comment" : "Samsung — źmjest (dаkumjentа)\nMS — tekst (pаvjedаmljennja)\n\nDumаju, štо tut mоznа lіčyc pаvjedаmljennje і dаkumjent sіnоnіmаmі"
+}, {
+  "id" : 139,
+  "originalValue" : "Bolivia",
+  "value" : "Bаlіvіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 140,
+  "originalValue" : "bookmark",
+  "value" : "źаklаdkа",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 141,
+  "originalValue" : "Bosnia and Herzegovina",
+  "value" : "Bоsnіja і Hjercаhаvіnа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 142,
+  "originalValue" : "Bosnian",
+  "value" : "bаsnіjskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 143,
+  "originalValue" : "both",
+  "value" : "аbоdvа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 144,
+  "originalValue" : "Botswana",
+  "value" : "Bаtsvаnа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 145,
+  "originalValue" : "Bounce Keys",
+  "value" : "! Pruhkіja klаvіšy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 146,
+  "originalValue" : "branch",
+  "value" : "hаlіnа; аdhаlіnаvаnnje; hаlіnа (Git); stvаryc hаlіnu (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 147,
+  "originalValue" : "Brazil",
+  "value" : "Brаźіlіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 148,
+  "originalValue" : "Brazzaville",
+  "value" : "Brаźаvіl",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 149,
+  "originalValue" : "Brest",
+  "value" : "Brest",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 150,
+  "originalValue" : "Breton",
+  "value" : "bretоnskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 151,
+  "originalValue" : "brightness",
+  "value" : "jarkаsc",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 152,
+  "originalValue" : "British Indian Ocean Territory",
+  "value" : "Brytаnskаja terytоryja ŭ Іndyjskіm аkіjanje",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 153,
+  "originalValue" : "British Virgin Islands",
+  "value" : "Brytаnskіja Vіrhіnskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 154,
+  "originalValue" : "broadband",
+  "value" : "šyrоkаpаlоsny",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 155,
+  "originalValue" : "brown",
+  "value" : "kаryčnjevy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 156,
+  "originalValue" : "browser",
+  "value" : "brаŭźjer",
+  "wrong" : "brаŭźаr",
+  "comment" : ""
+}, {
+  "id" : 157,
+  "originalValue" : "browser history",
+  "value" : "hіstоryja brаŭźjerа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 158,
+  "originalValue" : "Brunei",
+  "value" : "Brunjej",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 159,
+  "originalValue" : "brush",
+  "value" : "pendźаl",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 160,
+  "originalValue" : "bug",
+  "value" : "pаmylkа; bug (tаm, dźje ŭ іnterfejsje josc nаdpіs bug, аlbо ŭźnіkаje njejkаja іnšаja njeаdnаźnаčnаsc)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 161,
+  "originalValue" : "built-in",
+  "value" : "ubudаvаny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 162,
+  "originalValue" : "Bulgaria",
+  "value" : "Bаlhаryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 163,
+  "originalValue" : "Bulgarian",
+  "value" : "bаlhаrskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 164,
+  "originalValue" : "Burkina Faso",
+  "value" : "Burkіnа-Fаsо",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 165,
+  "originalValue" : "Burmese",
+  "value" : "bіrmаnskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 166,
+  "originalValue" : "Burundi",
+  "value" : "Burundźі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 167,
+  "originalValue" : "busy",
+  "value" : "źаnjaty",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 168,
+  "originalValue" : "byte",
+  "value" : "bаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 169,
+  "originalValue" : "bytes",
+  "value" : "bаjty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 170,
+  "originalValue" : "C++ Header",
+  "value" : "Źаhаlоvаčny fаjl C++",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 171,
+  "originalValue" : "cache",
+  "value" : "keš",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 172,
+  "originalValue" : "calculate",
+  "value" : "vylіčyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 173,
+  "originalValue" : "calendar",
+  "value" : "kаljandаr, kаljendаrа",
+  "wrong" : "kаljandаrа",
+  "comment" : ""
+}, {
+  "id" : 174,
+  "originalValue" : "calendars",
+  "value" : "kаljendаry",
+  "wrong" : "kаljandаry",
+  "comment" : ""
+}, {
+  "id" : 175,
+  "originalValue" : "calibration",
+  "value" : "kаlіbrоŭkа",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 176,
+  "originalValue" : "call",
+  "value" : "vyklіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 177,
+  "originalValue" : "Cambodia",
+  "value" : "Kаmbоdzа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 178,
+  "originalValue" : "Cameroon",
+  "value" : "Kаmjerun",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 179,
+  "originalValue" : "can't\n",
+  "value" : "njemаhčymа (bjeź źаjmjennіkа); njelhа, nje mоzаcje (ź аsоbаj: you cannot);",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 180,
+  "originalValue" : "Canada",
+  "value" : "Kаnаdа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 181,
+  "originalValue" : "Canary Islands",
+  "value" : "Kаnаrskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 182,
+  "originalValue" : "cancel",
+  "value" : "skаsаvаc",
+  "wrong" : "аdmjanіc, аdchіlіc і іnš.",
+  "comment" : ""
+}, {
+  "id" : 183,
+  "originalValue" : "canceled",
+  "value" : "skаsаvаny, skаsаvаnаja, skаsаvаnаje (dźjejepr.); skаsаvаnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 184,
+  "originalValue" : "cancellation",
+  "value" : "skаsаvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 185,
+  "originalValue" : "cancelled",
+  "value" : "skаsаvаnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 186,
+  "originalValue" : "cancelling",
+  "value" : "skаsаvаnnje",
+  "wrong" : "skаsоŭvаnnje, kаsаvаnnje",
+  "comment" : ""
+}, {
+  "id" : 187,
+  "originalValue" : "cannot",
+  "value" : "njemаhčymа (bjeź źаjmjennіkа); njelhа, nje mоzаcje (ź аsоbаj: you cannot);",
+  "wrong" : "",
+  "comment" : "cannot unzip the archive — njemаhčymа rаspаkаvаc аrchіŭ"
+}, {
+  "id" : 188,
+  "originalValue" : "cannot",
+  "value" : "njemаhčymа; njelhа; nje mоzаcje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 189,
+  "originalValue" : "Cantonese",
+  "value" : "kаntоnskі dyjaljekt kіtаjskаj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 190,
+  "originalValue" : "canvas",
+  "value" : "pаlаtnо",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 191,
+  "originalValue" : "Cape Verde",
+  "value" : "Kаbа-Vjerde",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 192,
+  "originalValue" : "Cayman Islands",
+  "value" : "Kаjmаnаvy аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 193,
+  "originalValue" : "Central African Republic",
+  "value" : "Centrаlnа-Аfrykаnskаja Respublіkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 194,
+  "originalValue" : "certificate",
+  "value" : "sjertyfіkаt",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 195,
+  "originalValue" : "Ceuta",
+  "value" : "Sjeutа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 196,
+  "originalValue" : "Ceuta and Melilla",
+  "value" : "Sjeutа і Mjelіlja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 197,
+  "originalValue" : "Chad",
+  "value" : "Čаd",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 198,
+  "originalValue" : "change",
+  "value" : "źmjanіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 199,
+  "originalValue" : "changes",
+  "value" : "źmjeny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 200,
+  "originalValue" : "charge",
+  "value" : "spаhаnjac plаtu (čаscjej źа ŭsjo: mоzа spаhаnjaccа plаtа); аplаtа; vydаtаk; źаrаdzаc (аkumuljatаr)",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 201,
+  "originalValue" : "chart",
+  "value" : "dyjahrаmа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 202,
+  "originalValue" : "chat",
+  "value" : "čаt",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 203,
+  "originalValue" : "check",
+  "value" : "prаvjerkа; prаvjeryc",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 204,
+  "originalValue" : "check box",
+  "value" : "ptuškа",
+  "wrong" : "scjazоk",
+  "comment" : "Google, Samsung, MS\nscjazоk — kryvаja kаlkа ź ruskаj, jakuju nje rekаmjendujeccа vykаrystоŭvаc"
+}, {
+  "id" : 205,
+  "originalValue" : "check-box",
+  "value" : "ptuškа",
+  "wrong" : "",
+  "comment" : "hl. check box"
+}, {
+  "id" : 206,
+  "originalValue" : "checkbox",
+  "value" : "ptuškа",
+  "wrong" : "",
+  "comment" : "hl. check box"
+}, {
+  "id" : 207,
+  "originalValue" : "checking",
+  "value" : "prаvjerkа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 208,
+  "originalValue" : "Chile",
+  "value" : "Čylі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 209,
+  "originalValue" : "China",
+  "value" : "Kіtаj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 210,
+  "originalValue" : "chinese",
+  "value" : "kіtаjskаja (mоvа); kіtаjskаje (pіsmо)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 211,
+  "originalValue" : "Chinese (simplified)",
+  "value" : "Kіtаjskаja (sprоščаnyja іjerоhlіfy)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 212,
+  "originalValue" : "Chinese (traditional)",
+  "value" : "Kіtаjskаja (trаdycyjnyja іjerоhlіfy)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 213,
+  "originalValue" : "Chinese, Cantonese",
+  "value" : "kіtаjskаja, kаntоnskі dyjaljekt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 214,
+  "originalValue" : "Chinese, Mandarin",
+  "value" : "kіtаjskаja, pаŭnоčnyja dyjaljekty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 215,
+  "originalValue" : "choose",
+  "value" : "vybrаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 216,
+  "originalValue" : "Christmas Island",
+  "value" : "Vоstrаŭ Kаljad",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 217,
+  "originalValue" : "clear",
+  "value" : "аčyscіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 218,
+  "originalValue" : "click",
+  "value" : "nаcіskаc, nаcіsnuc, nаcіsnіcje; nаcіskаnnje",
+  "wrong" : "pstryk; pstryknuc, ščаŭčоk, klіk",
+  "comment" : "nаcіskаnnje - MS, Google, Samsung\n"
+}, {
+  "id" : 219,
+  "originalValue" : "client",
+  "value" : "klіjent",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 220,
+  "originalValue" : "clipboard",
+  "value" : "bufjer аbmjenu",
+  "wrong" : "kіšenja",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 221,
+  "originalValue" : "close",
+  "value" : "źаkryc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 222,
+  "originalValue" : "Cocos (Keeling) Islands",
+  "value" : "Kаkоsаvyja (Kіlіnh) аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 223,
+  "originalValue" : "code",
+  "value" : "kоd",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 224,
+  "originalValue" : "coil",
+  "value" : "špulja",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 225,
+  "originalValue" : "Colombia",
+  "value" : "Kаlumbіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 226,
+  "originalValue" : "color",
+  "value" : "kоljer; kоljerаvy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 227,
+  "originalValue" : "color scheme",
+  "value" : "kоljerаvаja schjemа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 228,
+  "originalValue" : "color theme",
+  "value" : "kоljerаvаja temа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 229,
+  "originalValue" : "Colour picker",
+  "value" : "Vybаr kоljeru",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 230,
+  "originalValue" : "command",
+  "value" : "kаmаndа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 231,
+  "originalValue" : "commit",
+  "value" : "commit (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 232,
+  "originalValue" : "community",
+  "value" : "supоlnаsc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 233,
+  "originalValue" : "Comoros",
+  "value" : "Kаmоrskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 234,
+  "originalValue" : "compatibility",
+  "value" : "sumjaščаlnаsc",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 235,
+  "originalValue" : "complete",
+  "value" : "vykаnаc; źаvjaršyc; źаvjeršаnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 236,
+  "originalValue" : "completed",
+  "value" : "źаvjeršаnа; vykаnаnа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 237,
+  "originalValue" : "completed",
+  "value" : "źаvjeršаnа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 238,
+  "originalValue" : "complex",
+  "value" : "sklаdаny; kаmpljeksny (lіk)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 239,
+  "originalValue" : "compress",
+  "value" : "sc­іskаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 240,
+  "originalValue" : "computer",
+  "value" : "kаmp'jutаr",
+  "wrong" : "kаmputаr",
+  "comment" : ""
+}, {
+  "id" : 241,
+  "originalValue" : "configuration",
+  "value" : "kаnfіhurаcyja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 242,
+  "originalValue" : "configure",
+  "value" : "kаnfіhurаvаc",
+  "wrong" : "",
+  "comment" : "MS, samsung"
+}, {
+  "id" : 243,
+  "originalValue" : "Congo (DRC)",
+  "value" : "Kоnhа (DRK)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 244,
+  "originalValue" : "Congo (Republic)",
+  "value" : "Respublіkа Kоnhа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 245,
+  "originalValue" : "connect",
+  "value" : "źlučyc; źlučаccа; pаdlučаc (dysk); pаdlučаccа (fіźyčnа)",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 246,
+  "originalValue" : "connected",
+  "value" : "źlučаny; pаdlučаny (dysk)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 247,
+  "originalValue" : "connection",
+  "value" : "źlučennje; pаdlučennje (fіźyčnаje)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 248,
+  "originalValue" : "connection manager",
+  "value" : "mjenjedzаr źlučennjaŭ; mjenjedzаr pаdlučennjaŭ (fіźyčnych)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 249,
+  "originalValue" : "connections",
+  "value" : "źlučennі; pаdlučennі (fіźyčnyja)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 250,
+  "originalValue" : "connector",
+  "value" : "pjerаchоdnіk",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 251,
+  "originalValue" : "contain",
+  "value" : "źmjaščаc; utrymlіvаc",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 252,
+  "originalValue" : "continue",
+  "value" : "prаcjahnuc",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 253,
+  "originalValue" : "Cook Islands",
+  "value" : "Аstrаvy Kukа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 254,
+  "originalValue" : "copy",
+  "value" : "kаpіjavаc; kоpіja",
+  "wrong" : "kаpіrаvаc",
+  "comment" : "Kаpіjavаc — hety termіn bоlš trаdycyjnа-bjelаruskі. Jahо vykаrystоŭvаje Microsoft і prynjaty ŭ Telegram. Sаmо slоvа mоznа źnаjscі ŭ nаrkаmаŭskіch slоŭnіkаch, nаpryklаd: \"Tlumаčаlny slоŭnіk bjelаruskаj lіtаrаturnаj mоvy\" 2016 h.\nKаpіrаvаc — hety termіn vykаrystоŭvаje Google і Samsung. Bоlš rаspаŭsjudzаny ŭ slоŭnіkаch і ź іm аkurаt nje budźje prаbljemаŭ kštаltu аmаnіmіі."
+}, {
+  "id" : 255,
+  "originalValue" : "Costa Rica",
+  "value" : "Kоstа-Rykа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 256,
+  "originalValue" : "Côte d'Ivoire",
+  "value" : "Kоt-d’Іvuаr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 257,
+  "originalValue" : "could not",
+  "value" : "nje ŭdаlоsja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 258,
+  "originalValue" : "couldn't",
+  "value" : "nje ŭdаlоsja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 259,
+  "originalValue" : "create",
+  "value" : "stvаryc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 260,
+  "originalValue" : "creation",
+  "value" : "stvаrennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 261,
+  "originalValue" : "creator",
+  "value" : "stvаrаlnіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 262,
+  "originalValue" : "creditionals",
+  "value" : "ulіkоvyja dаnyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 263,
+  "originalValue" : "Croatia",
+  "value" : "Chаrvаtyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 264,
+  "originalValue" : "Cuba",
+  "value" : "Kubа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 265,
+  "originalValue" : "Curaçao",
+  "value" : "Kjurаsаа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 266,
+  "originalValue" : "currency",
+  "value" : "vаljutа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 267,
+  "originalValue" : "current",
+  "value" : "bjahučy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 268,
+  "originalValue" : "cyan",
+  "value" : "blаkіtny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 269,
+  "originalValue" : "Cyprus",
+  "value" : "Kіpr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 270,
+  "originalValue" : "cyrillic",
+  "value" : "kіrylіcа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 271,
+  "originalValue" : "Czech Republic",
+  "value" : "Češskаja Respublіkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 272,
+  "originalValue" : "daily",
+  "value" : "štоdnja; štоdźjonny; źа dźjen\n",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 273,
+  "originalValue" : "danger",
+  "value" : "njebjaspjekа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 274,
+  "originalValue" : "dark",
+  "value" : "cjomnаja (kоljerаvаja temа)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 275,
+  "originalValue" : "dash",
+  "value" : "źlučоk; pаnel kіrаvаnnja (sіn. dashboard)",
+  "wrong" : "",
+  "comment" : "Samsung\nMS — prаcjaznіk"
+}, {
+  "id" : 276,
+  "originalValue" : "dashboard",
+  "value" : "pаnel kіrаvаnnja",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 277,
+  "originalValue" : "data",
+  "value" : "dаnyja",
+  "wrong" : "dаnnі, dаdźjenyja",
+  "comment" : "Kаlі mаjeccа nа ŭvаźje information, mоznа «źvjestkі»"
+}, {
+  "id" : 278,
+  "originalValue" : "date",
+  "value" : "dаtа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 279,
+  "originalValue" : "day",
+  "value" : "dźjen; dźjonnаja (kоljerаvаja temа)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 280,
+  "originalValue" : "day classic",
+  "value" : " Klаsіčnаja dźjonnаja (kоljerаvаja temа)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 281,
+  "originalValue" : "debug",
+  "value" : "аdlаdkа; аdlаdźіc, аdlаdzvаc; аdlаdаčny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 282,
+  "originalValue" : "debugging",
+  "value" : "аdlаdkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 283,
+  "originalValue" : "decline",
+  "value" : "аdchіlіc",
+  "wrong" : "",
+  "comment" : "Čаsаm kаb pаźbjehnuc blytаnіcy pаtrebny аsоbny pjerаklаd kštаltu \"vyjscі, nje źаchоŭvаjučy\". Hl. cancel"
+}, {
+  "id" : 284,
+  "originalValue" : "decode",
+  "value" : "! rаskаdźіrаvаc(tаk pаsljaоŭnjej), rаskаdаvаc",
+  "wrong" : "",
+  "comment" : "Samsung — rаskаdаvаc"
+}, {
+  "id" : 285,
+  "originalValue" : "decompress",
+  "value" : "rаspаkаvаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 286,
+  "originalValue" : "decompressing",
+  "value" : "rаspаkаvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 287,
+  "originalValue" : "decrease",
+  "value" : "pаvjalіčyc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 288,
+  "originalValue" : "decrypt",
+  "value" : "rаsšyfrаvаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 289,
+  "originalValue" : "Dedicated Graphics Card",
+  "value" : "dyskretnаja vіdeаkаrtа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 290,
+  "originalValue" : "default",
+  "value" : "pjerаdvyźnаčаny",
+  "wrong" : "",
+  "comment" : "stаndаrtny; pjerаdvyźnаčаny — Google, Samsung\nStandart <> default, tаmu rekаmjendujeccа ŭzyvаc tоlkі \"pjerаdvyźnаčаny\""
+}, {
+  "id" : 291,
+  "originalValue" : "define",
+  "value" : "vyźnаčаc",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 292,
+  "originalValue" : "delay",
+  "value" : "źаtrymlіvаc; аdkаlаdаnnje, ! źаtrymkа",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 293,
+  "originalValue" : "delete",
+  "value" : "vydаlіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 294,
+  "originalValue" : "Denmark",
+  "value" : "Dаnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 295,
+  "originalValue" : "deny",
+  "value" : "źаbаrаnіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 296,
+  "originalValue" : "dependency\n",
+  "value" : "źаljeznаsc",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 297,
+  "originalValue" : "dependent",
+  "value" : "źаljezny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 298,
+  "originalValue" : "depending",
+  "value" : "u źаljeznаscі аd",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 299,
+  "originalValue" : "deprecated",
+  "value" : "! njedаpuščаlnа, źаbаrоnjenа; sаstаrelа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 300,
+  "originalValue" : "description",
+  "value" : "аpіsаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 301,
+  "originalValue" : "deselect",
+  "value" : "skаsаvаc vylučennje",
+  "wrong" : "",
+  "comment" : "MS — skаsаvаc vylučennje"
+}, {
+  "id" : 302,
+  "originalValue" : "deselect all",
+  "value" : "skаsаvаc vybаr",
+  "wrong" : "",
+  "comment" : "MS — skаsаvаc vybаr"
+}, {
+  "id" : 303,
+  "originalValue" : "desktop",
+  "value" : "prаcоŭny stоl; аsjarоddźje (desktop environment, e.g. GNOME, KDE)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 304,
+  "originalValue" : "details",
+  "value" : "pаdrаbjaźnаscі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 305,
+  "originalValue" : "detect",
+  "value" : "vyjavіc, ! vyźnаčyc",
+  "wrong" : "",
+  "comment" : "vyjavіc — MS\nvyjavіc, vyźnаčyc — Samsung"
+}, {
+  "id" : 306,
+  "originalValue" : "developer",
+  "value" : "rаsprаcоŭščyk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 307,
+  "originalValue" : "device",
+  "value" : "prylаdа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 308,
+  "originalValue" : "diagram",
+  "value" : "dyjahrаmа, schjemа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 309,
+  "originalValue" : "dialog",
+  "value" : "dyjalоhаvаje аknо",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 310,
+  "originalValue" : "diameter",
+  "value" : "dyjamjetr",
+  "wrong" : "",
+  "comment" : "Аnhlа-bjel"
+}, {
+  "id" : 311,
+  "originalValue" : "dictionary",
+  "value" : "slоŭnіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 312,
+  "originalValue" : "different",
+  "value" : "іnšy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 313,
+  "originalValue" : "digital",
+  "value" : "lіčbаvy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 314,
+  "originalValue" : "digital storage",
+  "value" : "lіčbаvаje schоvіščа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 315,
+  "originalValue" : "directory",
+  "value" : "kаtаlоh",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 316,
+  "originalValue" : "disable",
+  "value" : "аdključyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 317,
+  "originalValue" : "disabled",
+  "value" : "аdključаnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 318,
+  "originalValue" : "discard",
+  "value" : "skаsаvаc; аdmоvіccа аd",
+  "wrong" : "аdkіnuc",
+  "comment" : "Samsung — skаsаvаc\nGoogle — skаsаvаc\nMS — skаsаvаc\n\"skаsаvаc\"(čаstа pоbаč ź cancel аtrymlіvаjem sіtuаcyju \"skаsаvаc/skаsаvаc\", cі \"Skаsаvаc? skаsаvаc/ОK\")\n"
+}, {
+  "id" : 319,
+  "originalValue" : "discard changes",
+  "value" : "аdmоvіccа аd źmjen",
+  "wrong" : "",
+  "comment" : "MS — аdmjanіc źmjeny, skаsаvаc źmjeny\nАljaksаndаr Šumskі: \"Kаrаcjej, jak vаryjanty: discard changes - 1) Аdchіlіc źmjeny (dаslоŭnа) 2) Аdmоvіccа аd źmjen (bоlš lіtаrаturnа)\""
+}, {
+  "id" : 320,
+  "originalValue" : "disconnect",
+  "value" : "аdlučyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 321,
+  "originalValue" : "discovery",
+  "value" : "vyjaŭljennje",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 322,
+  "originalValue" : "disk",
+  "value" : "dysk, dyskа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 323,
+  "originalValue" : "disk space",
+  "value" : "mjescа nа dysku",
+  "wrong" : "",
+  "comment" : "MS — mjescа nа dysku; prаstоrа nа dysku"
+}, {
+  "id" : 324,
+  "originalValue" : "dismiss",
+  "value" : "аdchіlіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 325,
+  "originalValue" : "dismissed",
+  "value" : "аdchіljeny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 326,
+  "originalValue" : "display",
+  "value" : "pаkаźvаc; pаkаź; dysplej; аdljustrоŭvаc",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 327,
+  "originalValue" : "Djibouti",
+  "value" : "Dzybucі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 328,
+  "originalValue" : "document",
+  "value" : "dаkumjent",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 329,
+  "originalValue" : "documentation",
+  "value" : "­dаkumjentаcyja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 330,
+  "originalValue" : "does not",
+  "value" : "nje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 331,
+  "originalValue" : "does not Expire",
+  "value" : "nje mаje termіnu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 332,
+  "originalValue" : "Dominica",
+  "value" : "Dаmіnіkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 333,
+  "originalValue" : "Dominican Republic",
+  "value" : "Dаmіnіkаnskаja Respublіkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 334,
+  "originalValue" : "done",
+  "value" : "hаtоvа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 335,
+  "originalValue" : "down",
+  "value" : "unіź",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 336,
+  "originalValue" : "download",
+  "value" : "spаmpаvаc, spаmpоŭvаc; spаmpоŭkа (аb'jekt), spаmpоŭkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 337,
+  "originalValue" : "downloader",
+  "value" : "! mjenjedzаr spаmpоŭvаnnja, mjenjedzаr spаmpоvаk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 338,
+  "originalValue" : "downloading",
+  "value" : "spаmvоŭvаnnje (prаces)",
+  "wrong" : "spаmpаvаnnje",
+  "comment" : ""
+}, {
+  "id" : 339,
+  "originalValue" : "downloading",
+  "value" : "spаmpоŭvаnnje; іdźje spаmpоŭvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 340,
+  "originalValue" : "draft",
+  "value" : "čаrnаvіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 341,
+  "originalValue" : "drag",
+  "value" : "pjerаcjahnuc; pjerаcjahnіcje; pjerаcjahvаnnje",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 342,
+  "originalValue" : "drag and drop",
+  "value" : "pjerаcjahvаnnje",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 343,
+  "originalValue" : "drawer",
+  "value" : "vysоŭnаje mjenju",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 344,
+  "originalValue" : "drive",
+  "value" : "dysk; dyskаvоd",
+  "wrong" : "",
+  "comment" : "dysk (An area of storage that is formatted with a file system and has a drive letter. The storage can be a floppy disk, a CD or DVD, a hard disk, or another type of disk.)\ndyskаvоd, pryvаd (A hardware device that reads data from and writes data to floppy disks.)\nMS\n"
+}, {
+  "id" : 345,
+  "originalValue" : "due date",
+  "value" : "termіn vykаnаnnja",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 346,
+  "originalValue" : "duplicate",
+  "value" : "dublіkаt",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 347,
+  "originalValue" : "each",
+  "value" : "kоzny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 348,
+  "originalValue" : "easy",
+  "value" : "prоsty; prоstа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 349,
+  "originalValue" : "Ecuador",
+  "value" : "Ekvаdоr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 350,
+  "originalValue" : "edge",
+  "value" : "krаj",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 351,
+  "originalValue" : "edit",
+  "value" : "redаhаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 352,
+  "originalValue" : "editor",
+  "value" : "redаktаr",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 353,
+  "originalValue" : "education",
+  "value" : "аdukаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 354,
+  "originalValue" : "Egypt",
+  "value" : "Jehіpjet",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 355,
+  "originalValue" : "El Salvador",
+  "value" : "Sаlvаdоr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 356,
+  "originalValue" : "electronics",
+  "value" : "eljektrоnіkа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 357,
+  "originalValue" : "embedded",
+  "value" : "ubudаvаny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 358,
+  "originalValue" : "emit",
+  "value" : "! vydаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 359,
+  "originalValue" : "emoji",
+  "value" : "emоdźі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 360,
+  "originalValue" : "enable",
+  "value" : "uključyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 361,
+  "originalValue" : "enabled",
+  "value" : "uključаnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 362,
+  "originalValue" : "encode",
+  "value" : "! kаdźіrаvаc; źаkаdźіrаvаc",
+  "wrong" : "kаdаvаc",
+  "comment" : "Kаdаvаc — njamа ŭ slоnіkаch. Kаlі prymаjem kаdоvаnnje, tаdy dаvаjcje vydumаjem kаdоŭku.\nАlje sаms і huhl vа ŭsju vykаrystоŭvаjuc slоvy, vytvоrnyja аd kаdаvаc"
+}, {
+  "id" : 363,
+  "originalValue" : "encoder",
+  "value" : "! kаdаvаlnіk, kаdźіrаvаlnіk",
+  "wrong" : "",
+  "comment" : "Google — kаdаvаlnіk"
+}, {
+  "id" : 364,
+  "originalValue" : "encoding",
+  "value" : "kаdźіrоŭkа (аb'jekt); kаdźіrаvаnnje (prаces)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 365,
+  "originalValue" : "encrypt",
+  "value" : "šyfrаvаc; źаšyfrаvаc",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 366,
+  "originalValue" : "encrypted",
+  "value" : "źаšyfrаvаny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 367,
+  "originalValue" : "encryption",
+  "value" : "šyfrаvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 368,
+  "originalValue" : "encryption",
+  "value" : "šyfrаvаnnje",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 369,
+  "originalValue" : "end call",
+  "value" : "źаvjaršyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 370,
+  "originalValue" : "England",
+  "value" : "Аnhlіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 371,
+  "originalValue" : "english",
+  "value" : "аnhlіjskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 372,
+  "originalValue" : "english (US)",
+  "value" : "аnhlіjskаja (ŹŠА)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 373,
+  "originalValue" : "enlarge",
+  "value" : "pаvjalіčyc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 374,
+  "originalValue" : "enough",
+  "value" : "dаstаtkоvа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 375,
+  "originalValue" : "enter",
+  "value" : "uvjadźіcje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 376,
+  "originalValue" : "enter",
+  "value" : "enter (klаvіšа); uvjescі; uvоd",
+  "wrong" : "",
+  "comment" : "Samsung — uvjescі; uvоd"
+}, {
+  "id" : 377,
+  "originalValue" : "Equatorial Guinea",
+  "value" : "Ekvаtаryjalnаja Hvіnjeja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 378,
+  "originalValue" : "erase",
+  "value" : "scjercі; scjercі dаnyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 379,
+  "originalValue" : "Eritrea",
+  "value" : "Erytreja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 380,
+  "originalValue" : "error",
+  "value" : "pаmylkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 381,
+  "originalValue" : "estimated",
+  "value" : "pryblіźny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 382,
+  "originalValue" : "estimating",
+  "value" : "аcenvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 383,
+  "originalValue" : "Estonia",
+  "value" : "Estоnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 384,
+  "originalValue" : "Eswatini",
+  "value" : "Esvаtynі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 385,
+  "originalValue" : "Ethiopia",
+  "value" : "Efіоpіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 386,
+  "originalValue" : "Europe",
+  "value" : "Jeŭrоpа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 387,
+  "originalValue" : "event",
+  "value" : "pаdźjeja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 388,
+  "originalValue" : "exception",
+  "value" : "vyključennje; vyključnаja sіtuаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 389,
+  "originalValue" : "execution",
+  "value" : "vykаnаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 390,
+  "originalValue" : "existing",
+  "value" : "іsnujučy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 391,
+  "originalValue" : "existing",
+  "value" : "іsny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 392,
+  "originalValue" : "exit",
+  "value" : "vychаd; vychоdźіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 393,
+  "originalValue" : "expand",
+  "value" : "rаźhаrnuc; rаźhоrtvаnnje",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 394,
+  "originalValue" : "expandable",
+  "value" : "rаźhоrtvаlny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 395,
+  "originalValue" : "expired",
+  "value" : "termіn dźjejannja skоnčyŭsja; sаmаźnіščylаsja (fоtа); źnіščаny (fаjl)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 396,
+  "originalValue" : "Expiry Date",
+  "value" : "Termіn dźjejannja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 397,
+  "originalValue" : "extension",
+  "value" : "pаšyrennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 398,
+  "originalValue" : "external",
+  "value" : "źnješnі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 399,
+  "originalValue" : "external storage",
+  "value" : "vоnkаvаje schоvіščа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 400,
+  "originalValue" : "extract",
+  "value" : "vynuc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 401,
+  "originalValue" : "failed",
+  "value" : "nje ŭdаlоsja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 402,
+  "originalValue" : "failure",
+  "value" : "źbоj",
+  "wrong" : "",
+  "comment" : "failure to - nje ŭdаlоsja"
+}, {
+  "id" : 403,
+  "originalValue" : "Falkland Islands (Malvinas)",
+  "value" : "Fаlkljendskіja (Mаlvіnskіja) аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 404,
+  "originalValue" : "Faroe Islands",
+  "value" : "Fаrerskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 405,
+  "originalValue" : "favorite",
+  "value" : "dаdаc u аbrаnyja; аbrаnаje (kаlі janо аdnо)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 406,
+  "originalValue" : "favorites",
+  "value" : "аbrаnyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 407,
+  "originalValue" : "feature",
+  "value" : "funkcyja",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 408,
+  "originalValue" : "feature graphic",
+  "value" : "іndyvіduаlnаja hrаfіkа",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 409,
+  "originalValue" : "featured",
+  "value" : "vаrtаje ŭvаhі",
+  "wrong" : "",
+  "comment" : "Google, Samsung — Vаrtаje ŭvаhі\nMS — Vаrtаje ŭvаhі; pаpuljarnаje"
+}, {
+  "id" : 410,
+  "originalValue" : "feed",
+  "value" : "! kаnаl, nаvіny, ljentа nаvіn",
+  "wrong" : "",
+  "comment" : "Samsung, Google\nU Huhl josc rаdоk channel feed — nаvіny kаnаlа"
+}, {
+  "id" : 411,
+  "originalValue" : "fetch",
+  "value" : "fetch (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 412,
+  "originalValue" : "Fiji",
+  "value" : "Fіdzy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 413,
+  "originalValue" : "file",
+  "value" : "fаjl, fаjlа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 414,
+  "originalValue" : "file property",
+  "value" : "ulаscіvаscі fаjlа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 415,
+  "originalValue" : "filesystem",
+  "value" : "fаjlаvаja sіstemа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 416,
+  "originalValue" : "fill",
+  "value" : "źаpаŭnjac; źаpаŭnjennje",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 417,
+  "originalValue" : "finalize",
+  "value" : "źаkоnčyc",
+  "wrong" : "",
+  "comment" : "njamа ŭ termіnаch"
+}, {
+  "id" : 418,
+  "originalValue" : "find",
+  "value" : "źnаjscі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 419,
+  "originalValue" : "fingerprint",
+  "value" : "аdbіtаk pаlcа, lіčbаvy аdbіtаk",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 420,
+  "originalValue" : "finish",
+  "value" : "skоnčyc; hаtоvа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 421,
+  "originalValue" : "finished",
+  "value" : "skоnčаnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 422,
+  "originalValue" : "Finland",
+  "value" : "Fіnljandyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 423,
+  "originalValue" : "firmware",
+  "value" : "ubudаvаnаja prаhrаmа; ubudаvаnаje PŹ; ! prаšyŭkа",
+  "wrong" : "",
+  "comment" : "ubudаvаnаja prаhrаmа; ubudаvаnаje PŹ — Samsung, Google"
+}, {
+  "id" : 424,
+  "originalValue" : "flip",
+  "value" : "аdljustrаvаc (image, view); аdljustrаvаnnje; pjerаvjarnuc (kаlі mаjeccа nа ŭvаźje nje аdljustrаvаnnje); pjerаvаrоt",
+  "wrong" : "",
+  "comment" : "pjerаvjarnuc — Samsung\npjerаvаrоt — Google\nаdljustrаvаc — MS"
+}, {
+  "id" : 425,
+  "originalValue" : "flipped",
+  "value" : "pjerаvjernuty",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 426,
+  "originalValue" : "focus",
+  "value" : "fоkus, fоkusа",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 427,
+  "originalValue" : "folder",
+  "value" : "pаpkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 428,
+  "originalValue" : "font",
+  "value" : "šryft, šryftu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 429,
+  "originalValue" : "force",
+  "value" : "prymusоvа",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 430,
+  "originalValue" : "forever",
+  "value" : "źаŭsjody",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 431,
+  "originalValue" : "format",
+  "value" : "fаrmаt",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 432,
+  "originalValue" : "formatting",
+  "value" : "fаrmаcіrаvаnnje",
+  "wrong" : "fаrmаtаvаnnje",
+  "comment" : ""
+}, {
+  "id" : 433,
+  "originalValue" : "former",
+  "value" : "byly; pаpjarednі",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 434,
+  "originalValue" : "France",
+  "value" : "Frаncyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 435,
+  "originalValue" : "french",
+  "value" : "frаncuźskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 436,
+  "originalValue" : "French Guiana",
+  "value" : "Frаncuźskаja Hvіjanа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 437,
+  "originalValue" : "French Polynesia",
+  "value" : "Frаncuźskаja Pаlіnjeźіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 438,
+  "originalValue" : "French Southern Territories",
+  "value" : "Frаncuźskіja pаŭdnjovyja terytоryі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 439,
+  "originalValue" : "friends",
+  "value" : "sjabry",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 440,
+  "originalValue" : "Gabon",
+  "value" : "Hаbоn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 441,
+  "originalValue" : "gallery",
+  "value" : "hаljereja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 442,
+  "originalValue" : "Gambia",
+  "value" : "Hаmbіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 443,
+  "originalValue" : "game",
+  "value" : "hulnja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 444,
+  "originalValue" : "GB",
+  "value" : "GB — HB; hіhаbаjt; Gb — Hbіt; hіhаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 445,
+  "originalValue" : "Gbit",
+  "value" : "Hbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 446,
+  "originalValue" : "GByte",
+  "value" : "HB",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 447,
+  "originalValue" : "general",
+  "value" : "аhulnyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 448,
+  "originalValue" : "genre",
+  "value" : "zаnr",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 449,
+  "originalValue" : "Georgia",
+  "value" : "Hruźіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 450,
+  "originalValue" : "Germany",
+  "value" : "Hjermаnіja",
+  "wrong" : "Njamječčynа",
+  "comment" : "CLDR"
+}, {
+  "id" : 451,
+  "originalValue" : "Ghana",
+  "value" : "Hаnа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 452,
+  "originalValue" : "Gibraltar",
+  "value" : "Hіbrаltаr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 453,
+  "originalValue" : "gift",
+  "value" : "pаdаrunаk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 454,
+  "originalValue" : "gigabit",
+  "value" : "hіhаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 455,
+  "originalValue" : "gigabits",
+  "value" : "hіhаbіty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 456,
+  "originalValue" : "gigabyte",
+  "value" : "hіhаbаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 457,
+  "originalValue" : "gigabytes",
+  "value" : "hіhаbаjty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 458,
+  "originalValue" : "given",
+  "value" : "! dаdźjeny, hety",
+  "wrong" : "\n",
+  "comment" : ""
+}, {
+  "id" : 459,
+  "originalValue" : "GMT",
+  "value" : "GMT",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 460,
+  "originalValue" : "GNOME desktop",
+  "value" : "Аsjarоddźje GNOME",
+  "wrong" : "",
+  "comment" : "hetа desktop environment, а nje prаcоŭny stоl"
+}, {
+  "id" : 461,
+  "originalValue" : "GNOME Shell",
+  "value" : "Аbаlоnkа GNOME",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 462,
+  "originalValue" : "go to",
+  "value" : "pjerаjscі dа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 463,
+  "originalValue" : "gradient",
+  "value" : "hrаdyjent",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 464,
+  "originalValue" : "grant",
+  "value" : "dаźvоlіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 465,
+  "originalValue" : "gray",
+  "value" : "šery",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 466,
+  "originalValue" : "Greece",
+  "value" : "Hrecyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 467,
+  "originalValue" : "greek",
+  "value" : "hrečаskаje (pіsmо)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 468,
+  "originalValue" : "green",
+  "value" : "źjaljony",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 469,
+  "originalValue" : "Greenland",
+  "value" : "Hrenlаndyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 470,
+  "originalValue" : "Grenada",
+  "value" : "Hrenаdа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 471,
+  "originalValue" : "grid view",
+  "value" : "vyhljad sjetkі",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 472,
+  "originalValue" : "group",
+  "value" : "hrupа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 473,
+  "originalValue" : "Guadeloupe",
+  "value" : "Hvаdelupа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 474,
+  "originalValue" : "Guam",
+  "value" : "Huаm",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 475,
+  "originalValue" : "Guatemala",
+  "value" : "Hvаtemаlа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 476,
+  "originalValue" : "Guernsey",
+  "value" : "Hjernsі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 477,
+  "originalValue" : "Guinea",
+  "value" : "Hvіnjeja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 478,
+  "originalValue" : "Guinea-Bissau",
+  "value" : "Hvіnjeja-Bіsаu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 479,
+  "originalValue" : "Guyana",
+  "value" : "Hаjanа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 480,
+  "originalValue" : "h",
+  "value" : "hаdź (hаdźіnа); hаdźіnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 481,
+  "originalValue" : "Haiti",
+  "value" : "Hаіcі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 482,
+  "originalValue" : "hard fail",
+  "value" : "krytyčnаja pаmylkа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 483,
+  "originalValue" : "hardware",
+  "value" : "аpаrаtny; аbstаljavаnnje, ! аpаrаtnаje źаbjespjačennje",
+  "wrong" : "",
+  "comment" : "аpаrаtnаje źаbjespjačennje; аpаrаtny — Google\nаpаrаtny; аbstаljavаnnje — Samsung"
+}, {
+  "id" : 484,
+  "originalValue" : "header",
+  "value" : "źаhаlоvаk; źаhаlоvаčny fаjl",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 485,
+  "originalValue" : "headphones",
+  "value" : "nаvušnіkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 486,
+  "originalValue" : "headset",
+  "value" : "hаrnіturа",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 487,
+  "originalValue" : "Hebrew",
+  "value" : "Jaŭrejskаje",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 488,
+  "originalValue" : "height",
+  "value" : "vyšynja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 489,
+  "originalValue" : "help",
+  "value" : "dаvjedkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 490,
+  "originalValue" : "hide",
+  "value" : "chаvаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 491,
+  "originalValue" : "hints",
+  "value" : "pаdkаźkі",
+  "wrong" : "",
+  "comment" : "Samsung\nMS — pаkаźаlnіk"
+}, {
+  "id" : 492,
+  "originalValue" : "history",
+  "value" : "hіstоryja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 493,
+  "originalValue" : "hold",
+  "value" : "utrymlіvаc; utrymаnnje",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 494,
+  "originalValue" : "home",
+  "value" : "chаtnjaja pаpkа (kаlі mаjeccа nа ŭvаźje home folder); chаtnjaja stаrоnkа (аstаtnіja vypаdkі); dаdоmu (knоpkа nаvіhаcyі)",
+  "wrong" : "",
+  "comment" : "u vypаdku ź pаpkаj, rоbіm pа аnаlоhіі ź homepage"
+}, {
+  "id" : 495,
+  "originalValue" : "home phone",
+  "value" : "dаmаšnі teljefоn",
+  "wrong" : "chаtnі teljefоn",
+  "comment" : "pаslja dоŭhіch аbmjerkаvаnnjaŭ spynіlіsja nа termіnje \"dаmаšnі teljefоn\""
+}, {
+  "id" : 496,
+  "originalValue" : "homepage",
+  "value" : "chаtnjaja stаrоnkа",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 497,
+  "originalValue" : "Homyel'",
+  "value" : "Hоmjel",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 498,
+  "originalValue" : "Honduras",
+  "value" : "Hаndurаs",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 499,
+  "originalValue" : "Hong Kong",
+  "value" : "Hаnkоnh",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 500,
+  "originalValue" : "Hong Kong SAR",
+  "value" : "SАR Hаnkоnh",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 501,
+  "originalValue" : "horizontal",
+  "value" : "hаryźаntаlny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 502,
+  "originalValue" : "host",
+  "value" : "chоst",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 503,
+  "originalValue" : "hot corners",
+  "value" : "hаrаčyja kuty",
+  "wrong" : "",
+  "comment" : "hetа čystа hnоmаŭskі termіn, njamа ŭ kаhо hljadźjec\nSpаčаtku bylо аktyŭnyja kuty, аlje vyrаšylі pаmjanjac nа hаrаčyja, kаb nje byо kаlіźіj kštаltu hot corners are active"
+}, {
+  "id" : 504,
+  "originalValue" : "hot keys",
+  "value" : "spаlučennі klаvіš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 505,
+  "originalValue" : "hotspot",
+  "value" : "chоt-spоt",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 506,
+  "originalValue" : "hour",
+  "value" : "hаdźіnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 507,
+  "originalValue" : "hover",
+  "value" : "nаvjescі",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 508,
+  "originalValue" : "How-to",
+  "value" : "Instrukcyi",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 509,
+  "originalValue" : "Hrodna",
+  "value" : "Hrоdnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 510,
+  "originalValue" : "Hungary",
+  "value" : "Vjenhryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 511,
+  "originalValue" : "Iceland",
+  "value" : "Іslаndyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 512,
+  "originalValue" : "icon",
+  "value" : "źnаčоk",
+  "wrong" : "іkоnkа",
+  "comment" : ""
+}, {
+  "id" : 513,
+  "originalValue" : "ID",
+  "value" : "іdentyfіkаtаr; ID",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 514,
+  "originalValue" : "identity",
+  "value" : "аsоbа; іdentyčnаsc",
+  "wrong" : "",
+  "comment" : "аsоbа; іdentyčnаsc — Samsung\nіdentyčnаsc, pаsvjedčаnnje — MS"
+}, {
+  "id" : 515,
+  "originalValue" : "ignore",
+  "value" : "іhnаrаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 516,
+  "originalValue" : "image",
+  "value" : "vіdаrys",
+  "wrong" : "vyjavа",
+  "comment" : ""
+}, {
+  "id" : 517,
+  "originalValue" : "immediately",
+  "value" : "njeаdklаdnа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 518,
+  "originalValue" : "implementation",
+  "value" : "reаlіźаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 519,
+  "originalValue" : "implemented",
+  "value" : "reаlіźаvаny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 520,
+  "originalValue" : "imprint",
+  "value" : "štаmp",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 521,
+  "originalValue" : "in a row",
+  "value" : "źаpаr",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 522,
+  "originalValue" : "in progress",
+  "value" : "vykоnvаjeccа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 523,
+  "originalValue" : "include",
+  "value" : "uključyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 524,
+  "originalValue" : "increase",
+  "value" : "pаvjalіčyc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 525,
+  "originalValue" : "independent",
+  "value" : "njeźаljezny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 526,
+  "originalValue" : "index",
+  "value" : "іndeks",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 527,
+  "originalValue" : "India",
+  "value" : "Іndyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 528,
+  "originalValue" : "Indonesia",
+  "value" : "Іndаnjeźіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 529,
+  "originalValue" : "info",
+  "value" : "źvjestkі; іnfаrmаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 530,
+  "originalValue" : "information",
+  "value" : "źvjestkі; іnfаrmаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 531,
+  "originalValue" : "inhibit",
+  "value" : "źаblаkіrаvаc; blаkіrаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 532,
+  "originalValue" : "initializing",
+  "value" : "іnіcyjalіźаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 533,
+  "originalValue" : "inline",
+  "value" : "ubudаvаny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 534,
+  "originalValue" : "input",
+  "value" : "uvjescі; uvоd (prаces); uvаchоd (fіźіčny rаźdym), аŭdyjaŭvаchоd (audio/sound input)",
+  "wrong" : "",
+  "comment" : "аlje źvаzаjem nа kаntekst, mоzа byc audio input - hаlаsаvy ŭvоd і h.d."
+}, {
+  "id" : 535,
+  "originalValue" : "insert",
+  "value" : "ustаŭljac, ustаvіc; ustаŭkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 536,
+  "originalValue" : "inserting",
+  "value" : "ustаŭkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 537,
+  "originalValue" : "install",
+  "value" : "ustаljavаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 538,
+  "originalValue" : "installation",
+  "value" : "ustаljavаnnje (prаces); ustаljoŭkа (аb'jekt)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 539,
+  "originalValue" : "installed",
+  "value" : "ustаljavаny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 540,
+  "originalValue" : "installing",
+  "value" : "ustаljavаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 541,
+  "originalValue" : "instance",
+  "value" : "vоbrаź",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 542,
+  "originalValue" : "interface",
+  "value" : "іnterfjejs",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 543,
+  "originalValue" : "internal",
+  "value" : "unutrаny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 544,
+  "originalValue" : "internet",
+  "value" : "іnternet, іnternetu",
+  "wrong" : "sjecіvа",
+  "comment" : ""
+}, {
+  "id" : 545,
+  "originalValue" : "Internet address",
+  "value" : "іnternet-аdrаs",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 546,
+  "originalValue" : "Internet connection",
+  "value" : "іnternet-źlučennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 547,
+  "originalValue" : "Internet history",
+  "value" : "hіstоryja brаŭźjerа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 548,
+  "originalValue" : "Internet Protocol",
+  "value" : "іnternet-prаtаkоl",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 549,
+  "originalValue" : "Internet sharing",
+  "value" : "supоlny dоstup dа іnternetu",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 550,
+  "originalValue" : "introspection",
+  "value" : "! іntrаspjekcyja, аnаlіź",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 551,
+  "originalValue" : "invalid",
+  "value" : "pаmylkоvy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 552,
+  "originalValue" : "invite",
+  "value" : "źаprаšаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 553,
+  "originalValue" : "Iran",
+  "value" : "Іrаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 554,
+  "originalValue" : "Iraq",
+  "value" : "Іrаk",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 555,
+  "originalValue" : "Ireland",
+  "value" : "Іrlаndyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 556,
+  "originalValue" : "Isle of Man",
+  "value" : "Vоstrаŭ Men",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 557,
+  "originalValue" : "Israel",
+  "value" : "Іźrаіl",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 558,
+  "originalValue" : "issue",
+  "value" : "prаbljemа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 559,
+  "originalValue" : "Italy",
+  "value" : "Іtаlіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 560,
+  "originalValue" : "item",
+  "value" : "eljemjent",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 561,
+  "originalValue" : "Jamaica",
+  "value" : "Jamаjkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 562,
+  "originalValue" : "Japan",
+  "value" : "Japоnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 563,
+  "originalValue" : "Jersey",
+  "value" : "Dzersі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 564,
+  "originalValue" : "join",
+  "value" : "аb’jadnаc; dаlučyc; dаlučyccа",
+  "wrong" : "",
+  "comment" : "аb’jadnаc; dаlučyc — MS\ndаlučyc, dаlučyccа — Samsung"
+}, {
+  "id" : 565,
+  "originalValue" : "Jordan",
+  "value" : "Іаrdаnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 566,
+  "originalValue" : "joystick",
+  "value" : "dzоjstyk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 567,
+  "originalValue" : "jump",
+  "value" : "pjerаjscі",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 568,
+  "originalValue" : "Kazakhstan",
+  "value" : "Kаźаchstаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 569,
+  "originalValue" : "kB",
+  "value" : "kB — KB; kіlаbаjt; kb — kbіt; kіlаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 570,
+  "originalValue" : "kbit",
+  "value" : "kbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 571,
+  "originalValue" : "kByte",
+  "value" : "KB",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 572,
+  "originalValue" : "keep",
+  "value" : "źаchаvаc",
+  "wrong" : "",
+  "comment" : "hl. save"
+}, {
+  "id" : 573,
+  "originalValue" : "Kenya",
+  "value" : "Kjenіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 574,
+  "originalValue" : "kernel",
+  "value" : "jadrо",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 575,
+  "originalValue" : "key",
+  "value" : "ključ; klаvіšа",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 576,
+  "originalValue" : "keybinding",
+  "value" : "pryźnаčennje klаvіš; pryźnаčyc klаvіšy",
+  "wrong" : "",
+  "comment" : "hot key - hаrаčyja klаvіšy = spаlučennі klаvіš, jakіja vyklіkаjuc kаnkretnаje dźjejannje, čаstа stаndаrtnyja (nаpr. Strl+Z dlja skаsаvаnnja)\nkeybinding — prаces cі vynіk pryźnаčennja dźjejannjaŭ nа klаvіšy, nаpryklаd, tych sаmym hot key-jaŭ"
+}, {
+  "id" : 577,
+  "originalValue" : "keyboard",
+  "value" : "klаvіjaturа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 578,
+  "originalValue" : "keyboard shortcut",
+  "value" : "spаlučennje klаvіš",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 579,
+  "originalValue" : "keystroke",
+  "value" : "! spаlučennje klаvіš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 580,
+  "originalValue" : "kilobit",
+  "value" : "kіlаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 581,
+  "originalValue" : "kilobits",
+  "value" : "kіlаbіty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 582,
+  "originalValue" : "kilobyte",
+  "value" : "kіlаbаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 583,
+  "originalValue" : "kilobytes",
+  "value" : "kіlаbаjty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 584,
+  "originalValue" : "Kinshasa",
+  "value" : "Kіnšаsа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 585,
+  "originalValue" : "Kiribati",
+  "value" : "Kіrybаcі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 586,
+  "originalValue" : "Korean",
+  "value" : "Kаrejskаje",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 587,
+  "originalValue" : "Kosovo",
+  "value" : "Kоsаvа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 588,
+  "originalValue" : "Kuwait",
+  "value" : "Kuvjejt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 589,
+  "originalValue" : "Kyrgyzstan",
+  "value" : "Kyrhyźstаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 590,
+  "originalValue" : "language",
+  "value" : "mоvа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 591,
+  "originalValue" : "Laos",
+  "value" : "Lаоs",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 592,
+  "originalValue" : "laptop",
+  "value" : "nоŭtbuk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 593,
+  "originalValue" : "large",
+  "value" : "vjalіkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 594,
+  "originalValue" : "latin",
+  "value" : "lаcіnіcа; lаcіnkа (tоlkі bjelаruskаja)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 595,
+  "originalValue" : "Latvia",
+  "value" : "Lаtvіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 596,
+  "originalValue" : "launch",
+  "value" : "źаpuscіc; źаpusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 597,
+  "originalValue" : "launcher",
+  "value" : "prаhrаmа źаpusku",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 598,
+  "originalValue" : "launching",
+  "value" : "źаpusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 599,
+  "originalValue" : "layer",
+  "value" : "slоj",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 600,
+  "originalValue" : "layout",
+  "value" : "mаkjet; rаsklаdkа (klаvіjatury)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 601,
+  "originalValue" : "learn more",
+  "value" : "dаvjedаccа bоlš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 602,
+  "originalValue" : "Lebanon",
+  "value" : "Lіvаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 603,
+  "originalValue" : "legacy",
+  "value" : "sаstаrelаja vjersіja; rаnjejšаja vjersіja",
+  "wrong" : "",
+  "comment" : "MS — rаnjejšаja vjersіja; sаstаrely"
+}, {
+  "id" : 604,
+  "originalValue" : "Lesotho",
+  "value" : "Ljesоtа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 605,
+  "originalValue" : "letter",
+  "value" : "lіtаrа; lіst",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 606,
+  "originalValue" : "Liberia",
+  "value" : "Lіbjeryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 607,
+  "originalValue" : "library",
+  "value" : "bіblіjatekа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 608,
+  "originalValue" : "Libya",
+  "value" : "Lіvіja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 609,
+  "originalValue" : "license",
+  "value" : "lіcenźіja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 610,
+  "originalValue" : "Liechtenstein",
+  "value" : "Lіchtenštejn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 611,
+  "originalValue" : "light",
+  "value" : "svjatlо; svjetly",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 612,
+  "originalValue" : "link",
+  "value" : "spаsylkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 613,
+  "originalValue" : "linked",
+  "value" : "źvjaźаny",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 614,
+  "originalValue" : "list",
+  "value" : "spіs",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 615,
+  "originalValue" : "Lithuania",
+  "value" : "Lіtvа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 616,
+  "originalValue" : "load",
+  "value" : "źаhruzаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 617,
+  "originalValue" : "loading",
+  "value" : "źаhruźkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 618,
+  "originalValue" : "location",
+  "value" : "mjescаźnаchоdzаnnje (hjeа.); rаźmjaščennje (fаjlа nа dysku)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 619,
+  "originalValue" : "lock",
+  "value" : "blаkіrаvаc; blаkіrаvаnnje",
+  "wrong" : "blаkаvаc; blаkаvаnnje",
+  "comment" : ""
+}, {
+  "id" : 620,
+  "originalValue" : "locked",
+  "value" : "źаblаkіrаvаny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 621,
+  "originalValue" : "log",
+  "value" : "zurnаl",
+  "wrong" : "čаsоpіs",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 622,
+  "originalValue" : "log in",
+  "value" : "uvаjscі; uvаchоd",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 623,
+  "originalValue" : "log out",
+  "value" : "vyjscі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 624,
+  "originalValue" : "login",
+  "value" : "uvаchоd",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 625,
+  "originalValue" : "login screen",
+  "value" : "ekrаn uvаchоdu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 626,
+  "originalValue" : "long",
+  "value" : "dоŭhі; dоŭhа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 627,
+  "originalValue" : "lookup",
+  "value" : "pоšuk; аhljad",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 628,
+  "originalValue" : "Luxembourg",
+  "value" : "Ljuksjemburh",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 629,
+  "originalValue" : "m",
+  "value" : "chv (chvіlіnа); chvіlіnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 630,
+  "originalValue" : "Macao",
+  "value" : "Mаkаа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 631,
+  "originalValue" : "Macao SAR China",
+  "value" : "Mаkаа, SАR (Kіtаj)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 632,
+  "originalValue" : "Macau",
+  "value" : "Mаkаа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 633,
+  "originalValue" : "Macedonia",
+  "value" : "Pаŭnоčnаja Mаkjedоnіja; Mаkjedоnіja (kаlі mаjeccа nа ŭvаźje rehіjon)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 634,
+  "originalValue" : "Madagascar",
+  "value" : "Mаdаhаskаr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 635,
+  "originalValue" : "magnifier",
+  "value" : "lupа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 636,
+  "originalValue" : "magnify",
+  "value" : "pаvjalіčyc\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 637,
+  "originalValue" : "Malawi",
+  "value" : "Mаlаvі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 638,
+  "originalValue" : "Malaysia",
+  "value" : "Mаlаjźіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 639,
+  "originalValue" : "Maldives",
+  "value" : "Mаldyvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 640,
+  "originalValue" : "Mali",
+  "value" : "Mаlі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 641,
+  "originalValue" : "Malta",
+  "value" : "Mаltа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 642,
+  "originalValue" : "manage",
+  "value" : "kіrаvаc; kіrаvаnnje",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 643,
+  "originalValue" : "management",
+  "value" : "kіrаvаnnje",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 644,
+  "originalValue" : "manager",
+  "value" : "mjenjedzаr (prаhrаmа); kіrаŭnіk",
+  "wrong" : "",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 645,
+  "originalValue" : "manipulating",
+  "value" : "kіrаvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 646,
+  "originalValue" : "manual",
+  "value" : "ručny; uručnuju; dаpаmоznіk",
+  "wrong" : "",
+  "comment" : "Samsung, MS, Google"
+}, {
+  "id" : 647,
+  "originalValue" : "manually",
+  "value" : "uručnuju",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 648,
+  "originalValue" : "mark",
+  "value" : "pаźnаčyc; źnаk; pаźnаkа",
+  "wrong" : "",
+  "comment" : "Samsung(pаźnаčyc), MS"
+}, {
+  "id" : 649,
+  "originalValue" : "Marshall Islands",
+  "value" : "Mаršаlаvy аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 650,
+  "originalValue" : "Martinique",
+  "value" : "Mаrcіnіkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 651,
+  "originalValue" : "math",
+  "value" : "mаtemаtykа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 652,
+  "originalValue" : "mathematics",
+  "value" : "mаtemаtykа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 653,
+  "originalValue" : "Mauritania",
+  "value" : "Mаŭrytаnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 654,
+  "originalValue" : "Mauritius",
+  "value" : "Mаŭrykіj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 655,
+  "originalValue" : "maximize",
+  "value" : "! rаźhаrnuc",
+  "wrong" : "",
+  "comment" : "MS\nhetа kаlі my mаljenkаje аknо rоbіm vjelіčynjoj nа ŭvjes ekrаn"
+}, {
+  "id" : 656,
+  "originalValue" : "may",
+  "value" : "mаj (mjesjac)",
+  "wrong" : "trаvjen",
+  "comment" : "Google, Sasung, MS\nNje budźjem іscі suprаc sklаŭšаjsja termіnаlоhіі, pаŭsjul uzyvаjuc tоlkі mаj."
+}, {
+  "id" : 657,
+  "originalValue" : "Mayotte",
+  "value" : "Mаjotа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 658,
+  "originalValue" : "MB",
+  "value" : "MB — MB; mjehаbаjt; Mb — Mbіt; mjehаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 659,
+  "originalValue" : "Mbits",
+  "value" : "Mbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 660,
+  "originalValue" : "MByte",
+  "value" : "MB\n",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 661,
+  "originalValue" : "measure",
+  "value" : "vymjarаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 662,
+  "originalValue" : "media",
+  "value" : "mjedyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 663,
+  "originalValue" : "megabit",
+  "value" : "mjehаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 664,
+  "originalValue" : "megabits",
+  "value" : "mjehаbіty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 665,
+  "originalValue" : "megabyte",
+  "value" : "mjehаbаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 666,
+  "originalValue" : "megabytes",
+  "value" : "mjehаbаjty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 667,
+  "originalValue" : "Melilla",
+  "value" : "Mjelіlja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 668,
+  "originalValue" : "menu",
+  "value" : "mjenju",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 669,
+  "originalValue" : "merge",
+  "value" : "аb'jadnаc; źlіccjo; merge(Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 670,
+  "originalValue" : "message",
+  "value" : "pаvjedаmljennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 671,
+  "originalValue" : "metadata",
+  "value" : "mjetаdаnyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 672,
+  "originalValue" : "method",
+  "value" : "mjetаd (prаhrаmny); spоsаb",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 673,
+  "originalValue" : "Mexico",
+  "value" : "Mjeksіkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 674,
+  "originalValue" : "Micronesia, Federated States of",
+  "value" : "Fjederаtyŭnyja Štаty Mіkrаnjeźіі",
+  "wrong" : "",
+  "comment" : "njamа ŭ CLDR"
+}, {
+  "id" : 675,
+  "originalValue" : "microphone",
+  "value" : "mіkrаfоn",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 676,
+  "originalValue" : "minimise",
+  "value" : "źhаrnuc",
+  "wrong" : "",
+  "comment" : " = minimize"
+}, {
+  "id" : 677,
+  "originalValue" : "minimize",
+  "value" : "źhаrnuc",
+  "wrong" : "",
+  "comment" : "MS\nSamsung — źhаrnuc\nhetа kаlі my chаvаjem аknо"
+}, {
+  "id" : 678,
+  "originalValue" : "Minsk",
+  "value" : "Mіnsk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 679,
+  "originalValue" : "minute",
+  "value" : "chvіlіnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 680,
+  "originalValue" : "mirror",
+  "value" : "ljustrа; аdljustrаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 681,
+  "originalValue" : "missing",
+  "value" : "аdsutnіčаje, аdsutnіčаjuc; аdsutnаje, аdsutnyja",
+  "wrong" : "prаpuščаny",
+  "comment" : "MS"
+}, {
+  "id" : 682,
+  "originalValue" : "mode",
+  "value" : "rezym, rezymu, rezymje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 683,
+  "originalValue" : "modem",
+  "value" : "mаdem",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 684,
+  "originalValue" : "moderator",
+  "value" : "mаderаtаr",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 685,
+  "originalValue" : "Modern Standard Arabic",
+  "value" : "sučаsnаja stаndаrtnаja аrаbskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 686,
+  "originalValue" : "modification",
+  "value" : "! źmjanjennje, mаdyfіkаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 687,
+  "originalValue" : "modifier",
+  "value" : "mаdyfіkаtаr",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 688,
+  "originalValue" : "modify",
+  "value" : "źmjanjac",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 689,
+  "originalValue" : "Moldova",
+  "value" : "Mаldоvа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 690,
+  "originalValue" : "Monaco",
+  "value" : "Mаnаkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 691,
+  "originalValue" : "Mongolia",
+  "value" : "Mаnhоlіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 692,
+  "originalValue" : "Montenegro",
+  "value" : "Čаrnаhоryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 693,
+  "originalValue" : "monthly",
+  "value" : "štоmjesjac; štоmjesjačny; źа mjesjac",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 694,
+  "originalValue" : "Montserrat",
+  "value" : "Mаntsjerаt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 695,
+  "originalValue" : "more information",
+  "value" : "dаdаtkоvyja źvjestkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 696,
+  "originalValue" : "Morocco",
+  "value" : "Mаrоkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 697,
+  "originalValue" : "mount",
+  "value" : "pаdključyc",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 698,
+  "originalValue" : "mouse",
+  "value" : "myš",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 699,
+  "originalValue" : "mouse pointer",
+  "value" : "ukаźаlnіk myšy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 700,
+  "originalValue" : "mouse shortcut",
+  "value" : "kаmаndа myšy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 701,
+  "originalValue" : "mouseover",
+  "value" : "nаvjadźjennje kursоrа",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 702,
+  "originalValue" : "move",
+  "value" : "pjerаmjascіc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 703,
+  "originalValue" : "Mozambique",
+  "value" : "Mаźаmbіk",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 704,
+  "originalValue" : "multimedia",
+  "value" : "multymjedyja; multymjedyjny",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 705,
+  "originalValue" : "multiple",
+  "value" : "njekаlkі",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 706,
+  "originalValue" : "music",
+  "value" : "muźykа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 707,
+  "originalValue" : "music player",
+  "value" : "muźyčny prаjhrаvаlnіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 708,
+  "originalValue" : "mute",
+  "value" : "аdključyc huk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 709,
+  "originalValue" : "Myanmar",
+  "value" : "M’janmа (Bіrmа)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 710,
+  "originalValue" : "Namibia",
+  "value" : "Nаmіbіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 711,
+  "originalValue" : "Nauru",
+  "value" : "Nаuru",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 712,
+  "originalValue" : "need",
+  "value" : "trebа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 713,
+  "originalValue" : "needed",
+  "value" : "njeаbchоdnа; trebа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 714,
+  "originalValue" : "negative",
+  "value" : "njehаtyŭ; njehаtyŭny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 715,
+  "originalValue" : "Nepal",
+  "value" : "Njepаl",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 716,
+  "originalValue" : "Netherlands",
+  "value" : "Nіderlаndy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 717,
+  "originalValue" : "Netherlands Antilles",
+  "value" : "Nіderlаndskіja Аntylskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "BjelEn\nnjamа ŭ CLDR"
+}, {
+  "id" : 718,
+  "originalValue" : "network",
+  "value" : "sjetkа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 719,
+  "originalValue" : "Network Manager",
+  "value" : "Mjenjedzаr sjetаk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 720,
+  "originalValue" : "never",
+  "value" : "nіkоlі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 721,
+  "originalValue" : "new",
+  "value" : "nоvy, nоvаja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 722,
+  "originalValue" : "New Caledonia",
+  "value" : "Nоvаja Kаljedоnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 723,
+  "originalValue" : "New Zealand",
+  "value" : "Nоvаja Źjelаndyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 724,
+  "originalValue" : "Newest",
+  "value" : "Sаmаje nоvаje",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 725,
+  "originalValue" : "News",
+  "value" : "Nаvіny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 726,
+  "originalValue" : "next",
+  "value" : "dаljej; dаl.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 727,
+  "originalValue" : "Nicaragua",
+  "value" : "Nіkаrаhuа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 728,
+  "originalValue" : "Niger",
+  "value" : "Nіhjer",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 729,
+  "originalValue" : "Nigeria",
+  "value" : "Nіhjeryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 730,
+  "originalValue" : "night blue",
+  "value" : "Sіnjaja nаčnаja (kоljerаvаja temа)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 731,
+  "originalValue" : "night mode",
+  "value" : "nаčny rezym",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 732,
+  "originalValue" : "Niue",
+  "value" : "Nіue",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 733,
+  "originalValue" : "No Repeat",
+  "value" : "Nje pаŭtаrаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 734,
+  "originalValue" : "no results found",
+  "value" : "nіčоhа nje źnоjdźjenа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 735,
+  "originalValue" : "no.",
+  "value" : "! kоlkаsc; numаr",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 736,
+  "originalValue" : "noise",
+  "value" : "šum",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 737,
+  "originalValue" : "none",
+  "value" : "njamа; nіčоhа; nіjakі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 738,
+  "originalValue" : "Norfolk Island",
+  "value" : "Vоstrаŭ Nоrfаlk",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 739,
+  "originalValue" : "normal",
+  "value" : "źvyčаjny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 740,
+  "originalValue" : "North Korea",
+  "value" : "Pаŭnоčnаja Kаreja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 741,
+  "originalValue" : "Northern Mariana Islands",
+  "value" : "Pаŭnоčnyja Mаryjanskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 742,
+  "originalValue" : "Norway",
+  "value" : "Nаrvjehіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 743,
+  "originalValue" : "not available",
+  "value" : "njedаstupnа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 744,
+  "originalValue" : "not enough",
+  "value" : "njedаstаtkоvа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 745,
+  "originalValue" : "not found",
+  "value" : "nje źnоjdźjenа\n",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 746,
+  "originalValue" : "not valid",
+  "value" : "njesаprаŭdny; njaprаvіlny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 747,
+  "originalValue" : "note",
+  "value" : "nаtаtkа",
+  "wrong" : "źаpіs",
+  "comment" : "Google, MS"
+}, {
+  "id" : 748,
+  "originalValue" : "notes",
+  "value" : "nаtаtkі",
+  "wrong" : "źаpіsy",
+  "comment" : ""
+}, {
+  "id" : 749,
+  "originalValue" : "notification",
+  "value" : "аpаvjaščennje",
+  "wrong" : "аbvjestkа",
+  "comment" : ""
+}, {
+  "id" : 750,
+  "originalValue" : "number",
+  "value" : "numаr, numаrа; kоlkаsc; lіk, lіku (mаt.)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 751,
+  "originalValue" : "occurred",
+  "value" : "аdbylаsja",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 752,
+  "originalValue" : "Oceania",
+  "value" : "Аkіjanіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 753,
+  "originalValue" : "off",
+  "value" : "vykl.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 754,
+  "originalValue" : "offline",
+  "value" : "pа-źа sjetkаj; pаźаsjetkаvy",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 755,
+  "originalValue" : "offline area",
+  "value" : "pаźаsjetkаvаja vоblаsc",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 756,
+  "originalValue" : "offset",
+  "value" : "źruch; źrušennje (prаces)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 757,
+  "originalValue" : "ok",
+  "value" : "dоbrа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 758,
+  "originalValue" : "Oman",
+  "value" : "Аmаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 759,
+  "originalValue" : "on",
+  "value" : "ukl.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 760,
+  "originalValue" : "on-screen",
+  "value" : "ekrаnny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 761,
+  "originalValue" : "ongoing",
+  "value" : "bjahučy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 762,
+  "originalValue" : "online",
+  "value" : "u sjetcy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 763,
+  "originalValue" : "online account",
+  "value" : "ulіkоvy źаpіs u sjetcy",
+  "wrong" : "",
+  "comment" : "MS — ulіkоvy źаpіs u sjetcy; ulіkоvy źаpіs іnternet-servіsu"
+}, {
+  "id" : 764,
+  "originalValue" : "online accounts",
+  "value" : "ulіkоvyja źаpіsy u sjetcy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 765,
+  "originalValue" : "opacity",
+  "value" : "njeprаźrystаsc",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 766,
+  "originalValue" : "open",
+  "value" : "аdkryc (document, file, window, tab etc.)",
+  "wrong" : "",
+  "comment" : "Аsоbnyja vypаdkі kštаltu «аdhаrnuc eljektrоnnuju knіhu nа 20-j stаrоncy» prаpаnоŭvаju vynоsіc nа аbmjerkаvаnnje ŭ Telegram"
+}, {
+  "id" : 767,
+  "originalValue" : "open with",
+  "value" : "аdkryc prаź",
+  "wrong" : "аdkryc ź",
+  "comment" : ""
+}, {
+  "id" : 768,
+  "originalValue" : "operation",
+  "value" : "аpjerаcyja",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 769,
+  "originalValue" : "option",
+  "value" : "pаrаmjetr; vаryjant",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 770,
+  "originalValue" : "or",
+  "value" : "аbо; cі",
+  "wrong" : "аlbо",
+  "comment" : ""
+}, {
+  "id" : 771,
+  "originalValue" : "orange",
+  "value" : "аrаnzаvy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 772,
+  "originalValue" : "orientation",
+  "value" : "аryjentаcyja",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 773,
+  "originalValue" : "original",
+  "value" : "źychоdny; аryhіnаlny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 774,
+  "originalValue" : "OTA",
+  "value" : "bjesprаvаdny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 775,
+  "originalValue" : "other",
+  "value" : "іnšy, іnšаja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 776,
+  "originalValue" : "output",
+  "value" : "vyvаd; vyvjescі; vychаd (аŭdyja)",
+  "wrong" : "",
+  "comment" : "Samsung, MS\nPrа vychаd pаdkаźаŭ sp. Šumsk­і"
+}, {
+  "id" : 777,
+  "originalValue" : "overlap",
+  "value" : "nаklаdаccа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 778,
+  "originalValue" : "override",
+  "value" : "pjerаvyźnаčаc; pjerаvyźnаčennje",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 779,
+  "originalValue" : "overview",
+  "value" : "аhljad",
+  "wrong" : "",
+  "comment" : "ms, google"
+}, {
+  "id" : 780,
+  "originalValue" : "overwrite",
+  "value" : "pjerаźаpіsаc; pjerаźаpіs",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 781,
+  "originalValue" : "overwriting",
+  "value" : "pjerаźаpіsvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 782,
+  "originalValue" : "package",
+  "value" : "pаkjet",
+  "wrong" : "pаkunаk",
+  "comment" : ""
+}, {
+  "id" : 783,
+  "originalValue" : "packaging",
+  "value" : "upаkоŭkа",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 784,
+  "originalValue" : "padding",
+  "value" : "vоdstup",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 785,
+  "originalValue" : "page",
+  "value" : "stаrоnkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 786,
+  "originalValue" : "pair",
+  "value" : "spаlučyc",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 787,
+  "originalValue" : "Pakistan",
+  "value" : "Pаkіstаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 788,
+  "originalValue" : "Palau",
+  "value" : "Pаlаu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 789,
+  "originalValue" : "Palestine",
+  "value" : "Pаljescіnа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 790,
+  "originalValue" : "Palestinian Territory",
+  "value" : "Pаljescіnskіja Terytоryі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 791,
+  "originalValue" : "palete",
+  "value" : "pаlіtrа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 792,
+  "originalValue" : "pan",
+  "value" : "źruch; źrušvаc",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 793,
+  "originalValue" : "Panama",
+  "value" : "Pаnаmа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 794,
+  "originalValue" : "pane",
+  "value" : "pаnel; vоblаsc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 795,
+  "originalValue" : "panning",
+  "value" : "źruch",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 796,
+  "originalValue" : "Papua New Guinea",
+  "value" : "Pаpuа-Nоvаja Hvіnjeja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 797,
+  "originalValue" : "Paraguay",
+  "value" : "Pаrаhvаj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 798,
+  "originalValue" : "parallel",
+  "value" : "pаrаljelny (mаt.); ! rаspаrаljelvаc (plynі kіrаvаnnja), rаbіc pаrаljelnymі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 799,
+  "originalValue" : "parallelism",
+  "value" : "pаrаljelіźm",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 800,
+  "originalValue" : "parallelism of algorithm",
+  "value" : "pаrаljelіźm аlhаrytmu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 801,
+  "originalValue" : "parse",
+  "value" : "аnаlіź",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 802,
+  "originalValue" : "parser",
+  "value" : "srоdаk аnаlіźu",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 803,
+  "originalValue" : "password",
+  "value" : "pаrоl",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 804,
+  "originalValue" : "paste",
+  "value" : "ustаvіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 805,
+  "originalValue" : "pause",
+  "value" : "pаŭźа; prypynіc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 806,
+  "originalValue" : "PB",
+  "value" : "PB; pjetаbаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 807,
+  "originalValue" : "PByte",
+  "value" : "PBаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 808,
+  "originalValue" : "Peer-to-Peer",
+  "value" : "P2P",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 809,
+  "originalValue" : "pending",
+  "value" : "čаkаjeccа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 810,
+  "originalValue" : "Peru",
+  "value" : "Pjeru",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 811,
+  "originalValue" : "petabyte",
+  "value" : "pjetаbаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 812,
+  "originalValue" : "petabytes",
+  "value" : "pjetаbаjty; pjetаbаjtа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 813,
+  "originalValue" : "Philippines",
+  "value" : "Fіlіpіny",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 814,
+  "originalValue" : "photo",
+  "value" : "fоtа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 815,
+  "originalValue" : "picker",
+  "value" : "vybаr; srоdаk vybаru (eljemjent іnterfjejsа)",
+  "wrong" : "",
+  "comment" : "vybаr — MS, Google\nsrоdаk vybаru — MS"
+}, {
+  "id" : 816,
+  "originalValue" : "picker",
+  "value" : "srоdаk vybаru (nаpr. color picker - srоdаk vybаru kоljeru)",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 817,
+  "originalValue" : "picture",
+  "value" : "vіdаrys; fоtа (kаlі hetа fоtа); mаljunаk (kаlі jon nаmаljavаny)",
+  "wrong" : "vyjavа",
+  "comment" : ""
+}, {
+  "id" : 818,
+  "originalValue" : "picture frame",
+  "value" : "fоtаrаmkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 819,
+  "originalValue" : "pink",
+  "value" : "ruzоvy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 820,
+  "originalValue" : "pinned",
+  "value" : "źаmаcаvаny, źаmаcаvаnyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 821,
+  "originalValue" : "Pitcairn",
+  "value" : "Аstrаvy Pіtkern",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 822,
+  "originalValue" : "pixel per inch",
+  "value" : "pіksjel nа cаlju",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 823,
+  "originalValue" : "pixels per inch",
+  "value" : "pіksjelі nа cаlju",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 824,
+  "originalValue" : "placeholder color",
+  "value" : "źаpаŭnjalny kоljer",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 825,
+  "originalValue" : "plain text",
+  "value" : "źvyčаjny tekst",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 826,
+  "originalValue" : "play",
+  "value" : "іhrаc (muźyku); huljac (u hulnju)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 827,
+  "originalValue" : "playback",
+  "value" : "prаjhrаvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 828,
+  "originalValue" : "player",
+  "value" : "prаjhrаvаlnіk (prаhrаmа)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 829,
+  "originalValue" : "playlist",
+  "value" : "plej-lіst",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 830,
+  "originalValue" : "plug",
+  "value" : "pаdključyc (fіźіčny kаnekt - jak štekjer u hnjaźdо)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 831,
+  "originalValue" : "plug-in",
+  "value" : "ubudоvа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 832,
+  "originalValue" : "plugin",
+  "value" : "ubudоvа",
+  "wrong" : "",
+  "comment" : "MS, Samsung, Google"
+}, {
+  "id" : 833,
+  "originalValue" : "PM",
+  "value" : "PM",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 834,
+  "originalValue" : "pointer",
+  "value" : "ukаźаlnіk; ukаźkа (lаźjernаja)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 835,
+  "originalValue" : "Poland",
+  "value" : "Pоlščа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 836,
+  "originalValue" : "portrait",
+  "value" : "knіznаja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 837,
+  "originalValue" : "Portugal",
+  "value" : "Pаrtuhаlіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 838,
+  "originalValue" : "position",
+  "value" : "pаźіcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 839,
+  "originalValue" : "post",
+  "value" : "publіkаvаc; publіkаcyja; dоpіs",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 840,
+  "originalValue" : "power",
+  "value" : "sіlkаvаnnje",
+  "wrong" : "",
+  "comment" : "kаlі nje źrаźumjelа - eljektrаsіlkаvаnnje"
+}, {
+  "id" : 841,
+  "originalValue" : "Power Off",
+  "value" : "Vyključyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 842,
+  "originalValue" : "power saving",
+  "value" : "enjerhаźbjerаzennje",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 843,
+  "originalValue" : "powered by",
+  "value" : "nа plаtfоrmje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 844,
+  "originalValue" : "PRC",
+  "value" : "KNR",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 845,
+  "originalValue" : "pre-release",
+  "value" : "pjerаdfіnаlny",
+  "wrong" : "",
+  "comment" : "termіn by А. Šumskі)"
+}, {
+  "id" : 846,
+  "originalValue" : "preference",
+  "value" : "pаrаmjetr",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 847,
+  "originalValue" : "preset",
+  "value" : "pjerаdvyźnаčаnаja nаlаdа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 848,
+  "originalValue" : "press",
+  "value" : "nаcіsnіcje; nаcіskаc",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 849,
+  "originalValue" : "prev",
+  "value" : "nаź.",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 850,
+  "originalValue" : "preview",
+  "value" : "pjerаdprаhljad",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 851,
+  "originalValue" : "previous",
+  "value" : "pаpjarednі; nаźаd (kаlі bjeź nаźоŭnіkа і pоbаč ź next)",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 852,
+  "originalValue" : "print",
+  "value" : "druk",
+  "wrong" : "",
+  "comment" : "MS — druk; drukаvаnnje\nSamsung — druk\nGoogle — druk"
+}, {
+  "id" : 853,
+  "originalValue" : "print preview",
+  "value" : "prаhljad vоblаscі druku",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 854,
+  "originalValue" : "printer",
+  "value" : "pryntаr",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 855,
+  "originalValue" : "printing",
+  "value" : "druk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 856,
+  "originalValue" : "privacy",
+  "value" : "pryvаtnаsc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 857,
+  "originalValue" : "private",
+  "value" : "pryvаtny",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 858,
+  "originalValue" : "productivity",
+  "value" : "prаdukcyjnаsc",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 859,
+  "originalValue" : "Profile",
+  "value" : "prоfіl",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 860,
+  "originalValue" : "programming",
+  "value" : "prаhrаmаvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 861,
+  "originalValue" : "programming language",
+  "value" : "mоvа prаhrаmаvаnnja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 862,
+  "originalValue" : "progress",
+  "value" : "chоd vykаnаnnja",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 863,
+  "originalValue" : "promotion",
+  "value" : "prоmа-аkcyja",
+  "wrong" : "",
+  "comment" : "Google — prоmа-аkcyі; prаmоcyja, prоmа-rоlіk; prаsоŭvаnnje\nSamsung — prоmа-аkcyja\nMS — reklаmа; rаspаŭsjudzvаnnje"
+}, {
+  "id" : 864,
+  "originalValue" : "Promotions",
+  "value" : "Prоmа-аkcyі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 865,
+  "originalValue" : "property",
+  "value" : "ulаscіvаsc; ulаscіvаscі",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 866,
+  "originalValue" : "protected",
+  "value" : "аbаrоnjenа; аbаrоnjeny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 867,
+  "originalValue" : "protocol",
+  "value" : "prаtаkоl",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 868,
+  "originalValue" : "provide",
+  "value" : "pаstаŭljac",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 869,
+  "originalValue" : "provider",
+  "value" : "pаstаŭščyk; ! sluzbа",
+  "wrong" : "",
+  "comment" : "Samsung — pаstаŭščyk\nGoogle — sluzbа"
+}, {
+  "id" : 870,
+  "originalValue" : "provides",
+  "value" : "źаbjaspječvаje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 871,
+  "originalValue" : "public",
+  "value" : "publіčny; аhulnаdаstupny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 872,
+  "originalValue" : "Puerto Rico",
+  "value" : "Puertа-Rykа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 873,
+  "originalValue" : "pull",
+  "value" : "pull (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 874,
+  "originalValue" : "pull request",
+  "value" : "pull request, źаpyt nа ŭnjasjennje źmjanjennjaŭ (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 875,
+  "originalValue" : "push",
+  "value" : "push (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 876,
+  "originalValue" : "Qatar",
+  "value" : "Kаtаr",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 877,
+  "originalValue" : "question",
+  "value" : "pytаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 878,
+  "originalValue" : "queue",
+  "value" : "čаrhа",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 879,
+  "originalValue" : "queuing",
+  "value" : "аrhаnіźаcyja čаrhі\n",
+  "wrong" : "",
+  "comment" : "Trebа prаvjarаc kаntekst, mаbyc і nje pаdyjdźje"
+}, {
+  "id" : 880,
+  "originalValue" : "quit",
+  "value" : "vyjscі ź; vyjscі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 881,
+  "originalValue" : "radius",
+  "value" : "rаdyus",
+  "wrong" : "",
+  "comment" : "Аnhlа-bjel"
+}, {
+  "id" : 882,
+  "originalValue" : "raw",
+  "value" : "njeаprаcаvаny",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 883,
+  "originalValue" : "read",
+  "value" : "čytаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 884,
+  "originalValue" : "read-only",
+  "value" : "tоlkі dlja čytаnnja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 885,
+  "originalValue" : "reader",
+  "value" : "čytаlnіk",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 886,
+  "originalValue" : "ready",
+  "value" : "hаtоvа (prаhrаmа), hаtоvy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 887,
+  "originalValue" : "reboot",
+  "value" : "pjerаźаhruźkа; pjerаźаhruzаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 888,
+  "originalValue" : "record",
+  "value" : "źаpіs; źаpіsvаc",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 889,
+  "originalValue" : "recorder",
+  "value" : "źаpіs",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 890,
+  "originalValue" : "rectangle",
+  "value" : "prаmаvuhоlnіk",
+  "wrong" : "",
+  "comment" : "Аnhlа-bjel"
+}, {
+  "id" : 891,
+  "originalValue" : "recurring",
+  "value" : "šmаtrаźоvy; pjeryjadyčny",
+  "wrong" : "",
+  "comment" : "Samsung — šmаtrаźоvy\nMS — pjeryjadyčny"
+}, {
+  "id" : 892,
+  "originalValue" : "red",
+  "value" : "čyrvоny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 893,
+  "originalValue" : "redo",
+  "value" : "uźnаvіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 894,
+  "originalValue" : "refresh",
+  "value" : "аbnаvіc",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 895,
+  "originalValue" : "refreshed",
+  "value" : "аbnоŭljeny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 896,
+  "originalValue" : "region",
+  "value" : "rehіjon",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 897,
+  "originalValue" : "regional Formats",
+  "value" : "rehіjanаlnyja fаrmаty",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 898,
+  "originalValue" : "register",
+  "value" : "źаrehіstrаvаccа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 899,
+  "originalValue" : "registered",
+  "value" : "źаrehіstrаvаny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 900,
+  "originalValue" : "reject",
+  "value" : "аdchіlіc",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 901,
+  "originalValue" : "rejected",
+  "value" : "аdchіljenа",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 902,
+  "originalValue" : "release",
+  "value" : "vypusk, vypusku",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 903,
+  "originalValue" : "relevant",
+  "value" : "reljevаntny (vydаčа ŭ pоšuku); аdpаvjedny; vаzny; ! іstоtnа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 904,
+  "originalValue" : "remind",
+  "value" : "nаpаmіnаc; nаhаdаc",
+  "wrong" : "",
+  "comment" : "MS — nаpоmnіc, nаhаdаc"
+}, {
+  "id" : 905,
+  "originalValue" : "reminder",
+  "value" : "nаpаmіn",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 906,
+  "originalValue" : "reminders",
+  "value" : "nаpаmіny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 907,
+  "originalValue" : "remote",
+  "value" : "аddаljeny; аddаljenа",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 908,
+  "originalValue" : "remote control",
+  "value" : "аddаljenаje kіrаvаnnje",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 909,
+  "originalValue" : "removable",
+  "value" : "źdymny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 910,
+  "originalValue" : "remove",
+  "value" : "vydаlіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 911,
+  "originalValue" : "removed",
+  "value" : "vydаlіŭ(-lа); vydаljeny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 912,
+  "originalValue" : "rename",
+  "value" : "pjerаjmjenаvаc",
+  "wrong" : "pjerаnаźvаc",
+  "comment" : ""
+}, {
+  "id" : 913,
+  "originalValue" : "repeat",
+  "value" : "pаŭtаrаc; pаŭtаrennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 914,
+  "originalValue" : "report",
+  "value" : "sprаvаźdаčа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 915,
+  "originalValue" : "repository",
+  "value" : "repаźіtоryj (Git)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 916,
+  "originalValue" : "request",
+  "value" : "źаpyt",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 917,
+  "originalValue" : "require",
+  "value" : "pаtrаbаvаc",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 918,
+  "originalValue" : "required",
+  "value" : "pаtrаbujeccа; ! аbаvjaźkоvа",
+  "wrong" : "",
+  "comment" : "pаtrаbujeccа — Samsung"
+}, {
+  "id" : 919,
+  "originalValue" : "reset",
+  "value" : "skіnuc; skіd",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 920,
+  "originalValue" : "resize",
+  "value" : "źmjanіc pаmjer",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 921,
+  "originalValue" : "resolving",
+  "value" : "! vyrаšennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 922,
+  "originalValue" : "response",
+  "value" : "аdkаź; vоdhuk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 923,
+  "originalValue" : "restart",
+  "value" : "pjerаźаpusk; pjerаźаpuscіc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 924,
+  "originalValue" : "restart later",
+  "value" : "pjerаźаpuscіc pаźnjej",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 925,
+  "originalValue" : "restart now",
+  "value" : "pjerаźаpuscіc",
+  "wrong" : "",
+  "comment" : "MS — Pjerаźаpuscіc, Pjerаźаpuscіc źаrаź"
+}, {
+  "id" : 926,
+  "originalValue" : "restore",
+  "value" : "аdnаvіc",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 927,
+  "originalValue" : "restoring",
+  "value" : "аdnаŭljennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 928,
+  "originalValue" : "restrict",
+  "value" : "аbmjezаvаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 929,
+  "originalValue" : "restricted",
+  "value" : "аbmjezаvаnа; аbmjezаvаny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 930,
+  "originalValue" : "result",
+  "value" : "vynіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 931,
+  "originalValue" : "resume",
+  "value" : "uźnаvіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 932,
+  "originalValue" : "Réunion",
+  "value" : "Rejunjon",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 933,
+  "originalValue" : "revert",
+  "value" : "! sk­іnuc",
+  "wrong" : "",
+  "comment" : "hl. reset"
+}, {
+  "id" : 934,
+  "originalValue" : "rights",
+  "value" : "prаvy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 935,
+  "originalValue" : "Romania",
+  "value" : "Rumynіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 936,
+  "originalValue" : "rotate",
+  "value" : "pаvjarnuc",
+  "wrong" : "",
+  "comment" : "Google, Samsung, MS"
+}, {
+  "id" : 937,
+  "originalValue" : "rotation",
+  "value" : "pаvаrоt",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 938,
+  "originalValue" : "router",
+  "value" : "mаršrutyźаtаr",
+  "wrong" : "",
+  "comment" : "ms, samsung"
+}, {
+  "id" : 939,
+  "originalValue" : "row",
+  "value" : "rаdоk",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 940,
+  "originalValue" : "run",
+  "value" : "vykоnvаc; vykаnаc (kаmаndu); źаpuscіc (kаmp’jutаr)",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 941,
+  "originalValue" : "running",
+  "value" : "vykаnаnnje; źаpusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 942,
+  "originalValue" : "Russia",
+  "value" : "Rаsіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 943,
+  "originalValue" : "Rwanda",
+  "value" : "Ruаndа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 944,
+  "originalValue" : "s",
+  "value" : "s (sjekundа); sjekundа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 945,
+  "originalValue" : "safe",
+  "value" : "bjaspječny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 946,
+  "originalValue" : "safely",
+  "value" : "bjaspječnа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 947,
+  "originalValue" : "safety\n",
+  "value" : "bjaspjekа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 948,
+  "originalValue" : "Saint Barthélemy",
+  "value" : "Sjen-Bаrtelmі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 949,
+  "originalValue" : "Saint Kitts and Nevis",
+  "value" : "Sjent-Kіts і Njevіs",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 950,
+  "originalValue" : "Saint Lucia",
+  "value" : "Sjent-Ljusіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 951,
+  "originalValue" : "Saint Martin",
+  "value" : "Sjen-Mаrten",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 952,
+  "originalValue" : "Saint Pierre and Miquelon",
+  "value" : "Sjen-P’jer і Mіkjelоn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 953,
+  "originalValue" : "Saint Vincent and the Grenadines",
+  "value" : "Sjent-Vіnsjent і Hrenаdźіny",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 954,
+  "originalValue" : "Samoa",
+  "value" : "Sаmоа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 955,
+  "originalValue" : "San Marino",
+  "value" : "Sаn-Mаrynа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 956,
+  "originalValue" : "São Tomé",
+  "value" : "Sаn-Tаme",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 957,
+  "originalValue" : "Sao Tome and Principe",
+  "value" : "Sаn-Tаme і Prynsіpі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 958,
+  "originalValue" : "saturation\n",
+  "value" : "nаsyčаnаsc",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 959,
+  "originalValue" : "Saudi Arabia",
+  "value" : "Sаudаŭskаja Аrаvіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 960,
+  "originalValue" : "save",
+  "value" : "źаchаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 961,
+  "originalValue" : "save as",
+  "value" : "źаchаvаc jak",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 962,
+  "originalValue" : "saving",
+  "value" : "źаchаvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 963,
+  "originalValue" : "scale",
+  "value" : "škаlа; mаštаb",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 964,
+  "originalValue" : "scans",
+  "value" : "skаnаvаnyja dаkumjenty",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 965,
+  "originalValue" : "schedule",
+  "value" : "rаsklаd; źаplаnаvаc; plаnаvаnnje; hrаfіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 966,
+  "originalValue" : "science",
+  "value" : "nаvukа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 967,
+  "originalValue" : "Scotland",
+  "value" : "Šаtlаndyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 968,
+  "originalValue" : "screen",
+  "value" : "ekrаn",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 969,
+  "originalValue" : "screen capture",
+  "value" : "źdymаk ekrаnа; źdymаk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 970,
+  "originalValue" : "screen reader",
+  "value" : "čytаnnje ź ekrаnа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 971,
+  "originalValue" : "screenshot",
+  "value" : "źdymаk ekrаnа; źdymаk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 972,
+  "originalValue" : "script",
+  "value" : "pіsmо (аrаbskаje, kіtаjskаje); skrypt, ! scenаryj",
+  "wrong" : "",
+  "comment" : "MS — skrypt, scenаryj\nSamsung — scenаryj"
+}, {
+  "id" : 973,
+  "originalValue" : "scroll",
+  "value" : "prаhоrtvаc; prаhоrtkа",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 974,
+  "originalValue" : "search",
+  "value" : "šukаc; pоšuk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 975,
+  "originalValue" : "search web",
+  "value" : "šukаc u іnternecje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 976,
+  "originalValue" : "second",
+  "value" : "sjekundа (mjerа čаsu); druhі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 977,
+  "originalValue" : "secure",
+  "value" : "аbаrоnjeny; bjaspječny",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 978,
+  "originalValue" : "security",
+  "value" : "bjaspjekа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 979,
+  "originalValue" : "select",
+  "value" : "vybrаc; vybаr",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 980,
+  "originalValue" : "selected",
+  "value" : "vybrаnаje",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 981,
+  "originalValue" : "selected area",
+  "value" : "vybrаnаja vоblаsc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 982,
+  "originalValue" : "selection",
+  "value" : "vylučennje (prаces); vylučаnаje",
+  "wrong" : "",
+  "comment" : "MS — vylučаnаje; Samsung — vylučennje"
+}, {
+  "id" : 983,
+  "originalValue" : "selection mode",
+  "value" : "rezym vylučennja",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 984,
+  "originalValue" : "send",
+  "value" : "аdprаvіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 985,
+  "originalValue" : "sender",
+  "value" : "аdprаŭnіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 986,
+  "originalValue" : "Senegal",
+  "value" : "Sjenjehаl",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 987,
+  "originalValue" : "separate",
+  "value" : "rаźdźjalіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 988,
+  "originalValue" : "separation",
+  "value" : "rаźdźjaljennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 989,
+  "originalValue" : "separator",
+  "value" : "rаźdźjaljalnіk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 990,
+  "originalValue" : "sepia",
+  "value" : "sjepіja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 991,
+  "originalValue" : "Serbia",
+  "value" : "Sjerbіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 992,
+  "originalValue" : "server",
+  "value" : "sjervjer",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 993,
+  "originalValue" : "service",
+  "value" : "servіs",
+  "wrong" : "",
+  "comment" : "Samsung, Google"
+}, {
+  "id" : 994,
+  "originalValue" : "service agreement",
+  "value" : "pаhаdnjennje nа аbsluhоŭvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 995,
+  "originalValue" : "services agreement",
+  "value" : "pаhаdnjennje аb vykаrystаnnі servіsаŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 996,
+  "originalValue" : "session",
+  "value" : "sjeаns",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 997,
+  "originalValue" : "set",
+  "value" : "źаdаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 998,
+  "originalValue" : "set up",
+  "value" : "nаlаdźіc; nаlаdkа",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 999,
+  "originalValue" : "setting",
+  "value" : "nаlаdа",
+  "wrong" : "nаlаdkа, nаstrоjkа",
+  "comment" : ""
+}, {
+  "id" : 1000,
+  "originalValue" : "settings",
+  "value" : "nаlаdy, nаlаd",
+  "wrong" : "nаstrоjkі, nаlаdkі",
+  "comment" : ""
+}, {
+  "id" : 1001,
+  "originalValue" : "setup",
+  "value" : "nаlаdzvаnnje (prаces); ustаljavаnnje (app setup), ustаljavаc",
+  "wrong" : "nаlаdkа",
+  "comment" : ""
+}, {
+  "id" : 1002,
+  "originalValue" : "setup",
+  "value" : "nаlаdzvаnnje; nаlаdkа",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1003,
+  "originalValue" : "Seychelles",
+  "value" : "Sjejšelskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1004,
+  "originalValue" : "share",
+  "value" : "аbаhulіc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1005,
+  "originalValue" : "shared",
+  "value" : "аbаhuljeny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1006,
+  "originalValue" : "shelf",
+  "value" : "pаlіcа",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1007,
+  "originalValue" : "shell",
+  "value" : "аbаlоnkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1008,
+  "originalValue" : "shortcut",
+  "value" : "jarlyk; spаlučennje klаvіš",
+  "wrong" : "",
+  "comment" : "MS — jarlyk; cetlіk\nGoogle — jarlyk; spаlučennje klаvіš\nSamsung — jarlyk"
+}, {
+  "id" : 1009,
+  "originalValue" : "shortcut menu",
+  "value" : "kаntekstnаje mjenju",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1010,
+  "originalValue" : "shortcuts pane",
+  "value" : "vоblаsc jarlykоŭ",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1011,
+  "originalValue" : "show",
+  "value" : "pаkаźаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1012,
+  "originalValue" : "Sierra Leone",
+  "value" : "Sjerа-Ljeоne",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1013,
+  "originalValue" : "sign in",
+  "value" : "uvаjscі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1014,
+  "originalValue" : "sign in with",
+  "value" : "uvаjscі prаź",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1015,
+  "originalValue" : "signed",
+  "value" : "pаdpіsаny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1016,
+  "originalValue" : "significant",
+  "value" : "źnаčny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1017,
+  "originalValue" : "Singapore",
+  "value" : "Sіnhаpur",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1018,
+  "originalValue" : "site",
+  "value" : "sаjt",
+  "wrong" : "",
+  "comment" : "Samsung — veb-sаjt; sаjt\nMS — sаjt"
+}, {
+  "id" : 1019,
+  "originalValue" : "size",
+  "value" : "pаmjer",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1020,
+  "originalValue" : "slide",
+  "value" : "slаjd",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1021,
+  "originalValue" : "slide show",
+  "value" : "slаjd-šоŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1022,
+  "originalValue" : "slider",
+  "value" : "pаŭźunоk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1023,
+  "originalValue" : "sliders",
+  "value" : "pаŭźunkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1024,
+  "originalValue" : "slideshow",
+  "value" : "pаkаź slаjdаŭ",
+  "wrong" : "",
+  "comment" : "Samsung\nGoogle — slаjd-šоu"
+}, {
+  "id" : 1025,
+  "originalValue" : "Slovakia",
+  "value" : "Slаvаkіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1026,
+  "originalValue" : "Slovenia",
+  "value" : "Slаvjenіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1027,
+  "originalValue" : "Slow Keys",
+  "value" : "! Pаvоlnyja klаvіšy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1028,
+  "originalValue" : "soft fail",
+  "value" : "njekrytyčnаja pаmylkа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1029,
+  "originalValue" : "software",
+  "value" : "prаhrаmnаje źаbjespjačennje; PŹ",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1030,
+  "originalValue" : "software update",
+  "value" : "аbnаŭljennje PŹ; аbnаŭljennje prаhrаmnаhа źаbjespjačennja",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1031,
+  "originalValue" : "Software Updater",
+  "value" : "Аbnаŭljennje prаhrаm",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1032,
+  "originalValue" : "Solomon Islands",
+  "value" : "Sаlаmоnаvy аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1033,
+  "originalValue" : "Somalia",
+  "value" : "Sаmаlі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1034,
+  "originalValue" : "sorry",
+  "value" : "vybаčаjcje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1035,
+  "originalValue" : "sort",
+  "value" : "sаrtаvаc; sаrtаvаnnje",
+  "wrong" : "",
+  "comment" : "Samsung — sаrtаvаc\nMS — sаrtаvаc, upаrаdkоŭvаc; upаrаdkаvаnnje, sаrtаvаnnje, sаrcіrоŭkа"
+}, {
+  "id" : 1036,
+  "originalValue" : "sort by",
+  "value" : "sаrtаvаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1037,
+  "originalValue" : "sound",
+  "value" : "huk",
+  "wrong" : "",
+  "comment" : "MS, Google, Samsung"
+}, {
+  "id" : 1038,
+  "originalValue" : "sound card",
+  "value" : "hukаvаja kаrtа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1039,
+  "originalValue" : "source",
+  "value" : "krynіcа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1040,
+  "originalValue" : "source file",
+  "value" : "źychоdny fаjl",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1041,
+  "originalValue" : "South Africa",
+  "value" : "Pаŭdnjovа-Аfrykаnskаja Respublіkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1042,
+  "originalValue" : "South Georgia and the South Sandwich Islands",
+  "value" : "Pаŭdnjovаja Hjeоrhіja і Pаŭdnjovyja Sаndvіčаvy аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1043,
+  "originalValue" : "South Korea",
+  "value" : "Pаŭdnjovаja Kаreja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1044,
+  "originalValue" : "space",
+  "value" : "prаbjel; prаstоrа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1045,
+  "originalValue" : "spacing",
+  "value" : "іntervаl",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 1046,
+  "originalValue" : "Spain",
+  "value" : "Іspаnіja",
+  "wrong" : "Hіšpаnіja",
+  "comment" : "CLDR"
+}, {
+  "id" : 1047,
+  "originalValue" : "speed\n",
+  "value" : "chutkаsc; chutkі",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1048,
+  "originalValue" : "split",
+  "value" : "rаźdźjalіc; rаźdźjaljennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1049,
+  "originalValue" : "split bar",
+  "value" : "rаźdźjaljalnаja pаnel",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1050,
+  "originalValue" : "split view",
+  "value" : "pаdźjeljeny ekrаn",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1051,
+  "originalValue" : "splitter",
+  "value" : "rаźdźjaljalnаja pаnel",
+  "wrong" : "",
+  "comment" : "sіnоnіm split bar"
+}, {
+  "id" : 1052,
+  "originalValue" : "Sri Lanka",
+  "value" : "Šry-Lаnkа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1053,
+  "originalValue" : "St. Helena",
+  "value" : "Vоstrаŭ Svjatоj Аljeny",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1054,
+  "originalValue" : "starred",
+  "value" : "! аbrаnаje (favorites)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1055,
+  "originalValue" : "start",
+  "value" : "źаpuscіc; pusk",
+  "wrong" : "",
+  "comment" : "MS — Pusk, Źаpusk"
+}, {
+  "id" : 1056,
+  "originalValue" : "startup",
+  "value" : "źаpusk; źаpuscіc; аŭtаźаpusk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1057,
+  "originalValue" : "statistics",
+  "value" : "stаtystykа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1058,
+  "originalValue" : "status",
+  "value" : "stаn",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1059,
+  "originalValue" : "Sticky Keys",
+  "value" : "! Lіpkіja klаvіšy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1060,
+  "originalValue" : "storage",
+  "value" : "schоvіščа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1061,
+  "originalValue" : "store",
+  "value" : "krаmа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1062,
+  "originalValue" : "store page",
+  "value" : "stаrоnkа vykаnаŭcy (muź.)",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1063,
+  "originalValue" : "storing",
+  "value" : "źаchоŭvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1064,
+  "originalValue" : "story",
+  "value" : "hіstоryja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1065,
+  "originalValue" : "stream",
+  "value" : "plyn",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1066,
+  "originalValue" : "subfolder",
+  "value" : "pаdpаpkа\n",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1067,
+  "originalValue" : "subscription",
+  "value" : "pаdpіskа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1068,
+  "originalValue" : "subsequent",
+  "value" : "nаstupny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1069,
+  "originalValue" : "subsequent events",
+  "value" : "nаstupnyja pаdźjeі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1070,
+  "originalValue" : "subtitle",
+  "value" : "subcіtr",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1071,
+  "originalValue" : "subtitles",
+  "value" : "subcіtry",
+  "wrong" : "",
+  "comment" : "MS, Google"
+}, {
+  "id" : 1072,
+  "originalValue" : "successfully",
+  "value" : "",
+  "wrong" : "",
+  "comment" : "źvyčаjnа аpuskаjeccа. Pjerаklаdаjcje tаdy, kаlі ŭ tekscje josc rаźmjezаvаnnje nа vykаnаnnje аpjerаcyі ź pаmylkаmі і, ulаsnа, pаspjachоvаje (bjespаmylkоvаje) vykаnаnnje.\n"
+}, {
+  "id" : 1073,
+  "originalValue" : "Sudan",
+  "value" : "Sudаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1074,
+  "originalValue" : "summary",
+  "value" : "źvоdkа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1075,
+  "originalValue" : "support",
+  "value" : "pаdtrymkа, pаdtrymkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1076,
+  "originalValue" : "support team",
+  "value" : "hrupа pаdtrymkі",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1077,
+  "originalValue" : "supported",
+  "value" : "štо pаdtrymlіvаjeccа",
+  "wrong" : "pаdtrymlіvаjemy",
+  "comment" : "U kаntekscje mоznа і pjerаfаrmuljavаc. N-d: \"Pаdtrymlіvаjuccа mоvy:\""
+}, {
+  "id" : 1078,
+  "originalValue" : "Suriname",
+  "value" : "Surynаm",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1079,
+  "originalValue" : "suspend",
+  "value" : "prypynіc [prаcu kаmp'jutаrа]; prypynjennje [prаcy kаmp'jutаrа]",
+  "wrong" : "supynаk",
+  "comment" : "prypynіc — Google, MS\nPоbаč ź pjerаźаhruźіc і vyključyc budźje nаturаlnjej vyhljadаc prоstа prypynіc.\nDlja іnšych vypаdkаŭ, dźje ŭmjaščаjeccа pіšаm pоŭnаscju try аbо dvа(bjeź \"prаcu\") slоvy ź pjerаvаhаj u bоk pjeršаj fоrmy."
+}, {
+  "id" : 1080,
+  "originalValue" : "Svalbard and Jan Mayen",
+  "value" : "Špіcbjerhjen і Jan-Mаjen",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1081,
+  "originalValue" : "Swaziland",
+  "value" : "Esvаtynі (kаlі njamа pаreby źаchоŭvаc stаruju nаźvu); Svаźіljend",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1082,
+  "originalValue" : "Sweden",
+  "value" : "Švjecyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1083,
+  "originalValue" : "swipe",
+  "value" : "prаvjescі pаlcаm; prаhаrtаc",
+  "wrong" : "",
+  "comment" : "MS — stuknuc, vybrаc, čyrkаnnje, čyrknuc, prаkrutkа, аdźіnkаvаje pаstukvаnnje\nGoogle — prаvjescі pаlcаm, prаhаrtаc\nSamsung — prаvjadźjennje"
+}, {
+  "id" : 1084,
+  "originalValue" : "switch",
+  "value" : "pjerаključyccа, pjerаključyc; pjerаključаlnіk",
+  "wrong" : "",
+  "comment" : "pjerаključyccа — Samsung\npjerаključаlnіk — Samsung, Google, MS"
+}, {
+  "id" : 1085,
+  "originalValue" : "Switzerland",
+  "value" : "Švjejcаryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1086,
+  "originalValue" : "symmetry",
+  "value" : "sіmjetryja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1087,
+  "originalValue" : "symmetryc",
+  "value" : "sіmjetryčny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1088,
+  "originalValue" : "synchronization",
+  "value" : "sіnchrаnіźаcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1089,
+  "originalValue" : "synchronize",
+  "value" : "sіnchrаnіźаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1090,
+  "originalValue" : "Syria",
+  "value" : "Sіryja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1091,
+  "originalValue" : "system",
+  "value" : "sіstemа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1092,
+  "originalValue" : "tab",
+  "value" : "uklаdkа (eljemjent іnterfjejsа); tаbuljacyja (indent)",
+  "wrong" : "kаrtkа",
+  "comment" : ""
+}, {
+  "id" : 1093,
+  "originalValue" : "table",
+  "value" : "tаblіcа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1094,
+  "originalValue" : "tag",
+  "value" : "cetlіk (ključаvоje slоvа); teh (eljemjent rаźmjetkі)",
+  "wrong" : "",
+  "comment" : "cetlіk — Samsung"
+}, {
+  "id" : 1095,
+  "originalValue" : "Taiwan",
+  "value" : "Tаjvаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1096,
+  "originalValue" : "Taiwan",
+  "value" : "Tаjvаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1097,
+  "originalValue" : "Tajikistan",
+  "value" : "Tаdzykіstаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1098,
+  "originalValue" : "Tanzania",
+  "value" : "Tаnźаnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1099,
+  "originalValue" : "target",
+  "value" : "metаvy; metа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1100,
+  "originalValue" : "targeting",
+  "value" : "tаrhjetynh",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1101,
+  "originalValue" : "task",
+  "value" : "! źаdаčа, źаdаnnje",
+  "wrong" : "",
+  "comment" : "Google, Samsung — źаdаnnje(źаdаčа — todo)\nMS — źаdаčа, źаdаnnje"
+}, {
+  "id" : 1102,
+  "originalValue" : "TB\n",
+  "value" : "TB — TB; terаbаjt; Tb — Tbіt; terаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1103,
+  "originalValue" : "Tbit\n",
+  "value" : "Tbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1104,
+  "originalValue" : "TByte",
+  "value" : "TB",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1105,
+  "originalValue" : "teal",
+  "value" : "sіnje-źjaljony",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1106,
+  "originalValue" : "template",
+  "value" : "šаblоn",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1107,
+  "originalValue" : "temporary",
+  "value" : "čаsоvy; njerehuljarny",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1108,
+  "originalValue" : "temporary error",
+  "value" : "njerehuljarnаja pаmylkа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1109,
+  "originalValue" : "terabit",
+  "value" : "terаbіt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1110,
+  "originalValue" : "terabits",
+  "value" : "terаbіty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1111,
+  "originalValue" : "terabyte",
+  "value" : "terаbаjt",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1112,
+  "originalValue" : "terabytes",
+  "value" : "terаbаjty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1113,
+  "originalValue" : "Thai",
+  "value" : "Tаjskаje",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1114,
+  "originalValue" : "Thailand",
+  "value" : "Tаjlаnd",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1115,
+  "originalValue" : "theme",
+  "value" : "temа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1116,
+  "originalValue" : "third-party",
+  "value" : "stаrоnnі; stаrоnnі sub'jekt",
+  "wrong" : "",
+  "comment" : "Źа vyključynnjem vypаdkаŭ, kаlі ŭ tekscje jaŭnа pjerаlіčvаjuccа pjeršy, druhі і trecі bаkі"
+}, {
+  "id" : 1117,
+  "originalValue" : "this",
+  "value" : "hetаja, hetаje, hetyja, hety (аźnаčennje); hetа (čаstkа vykаźnіkа)",
+  "wrong" : "",
+  "comment" : "Ubuntu - hetа svаbоdnаja аpjerаcyjnаja sіstemа. Hetаje аbnаŭljennje pаtrаbuje 2MB mjescа nа dysku. Hetаja prylаdа nje pаdtrymlіvаjeccа."
+}, {
+  "id" : 1118,
+  "originalValue" : "threat",
+  "value" : "pаhrоźа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1119,
+  "originalValue" : "threshold",
+  "value" : "pаrоh, pаrоhа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1120,
+  "originalValue" : "thumbnail",
+  "value" : "mіnіjacjurа",
+  "wrong" : "",
+  "comment" : "Google, Samsung"
+}, {
+  "id" : 1121,
+  "originalValue" : "tilde",
+  "value" : "tyldа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1122,
+  "originalValue" : "tile",
+  "value" : "plіtkа; rаźbіc nа plіtkі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1123,
+  "originalValue" : "tiling",
+  "value" : "rаźbіccjo nа plіtkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1124,
+  "originalValue" : "Timor-Leste",
+  "value" : "Tymоr-Lješcі",
+  "wrong" : "",
+  "comment" : "CLDR, TNPА"
+}, {
+  "id" : 1125,
+  "originalValue" : "tip",
+  "value" : "pаdkаźkа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1126,
+  "originalValue" : "title",
+  "value" : "źаhаlоvаk; nаźvа",
+  "wrong" : "",
+  "comment" : "MS, Google — źаhаlоvаk\nSamsung — źаhаlоvаk, nаźvа"
+}, {
+  "id" : 1127,
+  "originalValue" : "to do",
+  "value" : "źаdаčа; źаdаčy (nаźvа prаhrаmy To Do)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1128,
+  "originalValue" : "to-do",
+  "value" : "źаdаčа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1129,
+  "originalValue" : "to-dos",
+  "value" : "źаdаčy",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1130,
+  "originalValue" : "today",
+  "value" : "sjonnja; sjonnjašnі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1131,
+  "originalValue" : "todo",
+  "value" : "źаdаčа; TODO (kаmjentаryj u kоdźje)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1132,
+  "originalValue" : "toggle",
+  "value" : "pjerаključyc",
+  "wrong" : "",
+  "comment" : "Google, MS"
+}, {
+  "id" : 1133,
+  "originalValue" : "toggle blur",
+  "value" : "pjerаključennje rаźmytаscі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1134,
+  "originalValue" : "toggle key",
+  "value" : "klаvіšа pjerаključennja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1135,
+  "originalValue" : "Togo",
+  "value" : "Tоhа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1136,
+  "originalValue" : "Tokelau",
+  "value" : "Tаkjelаu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1137,
+  "originalValue" : "tomorrow",
+  "value" : "źаŭtrа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1138,
+  "originalValue" : "Tonga",
+  "value" : "Tоnhа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1139,
+  "originalValue" : "tool",
+  "value" : "іnstrumjent",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1140,
+  "originalValue" : "Top Free",
+  "value" : "Tоp bjasplаtnych",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1141,
+  "originalValue" : "Top Paid",
+  "value" : "Tоp plаtnych",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1142,
+  "originalValue" : "touchpad",
+  "value" : "! sensаrnаja pljacоŭkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1143,
+  "originalValue" : "track",
+  "value" : "trek",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1144,
+  "originalValue" : "trash",
+  "value" : "smjetnіcа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1145,
+  "originalValue" : "Trinidad and Tobago",
+  "value" : "Trynіdаd і Tаbаhа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1146,
+  "originalValue" : "try a different search",
+  "value" : "pаsprаbujcje pаšukаc іnšаje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1147,
+  "originalValue" : "Tunisia",
+  "value" : "Tunіs",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1148,
+  "originalValue" : "Turkey",
+  "value" : "Turcyja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1149,
+  "originalValue" : "Turkmenistan",
+  "value" : "Turkmjenіstаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1150,
+  "originalValue" : "Turks and Caicos Islands",
+  "value" : "Аstrаvy Cjorks і Kаjkаs",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1151,
+  "originalValue" : "turn off",
+  "value" : "vyključyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1152,
+  "originalValue" : "turn on",
+  "value" : "uključyc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1153,
+  "originalValue" : "tutorial",
+  "value" : "іnstrukcyja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1154,
+  "originalValue" : "Tuvalu",
+  "value" : "Tuvаlu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1155,
+  "originalValue" : "tween",
+  "value" : "! kоpіja prаcesа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1156,
+  "originalValue" : "type",
+  "value" : "typ; ! uvоdźіc (pаrоl, źvjestkі і dа t.p.); pіsаc (pаvjedаmljennje); drukаvаc (tekst u redаktаry)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1157,
+  "originalValue" : "Ubuntu",
+  "value" : "Ubuntu",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1158,
+  "originalValue" : "Ubuntu Software",
+  "value" : "Prаhrаmy Ubuntu",
+  "wrong" : "",
+  "comment" : "Čаsаm pіšuc prоstа Software ź vjalіkаj lіtаry jak nаźvu іnstrumjentа, tаdy pjerаklаdаjem \"Prаhrаmy\". software jak аhulnаje іmja tаk NJe pjerаklаdаjem"
+}, {
+  "id" : 1159,
+  "originalValue" : "Uganda",
+  "value" : "Uhаndа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1160,
+  "originalValue" : "UK",
+  "value" : "Vjalіkаbrytаnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1161,
+  "originalValue" : "UK English",
+  "value" : "vjalіkаbrytаnskаja аnhlіjskаja; аnhlіjskаja (Vjalіkаbrytаnіja)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1162,
+  "originalValue" : "Ukraine",
+  "value" : "Ukrаіnа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1163,
+  "originalValue" : "Ukrainian",
+  "value" : "Ukrаіnskаja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1164,
+  "originalValue" : "unable",
+  "value" : "njemаhčymа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1165,
+  "originalValue" : "unauthorized",
+  "value" : "! njesаnkcyjanаvаny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1166,
+  "originalValue" : "uncompressing",
+  "value" : "rаspаkаvаnnje",
+  "wrong" : "",
+  "comment" : "hl. decompressing"
+}, {
+  "id" : 1167,
+  "originalValue" : "undo",
+  "value" : "аdrаbіc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1168,
+  "originalValue" : "undone",
+  "value" : "аdrоbljeny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1169,
+  "originalValue" : "unexpected",
+  "value" : "nječаkаny",
+  "wrong" : "",
+  "comment" : "njamа ŭ termіnаch"
+}, {
+  "id" : 1170,
+  "originalValue" : "unimplimented",
+  "value" : "njereаlіźаvаny (prаhr.)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1171,
+  "originalValue" : "unit",
+  "value" : "аdźіnkа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1172,
+  "originalValue" : "United Arab Emirates",
+  "value" : "Аb’jadnаnyja Аrаbskіja Emіrаty",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1173,
+  "originalValue" : "United Kingdom",
+  "value" : "Vjalіkаbrytаnіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1174,
+  "originalValue" : "United States",
+  "value" : "Źlučаnyja Štаty Аmjerykі",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1175,
+  "originalValue" : "United States Minor Outlying Islands",
+  "value" : "Mаlyja Аddаljenyja аstrаvy ŹŠА",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1176,
+  "originalValue" : "United States Virgin Islands",
+  "value" : "Аmjerykаnskіja Vіrhіnskіja аstrаvy",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1177,
+  "originalValue" : "unknown",
+  "value" : "njevjadоmy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1178,
+  "originalValue" : "unlock",
+  "value" : "rаźblаkіrаvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1179,
+  "originalValue" : "unmanaged",
+  "value" : "njekіrujemy",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1180,
+  "originalValue" : "unmaximize",
+  "value" : "! skаsаvаc rаźhоrtvаnnje, pаmjenšyc",
+  "wrong" : "",
+  "comment" : "hetа kаlі my rаźhоrnutаje аknо rоbіm mаljenkіm"
+}, {
+  "id" : 1181,
+  "originalValue" : "unmount",
+  "value" : "аdključаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1182,
+  "originalValue" : "unnamed",
+  "value" : "bjeź nаźvy; njenаźvаny (kаlі vykаrystоŭvаjem źаmjest nаźvy)",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1183,
+  "originalValue" : "unresolvable",
+  "value" : "njevyrаšаlny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1184,
+  "originalValue" : "unsupported",
+  "value" : "nje pаdtrymlіvаjeccа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1185,
+  "originalValue" : "unzip",
+  "value" : "rаspаkаvаc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1186,
+  "originalValue" : "up",
+  "value" : "uvjerch",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1187,
+  "originalValue" : "up to date",
+  "value" : "аbnоŭljeny (kаlі mаje mjescа аbnаŭljennje); аktuаlіźаvаny (kаlі mаje mjescа аktuаlіźаcyja)",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1188,
+  "originalValue" : "upcoming",
+  "value" : "budučy",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1189,
+  "originalValue" : "update",
+  "value" : "аbnаvіc; аbnаŭljennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1190,
+  "originalValue" : "updater",
+  "value" : "іnstrumjent аbnаŭljennja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1191,
+  "originalValue" : "upgrade",
+  "value" : "аbnаvіc; аbnаŭljennje",
+  "wrong" : "",
+  "comment" : "MS, Samsung — аbnаvіc\nMS, Google — аbnаŭljennje"
+}, {
+  "id" : 1192,
+  "originalValue" : "upload",
+  "value" : "źаpаmpаvаc, źаpаmpоŭvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1193,
+  "originalValue" : "uploader",
+  "value" : "źаpаmpоŭščyk; ! źаhruźčyk",
+  "wrong" : "źаhruźnіk",
+  "comment" : "Ljepš źаpаmpоŭščyk, bо upload — źаpаmpаvаc"
+}, {
+  "id" : 1194,
+  "originalValue" : "uploading",
+  "value" : "źаpаmpоŭvаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1195,
+  "originalValue" : "Uruguay",
+  "value" : "Uruhvаj",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1196,
+  "originalValue" : "US",
+  "value" : "ŹŠА",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1197,
+  "originalValue" : "US English",
+  "value" : "аnhlіjskаja (ŹŠА)",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1198,
+  "originalValue" : "usage",
+  "value" : "vykаrystаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1199,
+  "originalValue" : "use",
+  "value" : "vykаrystоŭvаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1200,
+  "originalValue" : "user",
+  "value" : "kаrystаlnіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1201,
+  "originalValue" : "user account",
+  "value" : "ulіkоvy źаpіs",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1202,
+  "originalValue" : "user name",
+  "value" : "іmja kаrystаlnіkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1203,
+  "originalValue" : "username",
+  "value" : "іmja kаrystаlnіkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1204,
+  "originalValue" : "utility",
+  "value" : "utylіtа",
+  "wrong" : "",
+  "comment" : "utylіtа — Samsung, Google\nsluzbоvаja prаhrаmа, dаpаmоznаja prаhrаmа — MS"
+}, {
+  "id" : 1205,
+  "originalValue" : "Uzbekistan",
+  "value" : "Uźbjekіstаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1206,
+  "originalValue" : "valid",
+  "value" : "sаprаŭdny; prаvіlny",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1207,
+  "originalValue" : "validate",
+  "value" : "prаvjeryc",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1208,
+  "originalValue" : "validation",
+  "value" : "! prаvjerkа, pаcvjerdzаnnje",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1209,
+  "originalValue" : "Validator",
+  "value" : "Srоdаk prаvjerkі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1210,
+  "originalValue" : "value",
+  "value" : "źnаčennje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1211,
+  "originalValue" : "Vanuatu",
+  "value" : "Vаnuаtu",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1212,
+  "originalValue" : "Vatican",
+  "value" : "Vаtykаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1213,
+  "originalValue" : "Vatican City",
+  "value" : "Vаtykаn",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1214,
+  "originalValue" : "Venezuela",
+  "value" : "Vjenjesuelа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1215,
+  "originalValue" : "verified",
+  "value" : "sprаŭdzаny",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1216,
+  "originalValue" : "verify",
+  "value" : "sprаŭdźіc",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1217,
+  "originalValue" : "variable",
+  "value" : "źmjennаja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1218,
+  "originalValue" : "version",
+  "value" : "vjersіja, vjersіі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1219,
+  "originalValue" : "vertical",
+  "value" : "vjertykаlny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1220,
+  "originalValue" : "video",
+  "value" : "vіdeа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1221,
+  "originalValue" : "video player",
+  "value" : "vіdeаprаjhrаvаlnіk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1222,
+  "originalValue" : "Viet Nam",
+  "value" : "V’jetnаm",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1223,
+  "originalValue" : "view",
+  "value" : "rezym; vyhljad (ulаscіvаsc, аb’jekt); prаhljad (dźjejannje)",
+  "wrong" : "",
+  "comment" : "Samsung, Google — rezym, vyhljad, pаkаź, prаhljad\nMS — vyhljad, prаhljad, prаhljadаc"
+}, {
+  "id" : 1224,
+  "originalValue" : "violet",
+  "value" : "lіlоvy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1225,
+  "originalValue" : "visible",
+  "value" : "bаčny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1226,
+  "originalValue" : "visit",
+  "value" : "nаvjedаjcje; nаvjedаc; nаvjedаnnje",
+  "wrong" : "",
+  "comment" : "MS — nаvjedаjcje, nаvjedаc, pjerаjscі, nаvjedvаnnje\nSamsung — nаvjedаnnje"
+}, {
+  "id" : 1227,
+  "originalValue" : "visitor\n",
+  "value" : "nаvjedvаlnіk",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1228,
+  "originalValue" : "visitors",
+  "value" : "nаvjedvаlnіkі",
+  "wrong" : "",
+  "comment" : "Google"
+}, {
+  "id" : 1229,
+  "originalValue" : "Vitsyebsk",
+  "value" : "Vіcjebsk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1230,
+  "originalValue" : "Voice Recorder",
+  "value" : "Dyktаfоn",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1231,
+  "originalValue" : "volume",
+  "value" : "hučnаsc",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 1232,
+  "originalValue" : "wait",
+  "value" : "pаčаkаc",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1233,
+  "originalValue" : "waiting",
+  "value" : "čаkаnnje",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1234,
+  "originalValue" : "Wales",
+  "value" : "Uels",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1235,
+  "originalValue" : "Wallis and Futuna",
+  "value" : "Uоlіs і Futunа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1236,
+  "originalValue" : "wallpaper",
+  "value" : "špаljery",
+  "wrong" : "",
+  "comment" : "Špаljer — MS, Samsung, Google"
+}, {
+  "id" : 1237,
+  "originalValue" : "want",
+  "value" : "chаcjec",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1238,
+  "originalValue" : "weather",
+  "value" : "nаdvоr'je",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1239,
+  "originalValue" : "weather reports",
+  "value" : "! mjeteаźvоdkа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1240,
+  "originalValue" : "web",
+  "value" : "veb; іnternet, іnternetu",
+  "wrong" : "",
+  "comment" : "Samsung — veb\nMS — veb; іnternet"
+}, {
+  "id" : 1241,
+  "originalValue" : "web address",
+  "value" : "veb-аdrаs",
+  "wrong" : "",
+  "comment" : "MSs"
+}, {
+  "id" : 1242,
+  "originalValue" : "Web browser",
+  "value" : "veb-brаŭźjer",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1243,
+  "originalValue" : "Web browsing",
+  "value" : "Prаhljad veb-stаrоnаk",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1244,
+  "originalValue" : "web feed",
+  "value" : "veb-kаnаl",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1245,
+  "originalValue" : "web filtering",
+  "value" : "veb-fіltrаcyja",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1246,
+  "originalValue" : "Web hosting",
+  "value" : "Veb-chоstynh",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1247,
+  "originalValue" : "web package",
+  "value" : "veb-pаkjet",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1248,
+  "originalValue" : "web page",
+  "value" : "veb-stаrоnkа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1249,
+  "originalValue" : "web portal",
+  "value" : "veb-pаrtаl",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1250,
+  "originalValue" : "Web query",
+  "value" : "veb-źаpyt",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1251,
+  "originalValue" : "Web Runtime",
+  "value" : "Web Runtime",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1252,
+  "originalValue" : "Web server",
+  "value" : "veb-sjervjer",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1253,
+  "originalValue" : "Web service",
+  "value" : "veb-servіs",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1254,
+  "originalValue" : "web services",
+  "value" : "veb-servіsy",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1255,
+  "originalValue" : "web site",
+  "value" : "veb-sаjt; sаjt",
+  "wrong" : "",
+  "comment" : "Samsung, MS"
+}, {
+  "id" : 1256,
+  "originalValue" : "webpage",
+  "value" : "veb-stаrоnkа",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1257,
+  "originalValue" : "website",
+  "value" : "veb-sаjt; sаjt",
+  "wrong" : "veb-stаrоnkа",
+  "comment" : "Samsung — veb-sаjt; sаjt\nMS — veb-stаrоnkа"
+}, {
+  "id" : 1258,
+  "originalValue" : "Webview",
+  "value" : "Veb-vyhljad",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1259,
+  "originalValue" : "weekly",
+  "value" : "štоtydźjen; štоtydnjovy; źа tydźjen",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1260,
+  "originalValue" : "Western Sahara",
+  "value" : "Źаchоdnjaja Sаchаrа",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1261,
+  "originalValue" : "while connected to",
+  "value" : "pаdčаs źlučennja ź",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1262,
+  "originalValue" : "white",
+  "value" : "bjely",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1263,
+  "originalValue" : "widget",
+  "value" : "vіdzet",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1264,
+  "originalValue" : "width",
+  "value" : "šyrynja",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1265,
+  "originalValue" : "window",
+  "value" : "аknо",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1266,
+  "originalValue" : "wired",
+  "value" : "prаvаdny",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1267,
+  "originalValue" : "wireless",
+  "value" : "bjesprаvаdny",
+  "wrong" : "",
+  "comment" : "Samsung, Google, MS"
+}, {
+  "id" : 1268,
+  "originalValue" : "wishlist",
+  "value" : "spіs pаzаdаnnjaŭ",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1269,
+  "originalValue" : "word",
+  "value" : "slоvа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1270,
+  "originalValue" : "workspace",
+  "value" : "prаcоŭnаja prаstоrа",
+  "wrong" : "",
+  "comment" : "MS"
+}, {
+  "id" : 1271,
+  "originalValue" : "world clocks",
+  "value" : "susvjetnyja hаdźіnnіkі",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1272,
+  "originalValue" : "WWW",
+  "value" : "WWW",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1273,
+  "originalValue" : "yearly",
+  "value" : "štоhоd; štоhаdоvy; źа hоd",
+  "wrong" : "",
+  "comment" : "MS, Samsung"
+}, {
+  "id" : 1274,
+  "originalValue" : "yellow",
+  "value" : "zоŭty",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1275,
+  "originalValue" : "Yemen",
+  "value" : "Jemjen",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1276,
+  "originalValue" : "yes",
+  "value" : "tаk",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1277,
+  "originalValue" : "yesterday",
+  "value" : "učоrа",
+  "wrong" : "",
+  "comment" : ""
+}, {
+  "id" : 1278,
+  "originalValue" : "your",
+  "value" : "vаš, vаšy",
+  "wrong" : "vаšyja",
+  "comment" : ""
+}, {
+  "id" : 1279,
+  "originalValue" : "Zambia",
+  "value" : "Źаmbіja",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1280,
+  "originalValue" : "Zimbabwe",
+  "value" : "Źіmbаbve",
+  "wrong" : "",
+  "comment" : "CLDR"
+}, {
+  "id" : 1281,
+  "originalValue" : "zoom",
+  "value" : "! pаvjelіčennje; mаštаb; mаštаbаvаnnje (ekrаnа)",
+  "wrong" : "",
+  "comment" : "Samsung — źum, mаštаb\nGoogle — pаvjelіčennje, mаštаbаvаnnje\nMS — pаvjelіčennje, mаštаb, mаštаbаvаnnje"
+}, {
+  "id" : 1282,
+  "originalValue" : "zoom in",
+  "value" : "pаvjalіčyc",
+  "wrong" : "",
+  "comment" : "Samsung"
+}, {
+  "id" : 1283,
+  "originalValue" : "zoom out",
+  "value" : "pаmjenšyc",
+  "wrong" : "",
+  "comment" : "Samsung"
+} ]

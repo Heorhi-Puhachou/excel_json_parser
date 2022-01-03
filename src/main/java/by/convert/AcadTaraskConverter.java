@@ -3,9 +3,9 @@ package by.convert;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class AcadTaraskConverter {
+public class AcadTaraskConverter extends BaseConverter {
 
-    public static String convert(String acad) {
+    public String convert(String acad) {
 
         if (acad == null || acad.isEmpty()) {
             return acad;
@@ -14,7 +14,7 @@ public class AcadTaraskConverter {
 
     }
 
-    private static String chekMZ(String in) {
+    private String chekMZ(String in) {
         ArrayList<String> zmyakchateli = new ArrayList<>();
         zmyakchateli.add("ь");
 
@@ -32,7 +32,7 @@ public class AcadTaraskConverter {
         return in;
     }
 
-    private static String chekI(String in) {
+    private String chekI(String in) {
         // Arrays.stream(MiakkiHalosny.values()).forEach(mg -> in.replace(mg.value+" і ", mg.value+" й "));
         //TODO add zverdija galosnija
 
@@ -49,7 +49,7 @@ public class AcadTaraskConverter {
                 .replace("у і ", "у й ");
     }
 
-    private static String chekCoran(String in) {
+    private String chekCoran(String in) {
         return in
                 .replace("клас", "кляс")
                 .replace("логік", "лёгік")
