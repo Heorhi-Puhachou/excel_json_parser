@@ -45,17 +45,37 @@ public class ConvertExcel2Json {
         System.out.println("Канвертацыя скончана.");
     }
 
-    public static void convertLabels(){
+    public static void convertLabels() {
 
-        String pathToNarkamFile = System.getProperty("user.dir")+"\\generated\\labels\\be-1959acad.js";
-        String pathToTaraskFile = System.getProperty("user.dir")+"\\generated\\labels\\be-tarask.js";
-        String pathToLacinkFile = System.getProperty("user.dir")+"\\generated\\labels\\be-lacinka.js";
-        // Read the content from file
-        StringJoiner narkamText = new StringJoiner("\n");
-        try(BufferedReader bufferedReader = new BufferedReader(new FileReader(pathToNarkamFile))) {
+        String pathToNarkamFile = System.getProperty("user.dir") + "\\generated\\labels\\be-1959acad.js";
+        String pathToTaraskFile = System.getProperty("user.dir") + "\\generated\\labels\\be-tarask.js";
+        String pathToLacinkFile = System.getProperty("user.dir") + "\\generated\\labels\\be-lacinka.js";
+
+        String narkamText = readTextFromFile(pathToNarkamFile);
+
+        String taraskText = (new AcadTaraskConverter()).convert(narkamText.toString()).replace("NARKAM", "TARASK");
+        String lacinkText = (new AcadLacinkaConverter()).convert(narkamText.toString()).replace("NARKAM", "LACINK");
+
+        writeTextToFile(lacinkText, pathToLacinkFile);
+        writeTextToFile(taraskText, pathToTaraskFile);
+    }
+
+    private static void writeTextToFile(String text, String filePath) {
+        try (FileOutputStream fileOutputStream = new FileOutputStream(filePath)) {
+            fileOutputStream.write(text.getBytes());
+        } catch (FileNotFoundException e) {
+            // exception handling
+        } catch (IOException e) {
+            // exception handling
+        }
+    }
+
+    private static String readTextFromFile(String filePath) {
+        StringJoiner text = new StringJoiner("\n");
+        try (BufferedReader bufferedReader = new BufferedReader(new FileReader(filePath))) {
             String line = bufferedReader.readLine();
-            while(line != null) {
-               narkamText.add(line);
+            while (line != null) {
+                text.add(line);
                 line = bufferedReader.readLine();
             }
         } catch (FileNotFoundException e) {
@@ -64,27 +84,7 @@ public class ConvertExcel2Json {
             // Exception handling
         }
 
-        String taraskText = (new AcadTaraskConverter()).convert(narkamText.toString()).replace("NARKAM", "TARASK");
-        String lacinkText = (new AcadLacinkaConverter()).convert(narkamText.toString()).replace("NARKAM", "LACINK");
-        System.out.println(narkamText.toString());
-        System.out.println(taraskText);
-        System.out.println(lacinkText);
-
-        try(FileOutputStream fileOutputStream = new FileOutputStream(pathToTaraskFile)) {
-            fileOutputStream.write(taraskText.getBytes());
-        } catch (FileNotFoundException e) {
-            // exception handling
-        } catch (IOException e) {
-            // exception handling
-        }
-
-        try(FileOutputStream fileOutputStream = new FileOutputStream(pathToLacinkFile)) {
-            fileOutputStream.write(lacinkText.getBytes());
-        } catch (FileNotFoundException e) {
-            // exception handling
-        } catch (IOException e) {
-            // exception handling
-        }
+        return text.toString();
     }
 
     public static void readConvertWriteGlossary(BaseConverter baseConverter, String writePath) {
