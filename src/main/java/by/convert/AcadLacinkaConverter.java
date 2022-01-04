@@ -11,6 +11,12 @@ public class AcadLacinkaConverter extends BaseConverter {
         String tarask = (new AcadTaraskConverter()).convert(acad);
 
         return tarask
+
+                .replace("Бе", "Bie")
+                .replace("бе", "bie")
+                .replace("Пе", "Pie")
+                .replace("пе", "pie")
+
                 .replace("Б", "B")
                 .replace("б", "b")
                 .replace("В", "V")

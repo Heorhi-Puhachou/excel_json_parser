@@ -9,5 +9,8 @@ export const TARASK = {
     back: 'Назад',
     term: 'Тэрмін',
     wrong_usage: 'Няправільнае ўжываньне',
-    comment: 'Камэнтар'
+    comment: 'Камэнтар',
+    narkam: 'narkam',
+    tarask: 'tarask',
+    lacink: 'lacink',
 };

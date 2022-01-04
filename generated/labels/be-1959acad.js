@@ -9,5 +9,8 @@ export const NARKAM = {
     back: 'Назад',
     term: 'Тэрмін',
     wrong_usage: 'Няправільнае ўжыванне',
-    comment: 'Каментарый'
+    comment: 'Каментарый',
+    narkam: 'narkam',
+    tarask: 'tarask',
+    lacink: 'lacink',
 };
