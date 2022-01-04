@@ -1,6 +1,6 @@
 export const LACINK ={
     title: 'Bjelаruskі technіčny pjerаklаd',
-    glossary: 'Hlаsаryj',
+    glossary: 'Hljasаryj',
     rules: 'Prаvіly',
     links: 'Spаsylkі',
     pg: 'st.',

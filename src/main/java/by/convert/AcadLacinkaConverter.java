@@ -7,7 +7,10 @@ public class AcadLacinkaConverter extends BaseConverter {
         if (acad == null || acad.isEmpty()) {
             return acad;
         }
-        return acad
+
+        String tarask = (new AcadTaraskConverter()).convert(acad);
+
+        return tarask
                 .replace("Б", "B")
                 .replace("б", "b")
                 .replace("В", "V")

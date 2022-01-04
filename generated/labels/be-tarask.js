@@ -1,6 +1,6 @@
 export const TARASK ={
     title: 'Беларускі тэхнічны пераклад',
-    glossary: 'Гласарый',
+    glossary: 'Глясарый',
     rules: 'Правілы',
     links: 'Спасылкі',
     pg: 'ст.',

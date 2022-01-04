@@ -53,6 +53,8 @@ public class AcadTaraskConverter extends BaseConverter {
         return in
                 .replace("клас", "кляс")
                 .replace("логік", "лёгік")
-                .replace("лагіч", "лягіч");
+                .replace("лагіч", "лягіч")
+                .replace("анверт", "анвэрт")
+                .replace("ласар", "лясар");
     }
 }
