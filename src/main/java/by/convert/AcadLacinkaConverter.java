@@ -12,11 +12,6 @@ public class AcadLacinkaConverter extends BaseConverter {
 
         return tarask
 
-                .replace("Бе", "Bie")
-                .replace("бе", "bie")
-                .replace("Пе", "Pie")
-                .replace("пе", "pie")
-
                 .replace("Б", "B")
                 .replace("б", "b")
                 .replace("В", "V")
@@ -26,7 +21,9 @@ public class AcadLacinkaConverter extends BaseConverter {
                 .replace("Д", "D")
                 .replace("д", "d")
                 .replace("Е", "Je")
-                .replace("е", "je")
+                .replace(" е", " je")
+                .replace("ае", "aje")
+                .replace("е", "ie")
                 .replace("Ё", "Jo")
                 .replace("ё", "jo")
                 .replace("Ж", "Z")
