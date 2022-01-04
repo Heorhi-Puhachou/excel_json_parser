@@ -1,9 +1,13 @@
-export const TARASK ={
+export const TARASK = {
     title: 'Беларускі тэхнічны пераклад',
     glossary: 'Глясарый',
     rules: 'Правілы',
     links: 'Спасылкі',
-    pg: 'ст.',
-    z: 'з',
-    input_eng_term: 'увядзіце анг. тэрмін'
+    pg: 'ст. ',
+    z: ' з ',
+    input_eng_term: 'увядзіце анг. тэрмін',
+    back: 'Назад',
+    term: 'Тэрмін',
+    wrong_usage: 'Няправільнае ўжываньне',
+    comment: 'Камэнтар'
 };
