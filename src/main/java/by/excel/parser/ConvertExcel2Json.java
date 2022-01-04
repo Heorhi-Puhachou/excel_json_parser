@@ -264,7 +264,7 @@ public class ConvertExcel2Json {
 
                 Link link = new Link(url, description);
                 if (category.isEmpty()) {
-                    category = "Агульнае";
+                    category = "*";
                 }
 
                 if (getGroupByName(category, linkGroups) == null) {
@@ -342,9 +342,9 @@ public class ConvertExcel2Json {
 
     private static LinkGroup getGroupByName(String name, List<LinkGroup> groups) {
         LinkGroup result = null;
-        for (int i = 0; i < groups.size(); i++) {
-            if (groups.get(i).getGroupName().equals(name)) {
-                result = groups.get(i);
+        for (LinkGroup group : groups) {
+            if (group.getGroupName().equals(name)) {
+                result = group;
             }
         }
         return result;
@@ -352,9 +352,9 @@ public class ConvertExcel2Json {
 
     private static StyleGroup getStyleGroupByName(String name, List<StyleGroup> groups) {
         StyleGroup result = null;
-        for (int i = 0; i < groups.size(); i++) {
-            if (groups.get(i).getCategory().equals(name)) {
-                result = groups.get(i);
+        for (StyleGroup group : groups) {
+            if (group.getCategory().equals(name)) {
+                result = group;
             }
         }
         return result;

@@ -44,7 +44,7 @@
     "description" : "Sprаvоčnиk nаиmjenоvаnиj hоsudаrstv и tjerrиtоrиj mиrа (dаljeje – Sprаvоčnиk) ustаnаvlиvаjet nаpиsаnиje nаиmjenоvаnиj hоsudаrstv и tjerrиtоrиj mиrа, иch stоlиc и cjentrоv nа russkоm, bjelоrusskоm и аnhlиjskоm jaźykаch. "
   } ]
 }, {
-  "groupName" : "Агульнае",
+  "groupName" : "*",
   "links" : [ {
     "url" : "https://help.launchpad.net/Translations/Guide",
     "description" : "Technіčnyja аspjekty rаdkоŭ Ubuntu"
