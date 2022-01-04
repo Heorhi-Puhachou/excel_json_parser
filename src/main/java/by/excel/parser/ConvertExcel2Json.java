@@ -1,12 +1,7 @@
 package by.excel.parser;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
+import java.io.*;
+import java.util.*;
 
 import by.convert.AcadLacinkaConverter;
 import by.convert.AcadTaraskConverter;
@@ -45,7 +40,51 @@ public class ConvertExcel2Json {
         readConvertWriteStyle(new AcadTaraskConverter(), "generated/style/tarask.json");
         readConvertWriteStyle(new AcadLacinkaConverter(), "generated/style/lacinka.json");
 
+        convertLabels();
+
         System.out.println("Канвертацыя скончана.");
+    }
+
+    public static void convertLabels(){
+
+        String pathToNarkamFile = System.getProperty("user.dir")+"\\generated\\labels\\be-1959acad.js";
+        String pathToTaraskFile = System.getProperty("user.dir")+"\\generated\\labels\\be-tarask.js";
+        String pathToLacinkFile = System.getProperty("user.dir")+"\\generated\\labels\\be-lacinka.js";
+        // Read the content from file
+        StringJoiner narkamText = new StringJoiner("\n");
+        try(BufferedReader bufferedReader = new BufferedReader(new FileReader(pathToNarkamFile))) {
+            String line = bufferedReader.readLine();
+            while(line != null) {
+               narkamText.add(line);
+                line = bufferedReader.readLine();
+            }
+        } catch (FileNotFoundException e) {
+            // Exception handling
+        } catch (IOException e) {
+            // Exception handling
+        }
+
+        String taraskText = (new AcadTaraskConverter()).convert(narkamText.toString()).replace("NARKAM", "TARASK");
+        String lacinkText = (new AcadLacinkaConverter()).convert(narkamText.toString()).replace("NARKAM", "LACINK");
+        System.out.println(narkamText.toString());
+        System.out.println(taraskText);
+        System.out.println(lacinkText);
+
+        try(FileOutputStream fileOutputStream = new FileOutputStream(pathToTaraskFile)) {
+            fileOutputStream.write(taraskText.getBytes());
+        } catch (FileNotFoundException e) {
+            // exception handling
+        } catch (IOException e) {
+            // exception handling
+        }
+
+        try(FileOutputStream fileOutputStream = new FileOutputStream(pathToLacinkFile)) {
+            fileOutputStream.write(lacinkText.getBytes());
+        } catch (FileNotFoundException e) {
+            // exception handling
+        } catch (IOException e) {
+            // exception handling
+        }
     }
 
     public static void readConvertWriteGlossary(BaseConverter baseConverter, String writePath) {
