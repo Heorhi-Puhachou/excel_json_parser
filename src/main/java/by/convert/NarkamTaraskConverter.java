@@ -181,7 +181,12 @@ public class NarkamTaraskConverter extends BaseConverter {
     }
 
     private boolean pershySkladPadNaciskam(String word) {
-        return word.equals("трэба") || word.equals("ведаю") || "о".equals(findFirstGalosny(word));
+        return word.equals("бачу")
+                ||word.equals("назвы")
+                ||word.equals("будзе")
+                ||word.equals("трэба")
+                || word.equals("ведаю")
+                || "о".equals(findFirstGalosny(word));
     }
 
     private String findFirstGalosny(String word) {
