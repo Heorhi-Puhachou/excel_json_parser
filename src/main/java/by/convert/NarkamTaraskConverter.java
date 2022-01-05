@@ -4,6 +4,7 @@ import by.parser.ParsedElement;
 import by.parser.Parser;
 import by.util.MiakkiHalosny;
 import by.util.MiakkiZycnyy;
+import by.util.Pair;
 import by.util.WordCase;
 
 import java.util.ArrayList;
@@ -12,6 +13,7 @@ import java.util.Arrays;
 import static by.util.StringUtilCheck.isEngWord;
 import static by.util.StringUtilCheck.isGalosny;
 import static by.util.StringUtilGet.findFirstGalosny;
+import static by.util.StringUtilGet.getLastSymbol;
 import static by.util.StringUtilTransform.transformCase;
 
 public class NarkamTaraskConverter extends BaseConverter {
@@ -22,9 +24,15 @@ public class NarkamTaraskConverter extends BaseConverter {
     }
 
     private Parser parser;
+    private ArrayList<Pair> endReplace;
 
     public NarkamTaraskConverter() {
         this.parser = new Parser();
+
+        this.endReplace = new ArrayList<>();
+        endReplace.add(new Pair("метр", "метар"));
+        endReplace.add(new Pair("літр", "літар"));
+
     }
 
     public String convert(String narkam) {
@@ -65,7 +73,9 @@ public class NarkamTaraskConverter extends BaseConverter {
         String convertedValue = checkI(prev, current.getWord(), current.getDelimiter());
         convertedValue = checkNe(convertedValue, next);
         convertedValue = checkBez(convertedValue, next);
-        convertedValue = chekCoran(chekMZ(convertedValue));
+        convertedValue = dummyReplace(convertedValue);
+        convertedValue = replaceEnd(convertedValue);
+        convertedValue = (chekMZ(convertedValue));
         convertedValue = transformCase(current.getWordCase(), convertedValue);
         return convertedValue;
     }
@@ -121,7 +131,7 @@ public class NarkamTaraskConverter extends BaseConverter {
         return in;
     }
 
-    private String chekCoran(String in) {
+    private String dummyReplace(String in) {
         return in
                 .replace("анверт", "анвэрт")
                 .replace("аргумент", "аргумэнт")
@@ -155,16 +165,14 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("шоу", "шоў");
     }
 
-    private String firstLetterToUpperCase(String word) {
-        String low = word.toLowerCase();
-        String first = low.substring(0, 1);
-        return first.toUpperCase() + low.substring(1);
+    private String replaceEnd(String word) {
+        for (Pair pair : endReplace) {
+            if (word.endsWith(pair.getIn())) {
+                return word.replace(pair.getIn(), pair.getOut());
+            }
+        }
+        return word;
     }
-
-    private String getLastSymbol(String input) {
-        return input.substring(input.length() - 1);
-    }
-
 
     private boolean pershySkladPadNaciskam(String word) {
         return word.equals("бачу")

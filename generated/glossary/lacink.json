@@ -1855,7 +1855,7 @@
 }, {
   "id" : 310,
   "originalValue" : "diameter",
-  "value" : "dyjamietr",
+  "value" : "dyjamietar",
   "wrong" : "",
   "comment" : "Anhla-biel"
 }, {
@@ -4609,7 +4609,7 @@
 }, {
   "id" : 769,
   "originalValue" : "option",
-  "value" : "paramietr; varyjant",
+  "value" : "paramietar; varyjant",
   "wrong" : "",
   "comment" : "Google, Samsung"
 }, {
@@ -5071,7 +5071,7 @@
 }, {
   "id" : 846,
   "originalValue" : "preference",
-  "value" : "paramietr",
+  "value" : "paramietar",
   "wrong" : "",
   "comment" : ""
 }, {
