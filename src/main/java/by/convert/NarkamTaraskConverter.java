@@ -139,6 +139,7 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("арфаграф", "артаграф")
                 .replace("арыстоцель", "арыстотэль")
                 .replace("валанцёр", "валантэр")
+                .replace("версі", "вэрсі")
                 .replace("гаус", "гаўс")
                 .replace("Генры", "Гэнры")
                 .replace("дакумент", "дакумэнт")

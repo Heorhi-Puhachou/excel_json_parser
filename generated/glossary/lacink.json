@@ -3613,9 +3613,9 @@
 }, {
   "id" : 603,
   "originalValue" : "legacy",
-  "value" : "sastarelaja viersija; raniejšaja viersija",
+  "value" : "sastarelaja versija; raniejšaja versija",
   "wrong" : "",
-  "comment" : "MS — raniejšaja viersija; sastarely"
+  "comment" : "MS — raniejšaja versija; sastarely"
 }, {
   "id" : 604,
   "originalValue" : "Lesotho",
@@ -7303,7 +7303,7 @@
 }, {
   "id" : 1218,
   "originalValue" : "version",
-  "value" : "viersija, viersii",
+  "value" : "versija, versii",
   "wrong" : "",
   "comment" : ""
 }, {
