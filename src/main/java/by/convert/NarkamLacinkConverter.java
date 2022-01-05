@@ -1,6 +1,6 @@
 package by.convert;
 
-public class AcadLacinkaConverter extends BaseConverter {
+public class NarkamLacinkConverter extends BaseConverter {
 
     public String convert(String acad) {
 
@@ -8,7 +8,7 @@ public class AcadLacinkaConverter extends BaseConverter {
             return acad;
         }
 
-        String tarask = (new AcadTaraskConverter()).convert(acad);
+        String tarask = (new NarkamTaraskConverter()).convert(acad);
 
         return tarask
 

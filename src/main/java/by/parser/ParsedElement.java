@@ -5,13 +5,13 @@ public class ParsedElement {
     private String delimiter;
     private String originalWord;
     private String word;
-    private WordCase upperCase;
+    private WordCase wordCase;
 
     public ParsedElement(String delimiter, String originalWord) {
         this.delimiter = delimiter;
         this.originalWord = originalWord;
         this.word = originalWord.toLowerCase();
-        this.upperCase = getWordCase(originalWord);
+        this.wordCase = getWordCase(originalWord);
     }
 
     public String getDelimiter() {
@@ -26,8 +26,8 @@ public class ParsedElement {
         return word;
     }
 
-    public WordCase getUpperCase() {
-        return upperCase;
+    public WordCase getWordCase() {
+        return wordCase;
     }
 
     @Override
@@ -36,7 +36,7 @@ public class ParsedElement {
                 "delimiter='" + delimiter + '\'' +
                 ", originalWord='" + originalWord + '\'' +
                 ", word='" + word + '\'' +
-                ", upperCase=" + upperCase +
+                ", upperCase=" + wordCase +
                 '}';
     }
 

@@ -6,11 +6,7 @@ import java.util.regex.Pattern;
 
 public class Parser {
 
-    public static void main(String... args) {
-        parse("Прыклад беларукага ТЭКСТУ! And eng And 1234///... ЕпЕпЕ ulіkоvy źаpіs, ulіkоvаhа źаpіsu, ulіkоvym źаpіsie!");
-    }
-
-    public static ArrayList<ParsedElement> parse(String text) {
+    public ArrayList<ParsedElement> parse(String text) {
         ArrayList<ParsedElement> result = new ArrayList<>();
         char[] chars = text.toCharArray();
         boolean currentDelimiter = true;
@@ -18,7 +14,6 @@ public class Parser {
         String currentWordValue = "";
         for (int i = 0; i < text.length(); i++) {
             boolean isDelimiter = !isWordSymbol(chars[i]);
-
 
             // Чыталі не-слова й працягваем чытаць не-слова
             if (currentDelimiter && isDelimiter) {
@@ -59,25 +54,14 @@ public class Parser {
                     result.add(new ParsedElement(currentDelimiterValue, ""));
                 }
             }
-
-
-            System.out.println(chars[i] + " " + isWordSymbol(chars[i]));
-
-
         }
-
-        result.forEach(parsedElement -> System.out.println(parsedElement.toString()));
-
         return result;
     }
 
-    private static boolean isWordSymbol(char symbol) {
+    private boolean isWordSymbol(char symbol) {
         String nonDelimiterPattern = "[\\p{L}\\d]";
         Pattern pattern = Pattern.compile(nonDelimiterPattern);
         Matcher matcher = pattern.matcher("" + symbol);
         return matcher.matches();
     }
-
-
-
 }

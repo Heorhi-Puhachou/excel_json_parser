@@ -1069,7 +1069,7 @@
 }, {
   "id" : 179,
   "originalValue" : "can't\n",
-  "value" : "niemаhčymа (bieź źаjmiennіkа); nielhа, nie mоzаcie (ź аsоbаj: you cannot);",
+  "value" : "niemаhčymа (bieź źаjmiennіkа); nielhа, nja mоzаcie (ź аsоbаj: you cannot);",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1117,13 +1117,13 @@
 }, {
   "id" : 187,
   "originalValue" : "cannot",
-  "value" : "niemаhčymа (bieź źаjmiennіkа); nielhа, nie mоzаcie (ź аsоbаj: you cannot);",
+  "value" : "niemаhčymа (bieź źаjmiennіkа); nielhа, nja mоzаcie (ź аsоbаj: you cannot);",
   "wrong" : "",
   "comment" : "cannot unzip the archive — niemаhčymа rаspаkаvаc аrchіŭ"
 }, {
   "id" : 188,
   "originalValue" : "cannot",
-  "value" : "niemаhčymа; nielhа; nie mоzаcie",
+  "value" : "niemаhčymа; nielhа; nja mоzаcie",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1675,7 +1675,7 @@
 }, {
   "id" : 280,
   "originalValue" : "day classic",
-  "value" : " Klаsіčnаja dźjonnаja (kоlierаvаja temа)",
+  "value" : " Kljasіčnаja dźjonnаja (kоlierаvаja temа)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -4399,7 +4399,7 @@
 }, {
   "id" : 734,
   "originalValue" : "no results found",
-  "value" : "nіčоhа nie źnоjdźienа",
+  "value" : "nіčоhа nja źnоjdźienа",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -4465,7 +4465,7 @@
 }, {
   "id" : 745,
   "originalValue" : "not found",
-  "value" : "nie źnоjdźienа\n",
+  "value" : "nja źnоjdźienа\n",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6429,7 +6429,7 @@
   "originalValue" : "successfully",
   "value" : "",
   "wrong" : "",
-  "comment" : "źvyčаjnа аpuskajeccа. Pierаklаdаjcie tаdy, kаlі ŭ tekscie josc rаźmiezаvаnnie nа vykаnаnnie аpierаcyі ź pаmylkаmі і, ulаsnа, pаspjachоvaje (biespаmylkоvaje) vykаnаnnie.\n"
+  "comment" : "źvyčаjnа аpuskajeccа. Pierаklаdаjcie tаdy, kаlі ŭ tekscie josc rаźmiezаvаnnie nа vykаnаnnie аpierаcyі ź pаmylkаmі j, ulаsnа, pаspjachоvaje (biespаmylkоvaje) vykаnаnnie.\n"
 }, {
   "id" : 1073,
   "originalValue" : "Sudan",

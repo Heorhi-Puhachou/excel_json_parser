@@ -3,8 +3,8 @@ package by.excel.parser;
 import java.io.*;
 import java.util.*;
 
-import by.convert.AcadLacinkaConverter;
-import by.convert.AcadTaraskConverter;
+import by.convert.NarkamLacinkConverter;
+import by.convert.NarkamTaraskConverter;
 import by.convert.BaseConverter;
 import by.excel.parser.glossary.Record;
 import by.excel.parser.links.Link;
@@ -29,16 +29,16 @@ public class ConvertExcel2Json {
 
     public static void main(String[] args) {
         readConvertWriteGlossary(new BaseConverter(), "generated/glossary/narkam.json");
-        readConvertWriteGlossary(new AcadTaraskConverter(), "generated/glossary/tarask.json");
-        readConvertWriteGlossary(new AcadLacinkaConverter(), "generated/glossary/lacink.json");
+        readConvertWriteGlossary(new NarkamTaraskConverter(), "generated/glossary/tarask.json");
+        readConvertWriteGlossary(new NarkamLacinkConverter(), "generated/glossary/lacink.json");
 
         readConvertWriteLinks(new BaseConverter(), "generated/links/narkam.json");
-        readConvertWriteLinks(new AcadTaraskConverter(), "generated/links/tarask.json");
-        readConvertWriteLinks(new AcadLacinkaConverter(), "generated/links/lacink.json");
+        readConvertWriteLinks(new NarkamTaraskConverter(), "generated/links/tarask.json");
+        readConvertWriteLinks(new NarkamLacinkConverter(), "generated/links/lacink.json");
 
         readConvertWriteStyle(new BaseConverter(), "generated/style/narkam.json");
-        readConvertWriteStyle(new AcadTaraskConverter(), "generated/style/tarask.json");
-        readConvertWriteStyle(new AcadLacinkaConverter(), "generated/style/lacink.json");
+        readConvertWriteStyle(new NarkamTaraskConverter(), "generated/style/tarask.json");
+        readConvertWriteStyle(new NarkamLacinkConverter(), "generated/style/lacink.json");
 
         convertLabels();
 
@@ -53,8 +53,8 @@ public class ConvertExcel2Json {
 
         String narkamText = readTextFromFile(pathToNarkamFile);
 
-        String taraskText = (new AcadTaraskConverter()).convert(narkamText.toString()).replace("NARKAM", "TARASK");
-        String lacinkText = (new AcadLacinkaConverter()).convert(narkamText.toString()).replace("NARKAM", "LACINK");
+        String taraskText = (new NarkamTaraskConverter()).convert(narkamText.toString()).replace("NARKAM", "TARASK");
+        String lacinkText = (new NarkamLacinkConverter()).convert(narkamText.toString()).replace("NARKAM", "LACINK");
 
         writeTextToFile(lacinkText, pathToLacinkFile);
         writeTextToFile(taraskText, pathToTaraskFile);
