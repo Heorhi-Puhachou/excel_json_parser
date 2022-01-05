@@ -75,7 +75,7 @@ public class NarkamTaraskConverter extends BaseConverter {
         convertedValue = checkBez(convertedValue, next);
         convertedValue = dummyReplace(convertedValue);
         convertedValue = replaceEnd(convertedValue);
-        convertedValue = (chekMZ(convertedValue));
+        convertedValue = chekMZ(convertedValue);
         convertedValue = transformCase(current.getWordCase(), convertedValue);
         return convertedValue;
     }
@@ -157,6 +157,7 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("мушкіцёр", "мушкітэр")
                 .replace("пазіцы", "пазыцы")
                 .replace("рыдыус", "радыюс")
+                .replace("рэклам", "рэклям")
                 .replace("саліцёр", "слітэр")
                 .replace("сігнал", "сыгнал")
                 .replace("фунікулёр", "фунікулер")
