@@ -28,15 +28,15 @@ public class ConvertExcel2Json {
     private static final String STYLE_SHEET_NAME = "Стайлгайд";
 
     public static void main(String[] args) {
-        readConvertWriteGlossary(new BaseConverter(), "generated/glossary/1959acad.json");
+        readConvertWriteGlossary(new BaseConverter(), "generated/glossary/narkam.json");
         readConvertWriteGlossary(new AcadTaraskConverter(), "generated/glossary/tarask.json");
-        readConvertWriteGlossary(new AcadLacinkaConverter(), "generated/glossary/lacinka.json");
+        readConvertWriteGlossary(new AcadLacinkaConverter(), "generated/glossary/lacink.json");
 
-        readConvertWriteLinks(new BaseConverter(), "generated/links/1959acad.json");
+        readConvertWriteLinks(new BaseConverter(), "generated/links/narkam.json");
         readConvertWriteLinks(new AcadTaraskConverter(), "generated/links/tarask.json");
-        readConvertWriteLinks(new AcadLacinkaConverter(), "generated/links/lacinka.json");
+        readConvertWriteLinks(new AcadLacinkaConverter(), "generated/links/lacink.json");
 
-        readConvertWriteStyle(new BaseConverter(), "generated/style/1959acad.json");
+        readConvertWriteStyle(new BaseConverter(), "generated/style/narkam.json");
         readConvertWriteStyle(new AcadTaraskConverter(), "generated/style/tarask.json");
         readConvertWriteStyle(new AcadLacinkaConverter(), "generated/style/lacinka.json");
 
@@ -47,9 +47,9 @@ public class ConvertExcel2Json {
 
     public static void convertLabels() {
 
-        String pathToNarkamFile = System.getProperty("user.dir") + "\\generated\\labels\\be-1959acad.js";
-        String pathToTaraskFile = System.getProperty("user.dir") + "\\generated\\labels\\be-tarask.js";
-        String pathToLacinkFile = System.getProperty("user.dir") + "\\generated\\labels\\be-lacinka.js";
+        String pathToNarkamFile = System.getProperty("user.dir") + "\\generated\\labels\\narkam.js";
+        String pathToTaraskFile = System.getProperty("user.dir") + "\\generated\\labels\\tarask.js";
+        String pathToLacinkFile = System.getProperty("user.dir") + "\\generated\\labels\\lacink.js";
 
         String narkamText = readTextFromFile(pathToNarkamFile);
 
