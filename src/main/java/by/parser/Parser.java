@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
 public class Parser {
 
     public static void main(String... args) {
-        parse("Прыклад беларукага тэксту! And eng And 1234///... ulіkоvy źаpіs, ulіkоvаhа źаpіsu, ulіkоvym źаpіsie!");
+        parse("Прыклад беларукага ТЭКСТУ! And eng And 1234///... ЕпЕпЕ ulіkоvy źаpіs, ulіkоvаhа źаpіsu, ulіkоvym źаpіsie!");
     }
 
     public static ArrayList<ParsedElement> parse(String text) {
@@ -26,7 +26,7 @@ public class Parser {
 
                 //Апошні сымбаль тэксту
                 if (i == text.length() - 1) {
-                    result.add(new ParsedElement(currentDelimiterValue, "", UpperCase.ALL_LETTERS_LOWER));
+                    result.add(new ParsedElement(currentDelimiterValue, ""));
                 }
             }
             // Чыталі не-слова й пачалі чытаць слова
@@ -36,7 +36,7 @@ public class Parser {
 
                 //Апошні сымбаль тэксту
                 if (i == text.length() - 1) {
-                    result.add(new ParsedElement(currentDelimiterValue, currentWordValue, UpperCase.ALL_LETTERS_LOWER));
+                    result.add(new ParsedElement(currentDelimiterValue, currentWordValue));
                 }
             }
             // Чыталі слова й працягваем чытаць слова
@@ -45,18 +45,18 @@ public class Parser {
 
                 //Апошні сымбаль тэксту
                 if (i == text.length() - 1) {
-                    result.add(new ParsedElement(currentDelimiterValue, currentWordValue, UpperCase.ALL_LETTERS_LOWER));
+                    result.add(new ParsedElement(currentDelimiterValue, currentWordValue));
                 }
             }
             // Чыталі слова й пачалі чытаць не-слова
             else {
-                result.add(new ParsedElement(currentDelimiterValue, currentWordValue, UpperCase.ALL_LETTERS_LOWER));
+                result.add(new ParsedElement(currentDelimiterValue, currentWordValue));
                 currentDelimiter = true;
                 currentDelimiterValue = "" + chars[i];
 
                 //Апошні сымбаль тэксту
                 if (i == text.length() - 1) {
-                    result.add(new ParsedElement(currentDelimiterValue, "", UpperCase.ALL_LETTERS_LOWER));
+                    result.add(new ParsedElement(currentDelimiterValue, ""));
                 }
             }
 
@@ -77,5 +77,7 @@ public class Parser {
         Matcher matcher = pattern.matcher("" + symbol);
         return matcher.matches();
     }
+
+
 
 }
