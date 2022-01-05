@@ -1,0 +1,16 @@
+export const LACINK = {
+    title: 'Bielаruskі technіčny pierаklаd',
+    glossary: 'Hljasаryj',
+    rules: 'Prаvіly',
+    links: 'Spаsylkі',
+    pg: 'st. ',
+    z: ' ź ',
+    input_eng_term: 'uvjadźіcie аnh. termіn',
+    back: 'Nаźаd',
+    term: 'Termіn',
+    wrong_usage: 'Njaprаvіlnaje ŭzyvаnnie',
+    comment: 'Kаmentаr',
+    narkam: 'narkam',
+    tarask: 'tarask',
+    lacink: 'lacink',
+};

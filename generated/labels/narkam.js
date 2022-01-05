@@ -1,6 +1,6 @@
-export const TARASK = {
+export const NARKAM = {
     title: 'Беларускі тэхнічны пераклад',
-    glossary: 'Глясарый',
+    glossary: 'Гласарый',
     rules: 'Правілы',
     links: 'Спасылкі',
     pg: 'ст. ',
@@ -8,8 +8,8 @@ export const TARASK = {
     input_eng_term: 'увядзіце анг. тэрмін',
     back: 'Назад',
     term: 'Тэрмін',
-    wrong_usage: 'Няправільнае ўжываньне',
-    comment: 'Камэнтар',
+    wrong_usage: 'Няправільнае ўжыванне',
+    comment: 'Каментарый',
     narkam: 'narkam',
     tarask: 'tarask',
     lacink: 'lacink',
