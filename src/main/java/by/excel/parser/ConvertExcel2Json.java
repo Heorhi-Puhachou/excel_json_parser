@@ -38,7 +38,7 @@ public class ConvertExcel2Json {
 
         readConvertWriteStyle(new BaseConverter(), "generated/style/narkam.json");
         readConvertWriteStyle(new AcadTaraskConverter(), "generated/style/tarask.json");
-        readConvertWriteStyle(new AcadLacinkaConverter(), "generated/style/lacinka.json");
+        readConvertWriteStyle(new AcadLacinkaConverter(), "generated/style/lacink.json");
 
         convertLabels();
 
