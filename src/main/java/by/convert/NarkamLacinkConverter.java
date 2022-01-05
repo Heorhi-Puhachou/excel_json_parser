@@ -116,14 +116,19 @@ public class NarkamLacinkConverter extends BaseConverter {
         char[] chars = word.toCharArray();
 
         for (int i = 0; i < word.length(); i++) {
-            if (i > 0 && ("" + chars[i]).equals("ь")) {
-                result = replaceLastToMiakki(result);
+            if (isNumber(chars[i])) {
+                result = result + chars[i];
+            } else {
+                if (i > 0 && ("" + chars[i]).equals("ь")) {
+                    result = replaceLastToMiakki(result);
+                }
+
+                String symbol = pairs.get("" + chars[i]);
+                if (i > 0 && isMiakkiGalosny("" + chars[i]) && !isGalosny("" + chars[i - 1])) {
+                    symbol = symbol.replace("j", "i");
+                }
+                result = result + symbol;
             }
-            String symbol = pairs.get("" + chars[i]);
-            if (i > 0 && isMiakkiGalosny("" + chars[i]) && !isGalosny("" + chars[i - 1])) {
-                symbol = symbol.replace("j", "i");
-            }
-            result = result + symbol;
         }
 
         return result;
@@ -166,6 +171,13 @@ public class NarkamLacinkConverter extends BaseConverter {
 
     private String getLastSymbol(String input) {
         return input.substring(input.length() - 1);
+    }
+
+    private boolean isNumber(char symbol) {
+        String nonDelimiterPattern = "[\\d]";
+        Pattern pattern = Pattern.compile(nonDelimiterPattern);
+        Matcher matcher = pattern.matcher("" + symbol);
+        return matcher.matches();
     }
 
 }
