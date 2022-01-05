@@ -30,14 +30,14 @@ public class NarkamTaraskConverter extends BaseConverter {
 
         ArrayList<ParsedElement> elements = parser.parse(narkam);
 
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
         for (int i = 0; i < elements.size(); i++) {
 
             ParsedElement current = elements.get(i);
 
             if (isEngWord(current.getOriginalWord()) || current.getWordCase() == WordCase.OTHER) {
-                result = result + current.getDelimiter() + current.getOriginalWord();
+                result.append(current.getDelimiter()).append(current.getOriginalWord());
             } else {
                 ParsedElement prev = null;
                 ParsedElement next = null;
@@ -47,12 +47,12 @@ public class NarkamTaraskConverter extends BaseConverter {
                 if (i < elements.size() - 1) {
                     next = elements.get(i + 1);
                 }
-                result = result + elements.get(i).getDelimiter() + convertElement(prev, current, next);
+                result.append(elements.get(i).getDelimiter()).append(convertElement(prev, current, next));
             }
         }
 
 
-        return result;
+        return result.toString();
 
     }
 
@@ -150,10 +150,9 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("фунікулёр", "фунікулер")
                 .replace("донья", "доньня")
                 .replace("мекка", "мэка")
-                .replace("Арыстоцель", "Арыстотэль")
+                .replace("арыстоцель", "арыстотэль")
                 .replace("фальклор", "фальклёр")
                 .replace("гаус", "гаўс")
-
                 .replace("ласар", "лясар");
     }
 
