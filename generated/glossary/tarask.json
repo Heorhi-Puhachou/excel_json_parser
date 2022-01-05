@@ -235,7 +235,7 @@
 }, {
   "id" : 40,
   "originalValue" : "American Samoa",
-  "value" : "Амерыканскае Самоа",
+  "value" : "Амэрыканскае Самоа",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -1885,7 +1885,7 @@
 }, {
   "id" : 315,
   "originalValue" : "directory",
-  "value" : "каталог",
+  "value" : "каталёг",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7039,7 +7039,7 @@
 }, {
   "id" : 1174,
   "originalValue" : "United States",
-  "value" : "Злучаныя Штаты Амерыкі",
+  "value" : "Злучаныя Штаты Амэрыкі",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -7051,7 +7051,7 @@
 }, {
   "id" : 1176,
   "originalValue" : "United States Virgin Islands",
-  "value" : "Амерыканскія Віргінскія астравы",
+  "value" : "Амэрыканскія Віргінскія астравы",
   "wrong" : "",
   "comment" : "CLDR"
 }, {

@@ -235,7 +235,7 @@
 }, {
   "id" : 40,
   "originalValue" : "American Samoa",
-  "value" : "Amierykanskaje Samoa",
+  "value" : "Amerykanskaje Samoa",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -1885,7 +1885,7 @@
 }, {
   "id" : 315,
   "originalValue" : "directory",
-  "value" : "kataloh",
+  "value" : "katalioh",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7039,7 +7039,7 @@
 }, {
   "id" : 1174,
   "originalValue" : "United States",
-  "value" : "Zlučanyja Štaty Amieryki",
+  "value" : "Zlučanyja Štaty Ameryki",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -7051,7 +7051,7 @@
 }, {
   "id" : 1176,
   "originalValue" : "United States Virgin Islands",
-  "value" : "Amierykanskija Virhinskija astravy",
+  "value" : "Amerykanskija Virhinskija astravy",
   "wrong" : "",
   "comment" : "CLDR"
 }, {

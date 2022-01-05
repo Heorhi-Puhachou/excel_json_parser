@@ -133,6 +133,7 @@ public class NarkamTaraskConverter extends BaseConverter {
 
     private String dummyReplace(String in) {
         return in
+                .replace("амерык", "амэрык")
                 .replace("анверт", "анвэрт")
                 .replace("аргумент", "аргумэнт")
                 .replace("артапед", "артапэд")
@@ -147,6 +148,7 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("еўр", "эўр")
                 .replace("іерогліф", "ерогліф")
                 .replace("каментарый", "камэнтар")
+                .replace("каталог", "каталёг")
                 .replace("клас", "кляс")
                 .replace("клуб", "клюб")
                 .replace("лагіч", "лягіч")
