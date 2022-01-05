@@ -181,7 +181,7 @@
 }, {
   "id" : 31,
   "originalValue" : "alert",
-  "value" : "абвестка; сігнал",
+  "value" : "абвестка; сыгнал",
   "wrong" : "",
   "comment" : "Samsung, Google, MS"
 }, {
@@ -1261,13 +1261,13 @@
 }, {
   "id" : 211,
   "originalValue" : "Chinese (simplified)",
-  "value" : "Кітайская (спрошчаныя іерогліфы)",
+  "value" : "Кітайская (спрошчаныя ерогліфы)",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 212,
   "originalValue" : "Chinese (traditional)",
-  "value" : "Кітайская (традыцыйныя іерогліфы)",
+  "value" : "Кітайская (традыцыйныя ерогліфы)",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -5023,7 +5023,7 @@
 }, {
   "id" : 838,
   "originalValue" : "position",
-  "value" : "пазіцыя",
+  "value" : "пазыцыя",
   "wrong" : "",
   "comment" : ""
 }, {
