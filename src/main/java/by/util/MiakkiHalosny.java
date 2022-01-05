@@ -1,4 +1,4 @@
-package by.convert;
+package by.util;
 
 public enum MiakkiHalosny {
 

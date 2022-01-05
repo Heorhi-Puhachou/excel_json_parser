@@ -2,18 +2,23 @@ package by.convert;
 
 import by.parser.ParsedElement;
 import by.parser.Parser;
-import by.parser.WordCase;
+import by.util.MiakkiHalosny;
+import by.util.MiakkiZycnyy;
+import by.util.WordCase;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
+import static by.util.StringUtilCheck.isEngWord;
+import static by.util.StringUtilCheck.isGalosny;
+import static by.util.StringUtilGet.findFirstGalosny;
+import static by.util.StringUtilTransform.transformCase;
 
 public class NarkamTaraskConverter extends BaseConverter {
 
     public static void main(String... args) {
         NarkamTaraskConverter converter = new NarkamTaraskConverter();
-        System.out.println(converter.convert("Яна і ён убачылі свет! не ведаю не трэба не той без той"));
+        System.out.println(converter.convert("Яна і ён убачылі свет! не ведаю не трэба не той без той..."));
     }
 
     private Parser parser;
@@ -57,25 +62,11 @@ public class NarkamTaraskConverter extends BaseConverter {
     }
 
     private String convertElement(ParsedElement prev, ParsedElement current, ParsedElement next) {
-
         String convertedValue = checkI(prev, current.getWord(), current.getDelimiter());
-
         convertedValue = checkNe(convertedValue, next);
         convertedValue = checkBez(convertedValue, next);
-
         convertedValue = chekCoran(chekMZ(convertedValue));
-
-
-        if (current.getWordCase() == WordCase.FIRST_LETTER_UPPER) {
-            convertedValue = firstLetterToUpperCase(convertedValue);
-        }
-        if (current.getWordCase() == WordCase.ALL_LETTERS_UPPER) {
-            convertedValue = convertedValue.toUpperCase();
-        }
-        if (current.getWordCase() == WordCase.ALL_LETTERS_LOWER) {
-            convertedValue = convertedValue.toLowerCase();
-        }
-
+        convertedValue = transformCase(current.getWordCase(), convertedValue);
         return convertedValue;
     }
 
@@ -132,28 +123,31 @@ public class NarkamTaraskConverter extends BaseConverter {
 
     private String chekCoran(String in) {
         return in
-                .replace("клас", "кляс")
-                .replace("логік", "лёгік")
-                .replace("лагіч", "лягіч")
                 .replace("анверт", "анвэрт")
-                .replace("каментарый", "камэнтар")
-                .replace("арфаграф", "артаграф")
+                .replace("аргумент", "аргумэнт")
                 .replace("артапед", "артапэд")
-                .replace("шоу", "шоў")
+                .replace("арфаграф", "артаграф")
+                .replace("арыстоцель", "арыстотэль")
+                .replace("валанцёр", "валантэр")
+                .replace("гаус", "гаўс")
                 .replace("Генры", "Гэнры")
+                .replace("донья", "доньня")
+                .replace("еўр", "эўр")
+                .replace("каментарый", "камэнтар")
+                .replace("клас", "кляс")
                 .replace("клуб", "клюб")
+                .replace("лагіч", "лягіч")
                 .replace("лампада", "лямпада")
+                .replace("логік", "лёгік")
+                .replace("мекка", "мэка")
                 .replace("мільянер", "мільянэр")
+                .replace("музей", "музэй")
                 .replace("мушкіцёр", "мушкітэр")
                 .replace("саліцёр", "слітэр")
-                .replace("валанцёр", "валантэр")
                 .replace("фунікулёр", "фунікулер")
-                .replace("донья", "доньня")
-                .replace("мекка", "мэка")
-                .replace("арыстоцель", "арыстотэль")
                 .replace("фальклор", "фальклёр")
-                .replace("гаус", "гаўс")
-                .replace("ласар", "лясар");
+                .replace("гласар", "глясар")
+                .replace("шоу", "шоў");
     }
 
     private String firstLetterToUpperCase(String word) {
@@ -166,38 +160,15 @@ public class NarkamTaraskConverter extends BaseConverter {
         return input.substring(input.length() - 1);
     }
 
-    private boolean isGalosny(String symbol) {
-        String nonDelimiterPattern = "[аяоёэеуюыі]";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher(symbol);
-        return matcher.matches();
-    }
-
-    private boolean isEngWord(String word) {
-        String nonDelimiterPattern = "[a-zA-Z]+";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher(word);
-        return matcher.matches();
-    }
 
     private boolean pershySkladPadNaciskam(String word) {
         return word.equals("бачу")
-                ||word.equals("назвы")
-                ||word.equals("будзе")
-                ||word.equals("трэба")
+                || word.equals("назвы")
+                || word.equals("будзе")
+                || word.equals("трэба")
                 || word.equals("ведаю")
                 || "о".equals(findFirstGalosny(word));
     }
 
-    private String findFirstGalosny(String word) {
-        char[] chars = word.toCharArray();
-        String result = null;
 
-        for (int i = 0; i < word.length(); i++) {
-            if (isGalosny("" + chars[i])) {
-                return "" + chars[i];
-            }
-        }
-        return result;
-    }
 }

@@ -2,12 +2,13 @@ package by.convert;
 
 import by.parser.ParsedElement;
 import by.parser.Parser;
-import by.parser.WordCase;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
+import static by.util.StringUtilCheck.*;
+import static by.util.StringUtilGet.getLastSymbol;
+import static by.util.StringUtilTransform.transformCase;
 
 public class NarkamLacinkConverter extends BaseConverter {
 
@@ -94,19 +95,8 @@ public class NarkamLacinkConverter extends BaseConverter {
     }
 
     private String convertElement(ParsedElement current) {
-
-
         String convertedValue = advancedReplace(current.getWord());
-
-        if (current.getWordCase() == WordCase.FIRST_LETTER_UPPER) {
-            convertedValue = firstLetterToUpperCase(convertedValue);
-        }
-        if (current.getWordCase() == WordCase.ALL_LETTERS_UPPER) {
-            convertedValue = convertedValue.toUpperCase();
-        }
-        if (current.getWordCase() == WordCase.ALL_LETTERS_LOWER) {
-            convertedValue = convertedValue.toLowerCase();
-        }
+        convertedValue = transformCase(current.getWordCase(), convertedValue);
         return convertedValue;
     }
 
@@ -117,17 +107,17 @@ public class NarkamLacinkConverter extends BaseConverter {
         char[] chars = word.toCharArray();
 
         for (int i = 0; i < word.length(); i++) {
-            if (isApostraf("" + chars[i])) {
+            if (isApostraf(chars[i])) {
                 //DO NOTHING
-            } else if (isNumber(chars[i]) || isEngWord("" + chars[i])) {
+            } else if (isNumber(chars[i]) || isEngSymbol(chars[i])) {
                 result = result + chars[i];
             } else {
-                if (i > 0 && ("" + chars[i]).equals("ь")) {
+                if (i > 0 && (chars[i] == 'ь')) {
                     result = replaceLastToMiakki(result);
                 }
 
                 String symbol = pairs.get("" + chars[i]);
-                if (i > 0 && isMiakkiGalosny("" + chars[i]) && !isGalosny("" + chars[i - 1]) && !isApostraf("" + chars[i - 1])) {
+                if (i > 0 && isMiakkiGalosny(chars[i]) && !isGalosny(chars[i - 1]) && !isApostraf(chars[i - 1])) {
                     symbol = symbol.replace("j", "i");
                 }
                 result = result + symbol;
@@ -137,36 +127,6 @@ public class NarkamLacinkConverter extends BaseConverter {
         return result;
     }
 
-    private boolean isEngWord(String word) {
-        String nonDelimiterPattern = "[a-zA-Z]+";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher(word);
-        return matcher.matches();
-    }
-
-    private String firstLetterToUpperCase(String word) {
-        String low = word.toLowerCase();
-        String first = low.substring(0, 1);
-        return first.toUpperCase() + low.substring(1);
-    }
-
-    private boolean isMiakkiGalosny(String symbol) {
-        String nonDelimiterPattern = "[яёеюі]";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher(symbol);
-        return matcher.matches();
-    }
-
-    private boolean isGalosny(String symbol) {
-        String nonDelimiterPattern = "[аяоёэеуюыі]";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher(symbol);
-        return matcher.matches();
-    }
-
-    private boolean isApostraf(String symbol) {
-        return "'".equals(symbol);
-    }
 
     private String replaceLastToMiakki(String word) {
         if (word.length() == 1) {
@@ -177,15 +137,5 @@ public class NarkamLacinkConverter extends BaseConverter {
         return word.substring(0, word.length() - 1) + replacement;
     }
 
-    private String getLastSymbol(String input) {
-        return input.substring(input.length() - 1);
-    }
-
-    private boolean isNumber(char symbol) {
-        String nonDelimiterPattern = "[\\d]";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher("" + symbol);
-        return matcher.matches();
-    }
 
 }

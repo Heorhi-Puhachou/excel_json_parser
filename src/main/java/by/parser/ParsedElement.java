@@ -1,5 +1,7 @@
 package by.parser;
 
+import by.util.WordCase;
+
 public class ParsedElement {
 
     private String delimiter;
