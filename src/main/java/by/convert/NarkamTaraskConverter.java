@@ -141,6 +141,7 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("валанцёр", "валантэр")
                 .replace("гаус", "гаўс")
                 .replace("Генры", "Гэнры")
+                .replace("дакумент", "дакумэнт")
                 .replace("донья", "доньня")
                 .replace("еўр", "эўр")
                 .replace("іерогліф", "ерогліф")

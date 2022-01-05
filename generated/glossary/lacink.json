@@ -823,9 +823,9 @@
 }, {
   "id" : 138,
   "originalValue" : "body",
-  "value" : "źmiest (dakumienta); ciela",
+  "value" : "źmiest (dakumenta); ciela",
   "wrong" : "",
-  "comment" : "Samsung — źmiest (dakumienta)\nMS — tekst (paviedamlieńnia)\n\nDumaju, što tut mozna ličyć paviedamlieńnie j dakumient sinonimami"
+  "comment" : "Samsung — źmiest (dakumenta)\nMS — tekst (paviedamlieńnia)\n\nDumaju, što tut mozna ličyć paviedamlieńnie j dakument sinonimami"
 }, {
   "id" : 139,
   "originalValue" : "Bolivia",
@@ -1963,13 +1963,13 @@
 }, {
   "id" : 328,
   "originalValue" : "document",
-  "value" : "dakumient",
+  "value" : "dakument",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 329,
   "originalValue" : "documentation",
-  "value" : "­dakumientacyja",
+  "value" : "­dakumentacyja",
   "wrong" : "",
   "comment" : "MS"
 }, {
@@ -5779,7 +5779,7 @@
 }, {
   "id" : 964,
   "originalValue" : "scans",
-  "value" : "skanavanyja dakumienty",
+  "value" : "skanavanyja dakumenty",
   "wrong" : "",
   "comment" : ""
 }, {
