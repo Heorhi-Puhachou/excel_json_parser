@@ -59,7 +59,7 @@ public class Parser {
     }
 
     private boolean isWordSymbol(char symbol) {
-        String nonDelimiterPattern = "[\\p{L}\\d]";
+        String nonDelimiterPattern = "[\\p{L}\\d']";
         Pattern pattern = Pattern.compile(nonDelimiterPattern);
         Matcher matcher = pattern.matcher("" + symbol);
         return matcher.matches();

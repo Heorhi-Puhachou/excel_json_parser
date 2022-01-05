@@ -17,7 +17,7 @@
   "groupName" : "Stajlhajd",
   "links" : [ {
     "url" : "https://docs.google.com/document/d/1T9OTVSQhT2ULxNxoBcs0ET0hUQeYdyadhQClsnxqZYw/edit",
-    "description" : "STAJLHAJD «LINHVISTYČNYJA PASLUHI Ź BIELARUSKAJ MOVAJ», jakim ź nami padźialiŭsia sp. Aliaksandar Šumski."
+    "description" : "STAJLHAJD «LINHVISTYČNYJA PASLUHI Z BIELARUSKAJ MOVAJ», jakim z nami padzialiŭsia sp. Aliaksandar Šumski."
   } ]
 }, {
   "groupName" : "Tlumačaĺny sloŭnik",
@@ -29,19 +29,19 @@
   "groupName" : "Terminalohija",
   "links" : [ {
     "url" : "https://www.microsoft.com/en-us/language/",
-    "description" : "Microsoft Language Portal(Hliasaryj ad Microsoft). Častkova sastareŭšy, alie vieĺmi karysny tamu, što adźiny taki hliasaryj u adkrytym dostupie. Boĺš padrabiaźnaściej u \"Stajlhajdźie\"."
+    "description" : "Microsoft Language Portal(Hliasaryj ad Microsoft). Častkova sastareŭšy, alie vieĺmi karysny tamu, što adziny taki hliasaryj u adkrytym dostupie. Boĺš padrabiaznaściej u \"Stajlhajdzie\"."
   }, {
     "url" : "https://translations.telegram.org/be/",
     "description" : "Prajekt pierakladu Telegram na bielaruskuju movu. Mozna karystacca pošukam dlia pravierki taho, jak pierakladali niekatoryja terminy j slovaspalučeńni."
   }, {
     "url" : "http://st.unicode.org/cldr-apps/v#/be//",
-    "description" : "Aktuaĺnyja naźvy roźnych adźinak vymiareńnia, krain, rehijonaŭ, moŭ (ź ulikam nullmianieńniaŭ 2008 h.)"
+    "description" : "Aktuaĺnyja nazvy roznych adzinak vymiareńnia, krain, rehijonaŭ, moŭ (z ulikam źmianieńniaŭ 2008 h.)"
   }, {
     "url" : "http://mounik.org/files/osm/daviednik_Lemciuhovaj.csv.gz",
     "description" : "Aficyjnaje napisańnie bielaruskich taponimaŭ"
   }, {
     "url" : "http://www.tnpa.by/?fbclid=IwAR0cJ7883BKWxHv4e3WTSCIFe4DomKfW_QfZyzp4zmsPGJrd_YHOR18l-Ew#!/FileText/418234/300260",
-    "description" : "Spravočnnullk nanullmienovannullj hosudarstv null tierrnulltornullj mnullra (dalieje – Spravočnnullk) ustanavlnullvajet napnullsannullie nanullmienovannullj hosudarstv null tierrnulltornullj mnullra, nullch stolnullc null cientrov na russkom, bielorusskom null anhlnulljskom jaźykach. "
+    "description" : "Spravočnnullk nanullmienovannullj hosudarstv null tierrnulltornullj mnullra (dalieje – Spravočnnullk) ustanavlnullvajet napnullsannullie nanullmienovannullj hosudarstv null tierrnulltornullj mnullra, nullch stolnullc null cientrov na russkom, bielorusskom null anhlnulljskom jazykach. "
   } ]
 }, {
   "groupName" : "*",
@@ -50,7 +50,7 @@
     "description" : "Techničnyja aspiekty radkoŭ Ubuntu"
   }, {
     "url" : "https://wiki.ubuntu.com/Translations/KnowledgeBase#General_documentation",
-    "description" : "Nullviestki pra zyćciovy cykl i asablivaści azyćciaŭlieńnia pierakladu va Ubuntu "
+    "description" : "Źviestki pra zyćciovy cykl i asablivaści azyćciaŭlieńnia pierakladu va Ubuntu "
   }, {
     "url" : "https://bnkorpus.info/download.html",
     "description" : "Pravierka pravapisu dlia Mozilla Firefox/Thunderbird, MSOffice 2007/2010/2013, LibreOffice/OpenOffice"

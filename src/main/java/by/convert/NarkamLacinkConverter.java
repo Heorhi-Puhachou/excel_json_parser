@@ -27,7 +27,7 @@ public class NarkamLacinkConverter extends BaseConverter {
         pairs.put("е", "je");
         pairs.put("ё", "jo");
         pairs.put("ж", "z");
-        pairs.put("з", "ź");
+        pairs.put("з", "z");
         pairs.put("і", "i");
         pairs.put("й", "j");
         pairs.put("к", "k");
@@ -60,11 +60,12 @@ public class NarkamLacinkConverter extends BaseConverter {
         pairsMiakkija.put("c", "ć");
         pairsMiakkija.put("s", "ś");
         pairsMiakkija.put("z", "ź");
+
     }
 
     public static void main(String... args) {
         NarkamLacinkConverter converter = new NarkamLacinkConverter();
-        System.out.println(converter.convert("актываваць"));
+        System.out.println(converter.convert("з'езд"));
     }
 
     public String convert(String acad) {
@@ -116,7 +117,9 @@ public class NarkamLacinkConverter extends BaseConverter {
         char[] chars = word.toCharArray();
 
         for (int i = 0; i < word.length(); i++) {
-            if (isNumber(chars[i])) {
+            if (isApostraf("" + chars[i])) {
+                //DO NOTHING
+            } else if (isNumber(chars[i]) || isEngWord("" + chars[i])) {
                 result = result + chars[i];
             } else {
                 if (i > 0 && ("" + chars[i]).equals("ь")) {
@@ -124,7 +127,7 @@ public class NarkamLacinkConverter extends BaseConverter {
                 }
 
                 String symbol = pairs.get("" + chars[i]);
-                if (i > 0 && isMiakkiGalosny("" + chars[i]) && !isGalosny("" + chars[i - 1])) {
+                if (i > 0 && isMiakkiGalosny("" + chars[i]) && !isGalosny("" + chars[i - 1]) && !isApostraf("" + chars[i - 1])) {
                     symbol = symbol.replace("j", "i");
                 }
                 result = result + symbol;
@@ -161,12 +164,17 @@ public class NarkamLacinkConverter extends BaseConverter {
         return matcher.matches();
     }
 
+    private boolean isApostraf(String symbol) {
+        return "'".equals(symbol);
+    }
+
     private String replaceLastToMiakki(String word) {
         if (word.length() == 1) {
             return pairsMiakkija.get(word);
         }
+        String replacement = pairsMiakkija.get(getLastSymbol(word)) == null ? getLastSymbol(word) : pairsMiakkija.get(getLastSymbol(word));
 
-        return word.substring(0, word.length() - 1) + pairsMiakkija.get(getLastSymbol(word));
+        return word.substring(0, word.length() - 1) + replacement;
     }
 
     private String getLastSymbol(String input) {
