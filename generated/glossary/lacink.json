@@ -31,7 +31,7 @@
 }, {
   "id" : 6,
   "originalValue" : "accounts",
-  "value" : "ulikovyja źapisy, ulikovych źapisanull, ulikovymi źapisami",
+  "value" : "ulikovyja źapisy, ulikovych źapisaŭ, ulikovymi źapisami",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -55,13 +55,13 @@
 }, {
   "id" : 10,
   "originalValue" : "active",
-  "value" : "aktynullny",
+  "value" : "aktyŭny",
   "wrong" : "",
   "comment" : "Samsung, Google, MS"
 }, {
   "id" : 11,
   "originalValue" : "activities",
-  "value" : "dźiejańni; dźiejnaść; aktynullnaść",
+  "value" : "dźiejańni; dźiejnaść; aktyŭnaść",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -91,15 +91,15 @@
 }, {
   "id" : 16,
   "originalValue" : "adjustment",
-  "value" : "rehulironullka",
+  "value" : "rehuliroŭka",
   "wrong" : "",
-  "comment" : "MS — rehulironullka; karekcironullka, karekcyja"
+  "comment" : "MS — rehuliroŭka; karekciroŭka, karekcyja"
 }, {
   "id" : 17,
   "originalValue" : "administrator",
   "value" : "administratar",
   "wrong" : "",
-  "comment" : "treba adronullnivać ad kiranullnikonull u TH."
+  "comment" : "treba adronullnivać ad kiraŭnikoŭ u TH."
 }, {
   "id" : 18,
   "originalValue" : "admit",
@@ -199,14 +199,14 @@
 }, {
   "id" : 34,
   "originalValue" : "align",
-  "value" : "vyranullnavać",
+  "value" : "vyraŭnavać",
   "wrong" : "",
   "comment" : "Samsung, MS"
 }, {
   "id" : 35,
   "originalValue" : "alignement",
-  "value" : "vyranullnonullvańnie",
-  "wrong" : "vyronullnivańnie",
+  "value" : "vyraŭnoŭvańnie",
+  "wrong" : "vyroŭnivańnie",
   "comment" : "MS"
 }, {
   "id" : 36,
@@ -229,7 +229,7 @@
 }, {
   "id" : 39,
   "originalValue" : "amazing",
-  "value" : "cudonullna; cudonullny",
+  "value" : "cudoŭna; cudoŭny",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -337,7 +337,7 @@
 }, {
   "id" : 57,
   "originalValue" : "archive",
-  "value" : "archinull",
+  "value" : "archiŭ",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -373,7 +373,7 @@
 }, {
   "id" : 63,
   "originalValue" : "as available",
-  "value" : "pavodlie najanullnaści",
+  "value" : "pavodlie najaŭnaści",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -445,55 +445,55 @@
 }, {
   "id" : 75,
   "originalValue" : "audio",
-  "value" : "anulldyja",
+  "value" : "aŭdyja",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 76,
   "originalValue" : "audio player",
-  "value" : "anulldyjaprajhravaĺnik",
+  "value" : "aŭdyjaprajhravaĺnik",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 77,
   "originalValue" : "Australia",
-  "value" : "Anullstralija",
+  "value" : "Aŭstralija",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 78,
   "originalValue" : "Austria",
-  "value" : "Anullstryja",
+  "value" : "Aŭstryja",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 79,
   "originalValue" : "authentication",
-  "value" : "pravierka sapranulldnaści",
+  "value" : "pravierka sapraŭdnaści",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 80,
   "originalValue" : "authorization",
-  "value" : "anulltaryźacyja",
+  "value" : "aŭtaryźacyja",
   "wrong" : "",
-  "comment" : "MS — anulltaryźacyja"
+  "comment" : "MS — aŭtaryźacyja"
 }, {
   "id" : 81,
   "originalValue" : "authorize",
-  "value" : "anulltaryźavać",
+  "value" : "aŭtaryźavać",
   "wrong" : "",
   "comment" : "MS"
 }, {
   "id" : 82,
   "originalValue" : "automatic",
-  "value" : "anulltamatyčna",
+  "value" : "aŭtamatyčna",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 83,
   "originalValue" : "autorun",
-  "value" : "anulltaźapusk\n",
+  "value" : "aŭtaźapusk\n",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -535,9 +535,9 @@
 }, {
   "id" : 90,
   "originalValue" : "B",
-  "value" : "B — B (kali majecca na nullvaźie bajt); b — b (kali majecca na nullvaźie bit)",
+  "value" : "B — B (kali majecca na ŭvaźie bajt); b — b (kali majecca na ŭvaźie bit)",
   "wrong" : "",
-  "comment" : "niama null CLDR"
+  "comment" : "niama ŭ CLDR"
 }, {
   "id" : 91,
   "originalValue" : "Back",
@@ -615,7 +615,7 @@
   "originalValue" : "bandwidth",
   "value" : "palasa prapuskańnia",
   "wrong" : "",
-  "comment" : "Samsung, MS — palasa prapuskańnia\nMS — prapusknaja nulllaścivaść"
+  "comment" : "Samsung, MS — palasa prapuskańnia\nMS — prapusknaja ŭlaścivaść"
 }, {
   "id" : 104,
   "originalValue" : "Bangla",
@@ -793,7 +793,7 @@
 }, {
   "id" : 133,
   "originalValue" : "block",
-  "value" : "blakiravać, źablakiravać; blakiravańnie (praces); blakironullka",
+  "value" : "blakiravać, źablakiravać; blakiravańnie (praces); blakiroŭka",
   "wrong" : "blakavać; blakavańnie; źablakavać",
   "comment" : ""
 }, {
@@ -907,7 +907,7 @@
 }, {
   "id" : 152,
   "originalValue" : "British Indian Ocean Territory",
-  "value" : "Brytanskaja terytoryja null Indyjskim akijanie",
+  "value" : "Brytanskaja terytoryja ŭ Indyjskim akijanie",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -931,13 +931,13 @@
 }, {
   "id" : 156,
   "originalValue" : "browser",
-  "value" : "branullźier",
-  "wrong" : "branullźar",
+  "value" : "braŭźier",
+  "wrong" : "braŭźar",
   "comment" : ""
 }, {
   "id" : 157,
   "originalValue" : "browser history",
-  "value" : "historyja branullźiera",
+  "value" : "historyja braŭźiera",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -955,7 +955,7 @@
 }, {
   "id" : 160,
   "originalValue" : "bug",
-  "value" : "pamylka; bug (tam, dźie null interfejsie jość nadpis bug, aĺbo nullnullnikaje niejkaja inšaja nieadnaźnačnaść)",
+  "value" : "pamylka; bug (tam, dźie ŭ interfejsie jość nadpis bug, aĺbo ŭnullnikaje niejkaja inšaja nieadnaźnačnaść)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1045,7 +1045,7 @@
 }, {
   "id" : 175,
   "originalValue" : "calibration",
-  "value" : "kalibronullka",
+  "value" : "kalibroŭka",
   "wrong" : "",
   "comment" : "Samsung, MS"
 }, {
@@ -1112,14 +1112,14 @@
   "id" : 186,
   "originalValue" : "cancelling",
   "value" : "skasavańnie",
-  "wrong" : "skasonullvańnie, kasavańnie",
+  "wrong" : "skasoŭvańnie, kasavańnie",
   "comment" : ""
 }, {
   "id" : 187,
   "originalValue" : "cannot",
   "value" : "niemahčyma (bieź źajmieńnika); nieĺha, nia mozacie (ź asobaj: you cannot);",
   "wrong" : "",
-  "comment" : "cannot unzip the archive — niemahčyma raspakavać archinull"
+  "comment" : "cannot unzip the archive — niemahčyma raspakavać archiŭ"
 }, {
   "id" : 188,
   "originalValue" : "cannot",
@@ -1195,7 +1195,7 @@
 }, {
   "id" : 200,
   "originalValue" : "charge",
-  "value" : "spahaniać platu (čaściej źa nullsio: moza spahaniacca plata); aplata; vydatak; źaradzać (akumuliatar)",
+  "value" : "spahaniać platu (čaściej źa ŭsio: moza spahaniacca plata); aplata; vydatak; źaradzać (akumuliatar)",
   "wrong" : "",
   "comment" : "MS, Samsung"
 }, {
@@ -1221,7 +1221,7 @@
   "originalValue" : "check box",
   "value" : "ptuška",
   "wrong" : "ściazok",
-  "comment" : "Google, Samsung, MS\nściazok — kryvaja kaĺka ź ruskaj, jakuju nie rekamiendujecca vykarystonullvać"
+  "comment" : "Google, Samsung, MS\nściazok — kryvaja kaĺka ź ruskaj, jakuju nie rekamiendujecca vykarystoŭvać"
 }, {
   "id" : 205,
   "originalValue" : "check-box",
@@ -1279,7 +1279,7 @@
 }, {
   "id" : 214,
   "originalValue" : "Chinese, Mandarin",
-  "value" : "kitajskaja, panullnočnyja dyjaliekty",
+  "value" : "kitajskaja, paŭnočnyja dyjaliekty",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -1291,7 +1291,7 @@
 }, {
   "id" : 216,
   "originalValue" : "Christmas Island",
-  "value" : "Vostranull Kaliad",
+  "value" : "Vostraŭ Kaliad",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -1304,7 +1304,7 @@
   "id" : 218,
   "originalValue" : "click",
   "value" : "naciskać, nacisnuć, naciśnicie; naciskańnie",
-  "wrong" : "pstryk; pstryknuć, ščanullčok, klik",
+  "wrong" : "pstryk; pstryknuć, ščaŭčok, klik",
   "comment" : "naciskańnie - MS, Google, Samsung\n"
 }, {
   "id" : 219,
@@ -1483,7 +1483,7 @@
 }, {
   "id" : 248,
   "originalValue" : "connection manager",
-  "value" : "mieniedzar źlučeńnianull; mieniedzar padlučeńnianull (fiźyčnych)",
+  "value" : "mieniedzar źlučeńniaŭ; mieniedzar padlučeńniaŭ (fiźyčnych)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1521,7 +1521,7 @@
   "originalValue" : "copy",
   "value" : "kapijavać; kopija",
   "wrong" : "kapiravać",
-  "comment" : "Kapijavać — hety termin boĺš tradycyjna-bielaruski. Jaho vykarystonullvaje Microsoft i pryniaty null Telegram. Samo slova mozna źnajści null narkamanullskich slonullnikach, napryklad: \"Tlumačaĺny slonullnik bielaruskaj litaraturnaj movy\" 2016 h.\nKapiravać — hety termin vykarystonullvaje Google i Samsung. Boĺš raspanullsiudzany null slonullnikach i ź im akurat nia budźie prabliemanull kštaltu amanimii."
+  "comment" : "Kapijavać — hety termin boĺš tradycyjna-bielaruski. Jaho vykarystoŭvaje Microsoft i pryniaty ŭ Telegram. Samo slova mozna źnajści ŭ narkamaŭskich sloŭnikach, napryklad: \"Tlumačaĺny sloŭnik bielaruskaj litaraturnaj movy\" 2016 h.\nKapiravać — hety termin vykarystoŭvaje Google i Samsung. Boĺš raspaŭsiudzany ŭ sloŭnikach i ź im akurat nia budźie prabliemaŭ kštaltu amanimii."
 }, {
   "id" : 255,
   "originalValue" : "Costa Rica",
@@ -1537,13 +1537,13 @@
 }, {
   "id" : 257,
   "originalValue" : "could not",
-  "value" : "nie nulldalosia",
+  "value" : "nie ŭdalosia",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 258,
   "originalValue" : "couldn't",
-  "value" : "nie nulldalosia",
+  "value" : "nie ŭdalosia",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1659,7 +1659,7 @@
   "originalValue" : "data",
   "value" : "danyja",
   "wrong" : "dańni, dadźienyja",
-  "comment" : "Kali majecca na nullvaźie information, mozna «nullviestki»"
+  "comment" : "Kali majecca na ŭvaźie information, mozna «nullviestki»"
 }, {
   "id" : 278,
   "originalValue" : "date",
@@ -1695,11 +1695,11 @@
   "originalValue" : "decline",
   "value" : "adchilić",
   "wrong" : "",
-  "comment" : "Časam kab paźbiehnuć blytanicy patrebny asobny pieraklad kštaltu \"vyjści, nie źachonullvajučy\". Hl. cancel"
+  "comment" : "Časam kab paźbiehnuć blytanicy patrebny asobny pieraklad kštaltu \"vyjści, nie źachoŭvajučy\". Hl. cancel"
 }, {
   "id" : 284,
   "originalValue" : "decode",
-  "value" : "! raskadźiravać(tak pasliaonullniej), raskadavać",
+  "value" : "! raskadźiravać(tak pasliaoŭniej), raskadavać",
   "wrong" : "",
   "comment" : "Samsung — raskadavać"
 }, {
@@ -1737,7 +1737,7 @@
   "originalValue" : "default",
   "value" : "pieradvyźnačany",
   "wrong" : "",
-  "comment" : "standartny; pieradvyźnačany — Google, Samsung\nStandart <> default, tamu rekamiendujecca nullzyvać toĺki \"pieradvyźnačany\""
+  "comment" : "standartny; pieradvyźnačany — Google, Samsung\nStandart <> default, tamu rekamiendujecca ŭzyvać toĺki \"pieradvyźnačany\""
 }, {
   "id" : 291,
   "originalValue" : "define",
@@ -1813,7 +1813,7 @@
 }, {
   "id" : 303,
   "originalValue" : "desktop",
-  "value" : "praconullny stol; asiaroddźie (desktop environment, e.g. GNOME, KDE)",
+  "value" : "pracoŭny stol; asiaroddźie (desktop environment, e.g. GNOME, KDE)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1831,7 +1831,7 @@
 }, {
   "id" : 306,
   "originalValue" : "developer",
-  "value" : "raspraconullščyk",
+  "value" : "raspracoŭščyk",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1861,7 +1861,7 @@
 }, {
   "id" : 311,
   "originalValue" : "dictionary",
-  "value" : "slonullnik",
+  "value" : "sloŭnik",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -1911,7 +1911,7 @@
   "originalValue" : "discard changes",
   "value" : "admovicca ad nullmien",
   "wrong" : "",
-  "comment" : "MS — admianić nullmieny, skasavać nullmieny\nAliaksandar Šumski: \"Karaciej, jak varyjanty: discard changes - 1) Adchilić nullmieny (daslonullna) 2) Admovicca ad nullmien (boĺš litaraturna)\""
+  "comment" : "MS — admianić nullmieny, skasavać nullmieny\nAliaksandar Šumski: \"Karaciej, jak varyjanty: discard changes - 1) Adchilić nullmieny (dasloŭna) 2) Admovicca ad nullmien (boĺš litaraturna)\""
 }, {
   "id" : 320,
   "originalValue" : "disconnect",
@@ -1921,7 +1921,7 @@
 }, {
   "id" : 321,
   "originalValue" : "discovery",
-  "value" : "vyjanulllieńnie",
+  "value" : "vyjaŭlieńnie",
   "wrong" : "",
   "comment" : "MS"
 }, {
@@ -1951,7 +1951,7 @@
 }, {
   "id" : 326,
   "originalValue" : "display",
-  "value" : "pakaźvać; pakaź; dysplej; adliustronullvać",
+  "value" : "pakaźvać; pakaź; dysplej; adliustroŭvać",
   "wrong" : "",
   "comment" : "Google, Samsung"
 }, {
@@ -2011,25 +2011,25 @@
 }, {
   "id" : 336,
   "originalValue" : "download",
-  "value" : "spampavać, spamponullvać; spamponullka (ab'jekt), spamponullki",
+  "value" : "spampavać, spampoŭvać; spampoŭka (ab'jekt), spampoŭki",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 337,
   "originalValue" : "downloader",
-  "value" : "! mieniedzar spamponullvańnia, mieniedzar spampovak",
+  "value" : "! mieniedzar spampoŭvańnia, mieniedzar spampovak",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 338,
   "originalValue" : "downloading",
-  "value" : "spamvonullvańnie (praces)",
+  "value" : "spamvoŭvańnie (praces)",
   "wrong" : "spampavańnie",
   "comment" : ""
 }, {
   "id" : 339,
   "originalValue" : "downloading",
-  "value" : "spamponullvańnie; idźie spamponullvańnie",
+  "value" : "spampoŭvańnie; idźie spampoŭvańnie",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -2053,7 +2053,7 @@
 }, {
   "id" : 343,
   "originalValue" : "drawer",
-  "value" : "vysonullnaje mieniu",
+  "value" : "vysoŭnaje mieniu",
   "wrong" : "",
   "comment" : "Samsung, Google"
 }, {
@@ -2169,7 +2169,7 @@
   "originalValue" : "encode",
   "value" : "! kadźiravać; źakadźiravać",
   "wrong" : "kadavać",
-  "comment" : "Kadavać — niama null slonikach. Kali prymajem kadovańnie, tady davajcie vydumajem kadonullku.\nAlie sams i huhl va nullsiu vykarystonullvajuć slovy, vytvornyja ad kadavać"
+  "comment" : "Kadavać — niama ŭ slonikach. Kali prymajem kadovańnie, tady davajcie vydumajem kadoŭku.\nAlie sams i huhl va ŭsiu vykarystoŭvajuć slovy, vytvornyja ad kadavać"
 }, {
   "id" : 363,
   "originalValue" : "encoder",
@@ -2179,7 +2179,7 @@
 }, {
   "id" : 364,
   "originalValue" : "encoding",
-  "value" : "kadźironullka (ab'jekt); kadźiravańnie (praces)",
+  "value" : "kadźiroŭka (ab'jekt); kadźiravańnie (praces)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -2311,7 +2311,7 @@
 }, {
   "id" : 386,
   "originalValue" : "Europe",
-  "value" : "Jenullropa",
+  "value" : "Jeŭropa",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -2365,7 +2365,7 @@
 }, {
   "id" : 395,
   "originalValue" : "expired",
-  "value" : "termin dźiejańnia skončynullsia; samanullniščylasia (fota); nullniščany (fajl)",
+  "value" : "termin dźiejańnia skončyŭsia; samanullniščylasia (fota); nullniščany (fajl)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -2401,7 +2401,7 @@
 }, {
   "id" : 401,
   "originalValue" : "failed",
-  "value" : "nie nulldalosia",
+  "value" : "nie ŭdalosia",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -2409,7 +2409,7 @@
   "originalValue" : "failure",
   "value" : "źboj",
   "wrong" : "",
-  "comment" : "failure to - nie nulldalosia"
+  "comment" : "failure to - nie ŭdalosia"
 }, {
   "id" : 403,
   "originalValue" : "Falkland Islands (Malvinas)",
@@ -2449,9 +2449,9 @@
 }, {
   "id" : 409,
   "originalValue" : "featured",
-  "value" : "vartaje nullvahi",
+  "value" : "vartaje ŭvahi",
   "wrong" : "",
-  "comment" : "Google, Samsung — Vartaje nullvahi\nMS — Vartaje nullvahi; papuliarnaje"
+  "comment" : "Google, Samsung — Vartaje ŭvahi\nMS — Vartaje ŭvahi; papuliarnaje"
 }, {
   "id" : 410,
   "originalValue" : "feed",
@@ -2491,7 +2491,7 @@
 }, {
   "id" : 416,
   "originalValue" : "fill",
-  "value" : "źapanullniać; źapanullnieńnie",
+  "value" : "źapaŭniać; źapaŭnieńnie",
   "wrong" : "",
   "comment" : "Samsung, Google"
 }, {
@@ -2499,7 +2499,7 @@
   "originalValue" : "finalize",
   "value" : "źakončyć",
   "wrong" : "",
-  "comment" : "niama null terminach"
+  "comment" : "niama ŭ terminach"
 }, {
   "id" : 418,
   "originalValue" : "find",
@@ -2533,13 +2533,13 @@
 }, {
   "id" : 423,
   "originalValue" : "firmware",
-  "value" : "ubudavanaja prahrama; ubudavanaje PŹ; ! prašynullka",
+  "value" : "ubudavanaja prahrama; ubudavanaje PŹ; ! prašyŭka",
   "wrong" : "",
   "comment" : "ubudavanaja prahrama; ubudavanaje PŹ — Samsung, Google"
 }, {
   "id" : 424,
   "originalValue" : "flip",
-  "value" : "adliustravać (image, view); adliustravańnie; pieraviarnuć (kali majecca na nullvaźie nie adliustravańnie); pieravarot",
+  "value" : "adliustravać (image, view); adliustravańnie; pieraviarnuć (kali majecca na ŭvaźie nie adliustravańnie); pieravarot",
   "wrong" : "",
   "comment" : "pieraviarnuć — Samsung\npieravarot — Google\nadliustravać — MS"
 }, {
@@ -2575,7 +2575,7 @@
 }, {
   "id" : 430,
   "originalValue" : "forever",
-  "value" : "źanullsiody",
+  "value" : "źaŭsiody",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -2623,7 +2623,7 @@
 }, {
   "id" : 438,
   "originalValue" : "French Southern Territories",
-  "value" : "Francuźskija panulldniovyja terytoryi",
+  "value" : "Francuźskija paŭdniovyja terytoryi",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -2757,7 +2757,7 @@
   "originalValue" : "GNOME desktop",
   "value" : "Asiaroddźie GNOME",
   "wrong" : "",
-  "comment" : "heta desktop environment, a nie praconullny stol"
+  "comment" : "heta desktop environment, a nie pracoŭny stol"
 }, {
   "id" : 461,
   "originalValue" : "GNOME Shell",
@@ -2917,7 +2917,7 @@
 }, {
   "id" : 487,
   "originalValue" : "Hebrew",
-  "value" : "Janullrejskaje",
+  "value" : "Jaŭrejskaje",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -2959,7 +2959,7 @@
 }, {
   "id" : 494,
   "originalValue" : "home",
-  "value" : "chatniaja papka (kali majecca na nullvaźie home folder); chatniaja staronka (astatnija vypadki); dadomu (knopka navihacyi)",
+  "value" : "chatniaja papka (kali majecca na ŭvaźie home folder); chatniaja staronka (astatnija vypadki); dadomu (knopka navihacyi)",
   "wrong" : "",
   "comment" : "u vypadku ź papkaj, robim pa analohii ź homepage"
 }, {
@@ -2967,7 +2967,7 @@
   "originalValue" : "home phone",
   "value" : "damašni teliefon",
   "wrong" : "chatni teliefon",
-  "comment" : "paslia donullhich abmierkavańnianull spynilisia na terminie \"damašni teliefon\""
+  "comment" : "paslia doŭhich abmierkavańniaŭ spynilisia na terminie \"damašni teliefon\""
 }, {
   "id" : 496,
   "originalValue" : "homepage",
@@ -3015,7 +3015,7 @@
   "originalValue" : "hot corners",
   "value" : "haračyja kuty",
   "wrong" : "",
-  "comment" : "heta čysta hnomanullski termin, niama null kaho hliadźieć\nSpačatku bylo aktynullnyja kuty, alie vyrašyli pamianiać na haračyja, kab nie byo kaliźij kštaltu hot corners are active"
+  "comment" : "heta čysta hnomaŭski termin, niama ŭ kaho hliadźieć\nSpačatku bylo aktyŭnyja kuty, alie vyrašyli pamianiać na haračyja, kab nie byo kaliźij kštaltu hot corners are active"
 }, {
   "id" : 504,
   "originalValue" : "hot keys",
@@ -3199,19 +3199,19 @@
 }, {
   "id" : 534,
   "originalValue" : "input",
-  "value" : "uvieści; uvod (praces); uvachod (fiźičny raźdym), anulldyjanullvachod (audio/sound input)",
+  "value" : "uvieści; uvod (praces); uvachod (fiźičny raźdym), aŭdyjaŭvachod (audio/sound input)",
   "wrong" : "",
-  "comment" : "alie źvazajem na kantekst, moza być audio input - halasavy nullvod i h.d."
+  "comment" : "alie źvazajem na kantekst, moza być audio input - halasavy ŭvod i h.d."
 }, {
   "id" : 535,
   "originalValue" : "insert",
-  "value" : "ustanullliać, ustavić; ustanullka",
+  "value" : "ustaŭliać, ustavić; ustaŭka",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 536,
   "originalValue" : "inserting",
-  "value" : "ustanullka",
+  "value" : "ustaŭka",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -3223,7 +3223,7 @@
 }, {
   "id" : 538,
   "originalValue" : "installation",
-  "value" : "ustaliavańnie (praces); ustalionullka (ab'jekt)",
+  "value" : "ustaliavańnie (praces); ustalioŭka (ab'jekt)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -3277,7 +3277,7 @@
 }, {
   "id" : 547,
   "originalValue" : "Internet history",
-  "value" : "historyja branullźiera",
+  "value" : "historyja braŭźiera",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -3331,7 +3331,7 @@
 }, {
   "id" : 556,
   "originalValue" : "Isle of Man",
-  "value" : "Vostranull Men",
+  "value" : "Vostraŭ Men",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -3453,7 +3453,7 @@
   "originalValue" : "keybinding",
   "value" : "pryźnačeńnie klaviš; pryźnačyć klavišy",
   "wrong" : "",
-  "comment" : "hot key - haračyja klavišy = spalučeńni klaviš, jakija vyklikajuć kankretnaje dźiejańnie, časta standartnyja (napr. Snullnullnull+Z dlia skasavańnia)\nkeybinding — praces ci vynik pryźnačeńnia dźiejańnianull na klavišy, napryklad, tych samym hot key-janull"
+  "comment" : "hot key - haračyja klavišy = spalučeńni klaviš, jakija vyklikajuć kankretnaje dźiejańnie, časta standartnyja (napr. Snullnullnull+Z dlia skasavańnia)\nkeybinding — praces ci vynik pryźnačeńnia dźiejańniaŭ na klavišy, napryklad, tych samym hot key-jaŭ"
 }, {
   "id" : 577,
   "originalValue" : "keyboard",
@@ -3547,7 +3547,7 @@
 }, {
   "id" : 592,
   "originalValue" : "laptop",
-  "value" : "nonulltbuk",
+  "value" : "noŭtbuk",
   "wrong" : "",
   "comment" : "MS"
 }, {
@@ -3751,7 +3751,7 @@
 }, {
   "id" : 626,
   "originalValue" : "long",
-  "value" : "donullhi; donullha",
+  "value" : "doŭhi; doŭha",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -3793,7 +3793,7 @@
 }, {
   "id" : 633,
   "originalValue" : "Macedonia",
-  "value" : "Panullnočnaja Makiedonija; Makiedonija (kali majecca na nullvaźie rehijon)",
+  "value" : "Paŭnočnaja Makiedonija; Makiedonija (kali majecca na ŭvaźie rehijon)",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -3859,7 +3859,7 @@
 }, {
   "id" : 644,
   "originalValue" : "manager",
-  "value" : "mieniedzar (prahrama); kiranullnik",
+  "value" : "mieniedzar (prahrama); kiraŭnik",
   "wrong" : "",
   "comment" : "MS, Google, Samsung"
 }, {
@@ -3913,13 +3913,13 @@
 }, {
   "id" : 653,
   "originalValue" : "Mauritania",
-  "value" : "Manullrytanija",
+  "value" : "Maŭrytanija",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 654,
   "originalValue" : "Mauritius",
-  "value" : "Manullrykij",
+  "value" : "Maŭrykij",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -3927,13 +3927,13 @@
   "originalValue" : "maximize",
   "value" : "! raźharnuć",
   "wrong" : "",
-  "comment" : "MS\nheta kali my malieńkaje akno robim vieličynioj na nullvieś ekran"
+  "comment" : "MS\nheta kali my malieńkaje akno robim vieličynioj na ŭvieś ekran"
 }, {
   "id" : 656,
   "originalValue" : "may",
   "value" : "maj (miesiac)",
   "wrong" : "travień",
-  "comment" : "Google, Sasung, MS\nNie budźiem iści suprać sklanullšajsia terminalohii, panullsiuĺ uzyvajuć toĺki maj."
+  "comment" : "Google, Sasung, MS\nNie budźiem iści suprać sklaŭšajsia terminalohii, paŭsiuĺ uzyvajuć toĺki maj."
 }, {
   "id" : 657,
   "originalValue" : "Mayotte",
@@ -4039,9 +4039,9 @@
 }, {
   "id" : 674,
   "originalValue" : "Micronesia, Federated States of",
-  "value" : "Fiederatynullnyja Štaty Mikranieźii",
+  "value" : "Fiederatyŭnyja Štaty Mikranieźii",
   "wrong" : "",
-  "comment" : "niama null CLDR"
+  "comment" : "niama ŭ CLDR"
 }, {
   "id" : 675,
   "originalValue" : "microphone",
@@ -4279,7 +4279,7 @@
 }, {
   "id" : 714,
   "originalValue" : "negative",
-  "value" : "niehatynull; niehatynullny",
+  "value" : "niehatyŭ; niehatyŭny",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -4299,7 +4299,7 @@
   "originalValue" : "Netherlands Antilles",
   "value" : "Niderlandskija Antyĺskija astravy",
   "wrong" : "",
-  "comment" : "bielen\nniama null CLDR"
+  "comment" : "bielen\nniama ŭ CLDR"
 }, {
   "id" : 718,
   "originalValue" : "network",
@@ -4393,7 +4393,7 @@
 }, {
   "id" : 733,
   "originalValue" : "No Repeat",
-  "value" : "Nie panulltarać",
+  "value" : "Nie paŭtarać",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -4423,7 +4423,7 @@
 }, {
   "id" : 738,
   "originalValue" : "Norfolk Island",
-  "value" : "Vostranull Norfalk",
+  "value" : "Vostraŭ Norfalk",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -4435,13 +4435,13 @@
 }, {
   "id" : 740,
   "originalValue" : "North Korea",
-  "value" : "Panullnočnaja Kareja",
+  "value" : "Paŭnočnaja Kareja",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 741,
   "originalValue" : "Northern Mariana Islands",
-  "value" : "Panullnočnyja Maryjanskija astravy",
+  "value" : "Paŭnočnyja Maryjanskija astravy",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -4471,7 +4471,7 @@
 }, {
   "id" : 746,
   "originalValue" : "not valid",
-  "value" : "niesapranulldny; niapraviĺny",
+  "value" : "niesapraŭdny; niapraviĺny",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -4593,7 +4593,7 @@
   "originalValue" : "open",
   "value" : "adkryć (document, file, window, tab etc.)",
   "wrong" : "",
-  "comment" : "Asobnyja vypadki kštaltu «adharnuć eliektronnuju knihu na 20-j staroncy» prapanonullvaju vynosić na abmierkavańnie null Telegram"
+  "comment" : "Asobnyja vypadki kštaltu «adharnuć eliektronnuju knihu na 20-j staroncy» prapanoŭvaju vynosić na abmierkavańnie ŭ Telegram"
 }, {
   "id" : 767,
   "originalValue" : "open with",
@@ -4651,9 +4651,9 @@
 }, {
   "id" : 776,
   "originalValue" : "output",
-  "value" : "vyvad; vyvieści; vychad (anulldyja)",
+  "value" : "vyvad; vyvieści; vychad (aŭdyja)",
   "wrong" : "",
-  "comment" : "Samsung, MS\nPra vychad padkaźanull sp. Šumsk­i"
+  "comment" : "Samsung, MS\nPra vychad padkaźaŭ sp. Šumsk­i"
 }, {
   "id" : 777,
   "originalValue" : "overlap",
@@ -4693,7 +4693,7 @@
 }, {
   "id" : 783,
   "originalValue" : "packaging",
-  "value" : "upakonullka",
+  "value" : "upakoŭka",
   "wrong" : "",
   "comment" : "Google"
 }, {
@@ -4825,7 +4825,7 @@
 }, {
   "id" : 805,
   "originalValue" : "pause",
-  "value" : "panullźa; prypynić",
+  "value" : "paŭźa; prypynić",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -4939,7 +4939,7 @@
 }, {
   "id" : 824,
   "originalValue" : "placeholder color",
-  "value" : "źapanullniaĺny kolier",
+  "value" : "źapaŭniaĺny kolier",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -5101,7 +5101,7 @@
 }, {
   "id" : 851,
   "originalValue" : "previous",
-  "value" : "papiaredni; naźad (kali bieź naźonullnika j pobač ź next)",
+  "value" : "papiaredni; naźad (kali bieź naźoŭnika j pobač ź next)",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -5175,7 +5175,7 @@
   "originalValue" : "promotion",
   "value" : "proma-akcyja",
   "wrong" : "",
-  "comment" : "Google — proma-akcyi; pramocyja, proma-rolik; prasonullvańnie\nSamsung — proma-akcyja\nMS — reklama; raspanullsiudzvańnie"
+  "comment" : "Google — proma-akcyi; pramocyja, proma-rolik; prasoŭvańnie\nSamsung — proma-akcyja\nMS — reklama; raspaŭsiudzvańnie"
 }, {
   "id" : 864,
   "originalValue" : "Promotions",
@@ -5203,15 +5203,15 @@
 }, {
   "id" : 868,
   "originalValue" : "provide",
-  "value" : "pastanullliać",
+  "value" : "pastaŭliać",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 869,
   "originalValue" : "provider",
-  "value" : "pastanullščyk; ! sluzba",
+  "value" : "pastaŭščyk; ! sluzba",
   "wrong" : "",
-  "comment" : "Samsung — pastanullščyk\nGoogle — sluzba"
+  "comment" : "Samsung — pastaŭščyk\nGoogle — sluzba"
 }, {
   "id" : 870,
   "originalValue" : "provides",
@@ -5239,7 +5239,7 @@
 }, {
   "id" : 874,
   "originalValue" : "pull request",
-  "value" : "pull request, źapyt na nullniasieńnie nullmianieńnianull (Git)",
+  "value" : "pull request, źapyt na ŭniasieńnie nullmianieńniaŭ (Git)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -5365,7 +5365,7 @@
 }, {
   "id" : 895,
   "originalValue" : "refreshed",
-  "value" : "abnonulllieny",
+  "value" : "abnoŭlieny",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -5413,7 +5413,7 @@
 }, {
   "id" : 903,
   "originalValue" : "relevant",
-  "value" : "relievantny (vydača null pošuku); adpaviedny; vazny; ! istotna",
+  "value" : "relievantny (vydača ŭ pošuku); adpaviedny; vazny; ! istotna",
   "wrong" : "",
   "comment" : "MS"
 }, {
@@ -5461,7 +5461,7 @@
 }, {
   "id" : 911,
   "originalValue" : "removed",
-  "value" : "vydalinull(-la); vydalieny",
+  "value" : "vydaliŭ(-la); vydalieny",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -5473,7 +5473,7 @@
 }, {
   "id" : 913,
   "originalValue" : "repeat",
-  "value" : "panulltarać; panulltareńnie",
+  "value" : "paŭtarać; paŭtareńnie",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -5557,7 +5557,7 @@
 }, {
   "id" : 927,
   "originalValue" : "restoring",
-  "value" : "adnanulllieńnie",
+  "value" : "adnaŭlieńnie",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -5749,7 +5749,7 @@
 }, {
   "id" : 959,
   "originalValue" : "Saudi Arabia",
-  "value" : "Saudanullskaja Aravija",
+  "value" : "Saudaŭskaja Aravija",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -5905,7 +5905,7 @@
 }, {
   "id" : 985,
   "originalValue" : "sender",
-  "value" : "adpranullnik",
+  "value" : "adpraŭnik",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -5959,13 +5959,13 @@
 }, {
   "id" : 994,
   "originalValue" : "service agreement",
-  "value" : "pahadnieńnie na absluhonullvańnie",
+  "value" : "pahadnieńnie na absluhoŭvańnie",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 995,
   "originalValue" : "services agreement",
-  "value" : "pahadnieńnie ab vykarystańni servisanull",
+  "value" : "pahadnieńnie ab vykarystańni servisaŭ",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6055,7 +6055,7 @@
 }, {
   "id" : 1010,
   "originalValue" : "shortcuts pane",
-  "value" : "voblaść jarlykonull",
+  "value" : "voblaść jarlykoŭ",
   "wrong" : "",
   "comment" : "MS"
 }, {
@@ -6121,27 +6121,27 @@
 }, {
   "id" : 1021,
   "originalValue" : "slide show",
-  "value" : "slajd-šonull",
+  "value" : "slajd-šoŭ",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 1022,
   "originalValue" : "slider",
-  "value" : "panullźunok",
+  "value" : "paŭźunok",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 1023,
   "originalValue" : "sliders",
-  "value" : "panullźunki",
+  "value" : "paŭźunki",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 1024,
   "originalValue" : "slideshow",
-  "value" : "pakaź slajdanull",
+  "value" : "pakaź slajdaŭ",
   "wrong" : "",
-  "comment" : "Samsung\nGoogle — slajd-šonull"
+  "comment" : "Samsung\nGoogle — slajd-šoŭ"
 }, {
   "id" : 1025,
   "originalValue" : "Slovakia",
@@ -6175,13 +6175,13 @@
 }, {
   "id" : 1030,
   "originalValue" : "software update",
-  "value" : "abnanulllieńnie PŹ; abnanulllieńnie prahramnaha źabiespiačeńnia",
+  "value" : "abnaŭlieńnie PŹ; abnaŭlieńnie prahramnaha źabiespiačeńnia",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
   "id" : 1031,
   "originalValue" : "Software Updater",
-  "value" : "Abnanulllieńnie prahram",
+  "value" : "Abnaŭlieńnie prahram",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6207,7 +6207,7 @@
   "originalValue" : "sort",
   "value" : "sartavać; sartavańnie",
   "wrong" : "",
-  "comment" : "Samsung — sartavać\nMS — sartavać, uparadkonullvać; uparadkavańnie, sartavańnie, sarcironullka"
+  "comment" : "Samsung — sartavać\nMS — sartavać, uparadkoŭvać; uparadkavańnie, sartavańnie, sarciroŭka"
 }, {
   "id" : 1036,
   "originalValue" : "sort by",
@@ -6241,19 +6241,19 @@
 }, {
   "id" : 1041,
   "originalValue" : "South Africa",
-  "value" : "Panulldniova-Afrykanskaja Respublika",
+  "value" : "Paŭdniova-Afrykanskaja Respublika",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 1042,
   "originalValue" : "South Georgia and the South Sandwich Islands",
-  "value" : "Panulldniovaja Hieorhija j Panulldniovyja Sandvičavy astravy",
+  "value" : "Paŭdniovaja Hieorhija j Paŭdniovyja Sandvičavy astravy",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 1043,
   "originalValue" : "South Korea",
-  "value" : "Panulldniovaja Kareja",
+  "value" : "Paŭdniovaja Kareja",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -6313,7 +6313,7 @@
 }, {
   "id" : 1053,
   "originalValue" : "St. Helena",
-  "value" : "Vostranull Śviatoj Alieny",
+  "value" : "Vostraŭ Śviatoj Alieny",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -6331,7 +6331,7 @@
 }, {
   "id" : 1056,
   "originalValue" : "startup",
-  "value" : "źapusk; źapuścić; anulltaźapusk",
+  "value" : "źapusk; źapuścić; aŭtaźapusk",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6367,13 +6367,13 @@
 }, {
   "id" : 1062,
   "originalValue" : "store page",
-  "value" : "staronka vykananullcy (muź.)",
+  "value" : "staronka vykanaŭcy (muź.)",
   "wrong" : "",
   "comment" : "Google"
 }, {
   "id" : 1063,
   "originalValue" : "storing",
-  "value" : "źachonullvańnie",
+  "value" : "źachoŭvańnie",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6429,7 +6429,7 @@
   "originalValue" : "successfully",
   "value" : "",
   "wrong" : "",
-  "comment" : "źvyčajna apuskajecca. Pierakladajcie tady, kali null tekście jość ranullmiezavańnie na vykanańnie apieracyi ź pamylkami j, ulasna, paspiachovaje (biespamylkovaje) vykanańnie.\n"
+  "comment" : "źvyčajna apuskajecca. Pierakladajcie tady, kali ŭ tekście jość ranullmiezavańnie na vykanańnie apieracyi ź pamylkami j, ulasna, paspiachovaje (biespamylkovaje) vykanańnie.\n"
 }, {
   "id" : 1073,
   "originalValue" : "Sudan",
@@ -6471,7 +6471,7 @@
   "originalValue" : "suspend",
   "value" : "prypynić [pracu kamp'jutara]; prypynieńnie [pracy kamp'jutara]",
   "wrong" : "supynak",
-  "comment" : "prypynić — Google, MS\nPobač ź pieraźahruźić i vykliučyć budźie naturaĺniej vyhliadać prosta prypynić.\nDlia inšych vypadkanull, dźie nullmiaščajecca pišam ponullnaściu try abo dva(bieź \"pracu\") slovy ź pieravahaj u bok pieršaj formy."
+  "comment" : "prypynić — Google, MS\nPobač ź pieraźahruźić i vykliučyć budźie naturaĺniej vyhliadać prosta prypynić.\nDlia inšych vypadkaŭ, dźie ŭmiaščajecca pišam poŭnaściu try abo dva(bieź \"pracu\") slovy ź pieravahaj u bok pieršaj formy."
 }, {
   "id" : 1080,
   "originalValue" : "Svalbard and Jan Mayen",
@@ -6481,7 +6481,7 @@
 }, {
   "id" : 1081,
   "originalValue" : "Swaziland",
-  "value" : "Esvatyni (kali niama pareby źachonullvać staruju naźvu); Svaźiliend",
+  "value" : "Esvatyni (kali niama pareby źachoŭvać staruju naźvu); Svaźiliend",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -6693,13 +6693,13 @@
   "originalValue" : "third-party",
   "value" : "starońni; starońni sub'jekt",
   "wrong" : "",
-  "comment" : "Źa vykliučyńniem vypadkanull, kali null tekście janullna pieraličvajucca pieršy, druhi j treci baki"
+  "comment" : "Źa vykliučyńniem vypadkaŭ, kali ŭ tekście jaŭna pieraličvajucca pieršy, druhi j treci baki"
 }, {
   "id" : 1117,
   "originalValue" : "this",
   "value" : "hetaja, hetaje, hetyja, hety (aźnačeńnie); heta (častka vykanullnika)",
   "wrong" : "",
-  "comment" : "Ubuntu - heta svabodnaja apieracyjnaja sistema. Hetaje abnanulllieńnie patrabuje 2MB miesca na dysku. Hetaja prylada nie padtrymlivajecca."
+  "comment" : "Ubuntu - heta svabodnaja apieracyjnaja sistema. Hetaje abnaŭlieńnie patrabuje 2MB miesca na dysku. Hetaja prylada nie padtrymlivajecca."
 }, {
   "id" : 1118,
   "originalValue" : "threat",
@@ -6817,7 +6817,7 @@
 }, {
   "id" : 1137,
   "originalValue" : "tomorrow",
-  "value" : "źanulltra",
+  "value" : "źaŭtra",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6847,7 +6847,7 @@
 }, {
   "id" : 1142,
   "originalValue" : "touchpad",
-  "value" : "! sensarnaja pliaconullka",
+  "value" : "! sensarnaja pliacoŭka",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7011,7 +7011,7 @@
   "originalValue" : "unexpected",
   "value" : "niečakany",
   "wrong" : "",
-  "comment" : "niama null terminach"
+  "comment" : "niama ŭ terminach"
 }, {
   "id" : 1170,
   "originalValue" : "unimplimented",
@@ -7087,7 +7087,7 @@
 }, {
   "id" : 1182,
   "originalValue" : "unnamed",
-  "value" : "biaź naźvy; nienaźvany (kali vykarystonullvajem źamiest naźvy)",
+  "value" : "biaź naźvy; nienaźvany (kali vykarystoŭvajem źamiest naźvy)",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7117,7 +7117,7 @@
 }, {
   "id" : 1187,
   "originalValue" : "up to date",
-  "value" : "abnonulllieny (kali maje miesca abnanulllieńnie); aktualiźavany (kali maje miesca aktualiźacyja)",
+  "value" : "abnoŭlieny (kali maje miesca abnaŭlieńnie); aktualiźavany (kali maje miesca aktualiźacyja)",
   "wrong" : "",
   "comment" : "MS"
 }, {
@@ -7129,37 +7129,37 @@
 }, {
   "id" : 1189,
   "originalValue" : "update",
-  "value" : "abnavić; abnanulllieńnie",
+  "value" : "abnavić; abnaŭlieńnie",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 1190,
   "originalValue" : "updater",
-  "value" : "instrumient abnanulllieńnia",
+  "value" : "instrumient abnaŭlieńnia",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 1191,
   "originalValue" : "upgrade",
-  "value" : "abnavić; abnanulllieńnie",
+  "value" : "abnavić; abnaŭlieńnie",
   "wrong" : "",
-  "comment" : "MS, Samsung — abnavić\nMS, Google — abnanulllieńnie"
+  "comment" : "MS, Samsung — abnavić\nMS, Google — abnaŭlieńnie"
 }, {
   "id" : 1192,
   "originalValue" : "upload",
-  "value" : "źapampavać, źapamponullvać",
+  "value" : "źapampavać, źapampoŭvać",
   "wrong" : "",
   "comment" : ""
 }, {
   "id" : 1193,
   "originalValue" : "uploader",
-  "value" : "źapamponullščyk; ! źahruźčyk",
+  "value" : "źapampoŭščyk; ! źahruźčyk",
   "wrong" : "źahrunullnik",
-  "comment" : "Liepš źapamponullščyk, bo upload — źapampavać"
+  "comment" : "Liepš źapampoŭščyk, bo upload — źapampavać"
 }, {
   "id" : 1194,
   "originalValue" : "uploading",
-  "value" : "źapamponullvańnie",
+  "value" : "źapampoŭvańnie",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7189,7 +7189,7 @@
 }, {
   "id" : 1199,
   "originalValue" : "use",
-  "value" : "vykarystonullvać",
+  "value" : "vykarystoŭvać",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7231,7 +7231,7 @@
 }, {
   "id" : 1206,
   "originalValue" : "valid",
-  "value" : "sapranulldny; praviĺny",
+  "value" : "sapraŭdny; praviĺny",
   "wrong" : "",
   "comment" : "Samsung"
 }, {
@@ -7285,13 +7285,13 @@
 }, {
   "id" : 1215,
   "originalValue" : "verified",
-  "value" : "spranulldzany",
+  "value" : "spraŭdzany",
   "wrong" : "",
   "comment" : "Google"
 }, {
   "id" : 1216,
   "originalValue" : "verify",
-  "value" : "spranulldźić",
+  "value" : "spraŭdźić",
   "wrong" : "",
   "comment" : "Google"
 }, {
@@ -7447,7 +7447,7 @@
 }, {
   "id" : 1242,
   "originalValue" : "Web browser",
-  "value" : "veb-branullźier",
+  "value" : "veb-braŭźier",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7603,7 +7603,7 @@
 }, {
   "id" : 1268,
   "originalValue" : "wishlist",
-  "value" : "spis pazadańnianull",
+  "value" : "spis pazadańniaŭ",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -7615,7 +7615,7 @@
 }, {
   "id" : 1270,
   "originalValue" : "workspace",
-  "value" : "praconullnaja prastora",
+  "value" : "pracoŭnaja prastora",
   "wrong" : "",
   "comment" : "MS"
 }, {
@@ -7639,7 +7639,7 @@
 }, {
   "id" : 1274,
   "originalValue" : "yellow",
-  "value" : "zonullty",
+  "value" : "zoŭty",
   "wrong" : "",
   "comment" : ""
 }, {

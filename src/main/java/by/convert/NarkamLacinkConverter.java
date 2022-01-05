@@ -41,7 +41,7 @@ public class NarkamLacinkConverter extends BaseConverter {
         pairs.put("с", "s");
         pairs.put("т", "t");
         pairs.put("у", "u");
-        pairs.put("Ў", "Ŭ");
+        pairs.put("ў", "ŭ");
         pairs.put("Ф", "F");
         pairs.put("ф", "f");
         pairs.put("х", "ch");

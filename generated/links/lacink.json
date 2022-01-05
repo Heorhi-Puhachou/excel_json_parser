@@ -5,40 +5,40 @@
     "description" : "Ab Pravilach bielaruskaj artahrafii j punktuacyi» ad 24 červienia 2008 hoda"
   } ]
 }, {
-  "groupName" : "Slonullniki",
+  "groupName" : "Sloŭniki",
   "links" : [ {
     "url" : "https://drive.google.com/file/d/1KC2LBuPd1yJXlIIEn6HMgban3vHgOlwd/view?usp=sharing",
-    "description" : "Ahuĺny Anhlijska-Bielaruski slonullnik 2013 hoda"
+    "description" : "Ahuĺny Anhlijska-Bielaruski sloŭnik 2013 hoda"
   }, {
     "url" : "http://slounik.org/sbm",
-    "description" : "Slonullnik bielaruskaj movy. Miensk: Bielaruskaja navuka, 2012. ISBN 978-985-08-1365-7"
+    "description" : "Sloŭnik bielaruskaj movy. Miensk: Bielaruskaja navuka, 2012. ISBN 978-985-08-1365-7"
   } ]
 }, {
   "groupName" : "Stajlhajd",
   "links" : [ {
     "url" : "https://docs.google.com/document/d/1T9OTVSQhT2ULxNxoBcs0ET0hUQeYdyadhQClsnxqZYw/edit",
-    "description" : "STAJLHAJD «LINHVISTYČNYJA PASLUHI Ź BIELARUSKAJ MOVAJ», jakim ź nami padźialinullsia sp. Aliaksandar Šumski."
+    "description" : "STAJLHAJD «LINHVISTYČNYJA PASLUHI Ź BIELARUSKAJ MOVAJ», jakim ź nami padźialiŭsia sp. Aliaksandar Šumski."
   } ]
 }, {
-  "groupName" : "Tlumačaĺny slonullnik",
+  "groupName" : "Tlumačaĺny sloŭnik",
   "links" : [ {
     "url" : "https://www.skarnik.by/tsbm",
-    "description" : "Tlumačaĺny slonullnik bielaruskaj movy"
+    "description" : "Tlumačaĺny sloŭnik bielaruskaj movy"
   } ]
 }, {
   "groupName" : "Terminalohija",
   "links" : [ {
     "url" : "https://www.microsoft.com/en-us/language/",
-    "description" : "Microsoft Language Portal(Hliasaryj ad Microsoft). Častkova sastarenullšy, alie vieĺmi karysny tamu, što adźiny taki hliasaryj u adkrytym dostupie. Boĺš padrabiaźnaściej u \"Stajlhajdźie\"."
+    "description" : "Microsoft Language Portal(Hliasaryj ad Microsoft). Častkova sastareŭšy, alie vieĺmi karysny tamu, što adźiny taki hliasaryj u adkrytym dostupie. Boĺš padrabiaźnaściej u \"Stajlhajdźie\"."
   }, {
     "url" : "https://translations.telegram.org/be/",
     "description" : "Prajekt pierakladu Telegram na bielaruskuju movu. Mozna karystacca pošukam dlia pravierki taho, jak pierakladali niekatoryja terminy j slovaspalučeńni."
   }, {
     "url" : "http://st.unicode.org/cldr-apps/v#/be//",
-    "description" : "Aktuaĺnyja naźvy roźnych adźinak vymiareńnia, krain, rehijonanull, monull (ź ulikam nullmianieńnianull 2008 h.)"
+    "description" : "Aktuaĺnyja naźvy roźnych adźinak vymiareńnia, krain, rehijonaŭ, moŭ (ź ulikam nullmianieńniaŭ 2008 h.)"
   }, {
     "url" : "http://mounik.org/files/osm/daviednik_Lemciuhovaj.csv.gz",
-    "description" : "Aficyjnaje napisańnie bielaruskich taponimanull"
+    "description" : "Aficyjnaje napisańnie bielaruskich taponimaŭ"
   }, {
     "url" : "http://www.tnpa.by/?fbclid=IwAR0cJ7883BKWxHv4e3WTSCIFe4DomKfW_QfZyzp4zmsPGJrd_YHOR18l-Ew#!/FileText/418234/300260",
     "description" : "Spravočnnullk nanullmienovannullj hosudarstv null tierrnulltornullj mnullra (dalieje – Spravočnnullk) ustanavlnullvajet napnullsannullie nanullmienovannullj hosudarstv null tierrnulltornullj mnullra, nullch stolnullc null cientrov na russkom, bielorusskom null anhlnulljskom jaźykach. "
@@ -47,15 +47,15 @@
   "groupName" : "*",
   "links" : [ {
     "url" : "https://help.launchpad.net/Translations/Guide",
-    "description" : "Techničnyja aspiekty radkonull Ubuntu"
+    "description" : "Techničnyja aspiekty radkoŭ Ubuntu"
   }, {
     "url" : "https://wiki.ubuntu.com/Translations/KnowledgeBase#General_documentation",
-    "description" : "Nullviestki pra zyćciovy cykl i asablivaści azyćcianulllieńnia pierakladu va Ubuntu "
+    "description" : "Nullviestki pra zyćciovy cykl i asablivaści azyćciaŭlieńnia pierakladu va Ubuntu "
   }, {
     "url" : "https://bnkorpus.info/download.html",
     "description" : "Pravierka pravapisu dlia Mozilla Firefox/Thunderbird, MSOffice 2007/2010/2013, LibreOffice/OpenOffice"
   }, {
     "url" : "https://be.wikipedia.org/wiki/Вікіпедыя:Спраўджванне_правапісу ",
-    "description" : "Vykarystonullvajcie srodki pravierki pravapisu. Instrukcyi (spasylka pracuje)"
+    "description" : "Vykarystoŭvajcie srodki pravierki pravapisu. Instrukcyi (spasylka pracuje)"
   } ]
 } ]

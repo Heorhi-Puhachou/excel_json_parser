@@ -8,7 +8,7 @@ export const LACINK = {
     input_eng_term: 'uviadźicie anh. termin',
     back: 'Naźad',
     term: 'Termin',
-    wrong_usage: 'Niapraviĺnaje nullzyvańnie',
+    wrong_usage: 'Niapraviĺnaje ŭzyvańnie',
     comment: 'Kamentar',
     narkam: 'narkam',
     tarask: 'tarask',
