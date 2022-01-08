@@ -24,6 +24,7 @@ public class NarkamTaraskConverter extends BaseConverter {
     }
 
     private Parser parser;
+    private ArrayList<Pair> startReplace;
     private ArrayList<Pair> endReplace;
 
     public NarkamTaraskConverter() {
@@ -32,6 +33,15 @@ public class NarkamTaraskConverter extends BaseConverter {
         this.endReplace = new ArrayList<>();
         endReplace.add(new Pair("метр", "метар"));
         endReplace.add(new Pair("літр", "літар"));
+
+        this.startReplace = new ArrayList<>();
+        startReplace.add(new Pair("бельгі", "бэльгі"));
+        startReplace.add(new Pair("ірланд", "ірлянд"));
+        startReplace.add(new Pair("люксембург", "люксэмбург"));
+        startReplace.add(new Pair("нідэрланд", "нідэрлянд"));
+        startReplace.add(new Pair("швейцар", "швайцар"));
+        startReplace.add(new Pair("швецы", "швэцы"));
+
 
     }
 
@@ -74,6 +84,7 @@ public class NarkamTaraskConverter extends BaseConverter {
         convertedValue = checkNe(convertedValue, next);
         convertedValue = checkBez(convertedValue, next);
         convertedValue = dummyReplace(convertedValue);
+        convertedValue = replaceStart(convertedValue);
         convertedValue = replaceEnd(convertedValue);
         convertedValue = chekMZ(convertedValue);
         convertedValue = transformCase(current.getWordCase(), convertedValue);
@@ -141,8 +152,10 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("арыстоцель", "арыстотэль")
                 .replace("валанцёр", "валантэр")
                 .replace("версі", "вэрсі")
+                .replace("вулкан", "вулькан")
                 .replace("гаус", "гаўс")
                 .replace("Генры", "Гэнры")
+                .replace("гласар", "глясар")
                 .replace("дакумент", "дакумэнт")
                 .replace("донья", "доньня")
                 .replace("еўр", "эўр")
@@ -164,15 +177,24 @@ public class NarkamTaraskConverter extends BaseConverter {
                 .replace("рэклам", "рэклям")
                 .replace("саліцёр", "слітэр")
                 .replace("сігнал", "сыгнал")
+                .replace("сістэм", "сыстэм")
                 .replace("фунікулёр", "фунікулер")
                 .replace("фальклор", "фальклёр")
-                .replace("гласар", "глясар")
                 .replace("шоу", "шоў");
     }
 
     private String replaceEnd(String word) {
         for (Pair pair : endReplace) {
             if (word.endsWith(pair.getIn())) {
+                return word.replace(pair.getIn(), pair.getOut());
+            }
+        }
+        return word;
+    }
+
+    private String replaceStart(String word) {
+        for (Pair pair : startReplace) {
+            if (word.startsWith(pair.getIn())) {
                 return word.replace(pair.getIn(), pair.getOut());
             }
         }

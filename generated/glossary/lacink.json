@@ -721,7 +721,7 @@
 }, {
   "id" : 121,
   "originalValue" : "Belgium",
-  "value" : "Bieĺhija",
+  "value" : "Beĺhija",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -2485,7 +2485,7 @@
 }, {
   "id" : 415,
   "originalValue" : "filesystem",
-  "value" : "fajlavaja sistema",
+  "value" : "fajlavaja systema",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -3325,7 +3325,7 @@
 }, {
   "id" : 555,
   "originalValue" : "Ireland",
-  "value" : "Irlandyja",
+  "value" : "Irliandyja",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -3763,7 +3763,7 @@
 }, {
   "id" : 628,
   "originalValue" : "Luxembourg",
-  "value" : "Liuksiemburh",
+  "value" : "Liuksemburh",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -4291,13 +4291,13 @@
 }, {
   "id" : 716,
   "originalValue" : "Netherlands",
-  "value" : "Niderlandy",
+  "value" : "Niderliandy",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 717,
   "originalValue" : "Netherlands Antilles",
-  "value" : "Niderlandskija Antyĺskija astravy",
+  "value" : "Niderliandskija Antyĺskija astravy",
   "wrong" : "",
   "comment" : "bielen\nniama ŭ CLDR"
 }, {
@@ -6487,7 +6487,7 @@
 }, {
   "id" : 1082,
   "originalValue" : "Sweden",
-  "value" : "Šviecyja",
+  "value" : "Švecyja",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -6505,7 +6505,7 @@
 }, {
   "id" : 1085,
   "originalValue" : "Switzerland",
-  "value" : "Šviejcaryja",
+  "value" : "Švajcaryja",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -6541,7 +6541,7 @@
 }, {
   "id" : 1091,
   "originalValue" : "system",
-  "value" : "sistema",
+  "value" : "systema",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6699,7 +6699,7 @@
   "originalValue" : "this",
   "value" : "hetaja, hetaje, hetyja, hety (aznačeńnie); heta (častka vykaźnika)",
   "wrong" : "",
-  "comment" : "Ubuntu - heta svabodnaja apieracyjnaja sistema. Hetaje abnaŭlieńnie patrabuje 2MB miesca na dysku. Hetaja prylada nie padtrymlivajecca."
+  "comment" : "Ubuntu - heta svabodnaja apieracyjnaja systema. Hetaje abnaŭlieńnie patrabuje 2MB miesca na dysku. Hetaja prylada nie padtrymlivajecca."
 }, {
   "id" : 1118,
   "originalValue" : "threat",

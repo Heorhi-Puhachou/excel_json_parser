@@ -721,7 +721,7 @@
 }, {
   "id" : 121,
   "originalValue" : "Belgium",
-  "value" : "Бельгія",
+  "value" : "Бэльгія",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -2485,7 +2485,7 @@
 }, {
   "id" : 415,
   "originalValue" : "filesystem",
-  "value" : "файлавая сістэма",
+  "value" : "файлавая сыстэма",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -3325,7 +3325,7 @@
 }, {
   "id" : 555,
   "originalValue" : "Ireland",
-  "value" : "Ірландыя",
+  "value" : "Ірляндыя",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -3763,7 +3763,7 @@
 }, {
   "id" : 628,
   "originalValue" : "Luxembourg",
-  "value" : "Люксембург",
+  "value" : "Люксэмбург",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -4291,13 +4291,13 @@
 }, {
   "id" : 716,
   "originalValue" : "Netherlands",
-  "value" : "Нідэрланды",
+  "value" : "Нідэрлянды",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
   "id" : 717,
   "originalValue" : "Netherlands Antilles",
-  "value" : "Нідэрландскія Антыльскія астравы",
+  "value" : "Нідэрляндскія Антыльскія астравы",
   "wrong" : "",
   "comment" : "БелЭн\nняма ў CLDR"
 }, {
@@ -6487,7 +6487,7 @@
 }, {
   "id" : 1082,
   "originalValue" : "Sweden",
-  "value" : "Швецыя",
+  "value" : "Швэцыя",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -6505,7 +6505,7 @@
 }, {
   "id" : 1085,
   "originalValue" : "Switzerland",
-  "value" : "Швейцарыя",
+  "value" : "Швайцарыя",
   "wrong" : "",
   "comment" : "CLDR"
 }, {
@@ -6541,7 +6541,7 @@
 }, {
   "id" : 1091,
   "originalValue" : "system",
-  "value" : "сістэма",
+  "value" : "сыстэма",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6699,7 +6699,7 @@
   "originalValue" : "this",
   "value" : "гэтая, гэтае, гэтыя, гэты (азначэньне); гэта (частка выказьніка)",
   "wrong" : "",
-  "comment" : "Ubuntu - гэта свабодная аперацыйная сістэма. Гэтае абнаўленьне патрабуе 2МБ месца на дыску. Гэтая прылада не падтрымліваецца."
+  "comment" : "Ubuntu - гэта свабодная аперацыйная сыстэма. Гэтае абнаўленьне патрабуе 2МБ месца на дыску. Гэтая прылада не падтрымліваецца."
 }, {
   "id" : 1118,
   "originalValue" : "threat",
