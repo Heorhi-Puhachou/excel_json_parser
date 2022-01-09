@@ -47,16 +47,16 @@ public class ParsedElement {
             return WordCase.OTHER;
         }
 
+        if (word.equals(firstLetterToUpperCase(word))) {
+            return WordCase.FIRST_LETTER_UPPER;
+        }
+
         if (word.equals(word.toUpperCase())) {
             return WordCase.ALL_LETTERS_UPPER;
         }
 
         if (word.equals(word.toLowerCase())) {
             return WordCase.ALL_LETTERS_LOWER;
-        }
-
-        if (word.equals(firstLetterToUpperCase(word))) {
-            return WordCase.FIRST_LETTER_UPPER;
         }
 
         return WordCase.OTHER;

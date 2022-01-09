@@ -1,5 +1,7 @@
-package by.convert;
+package by.convert.lacink;
 
+import by.convert.BaseConverter;
+import by.convert.tarask.NarkamTaraskConverter;
 import by.parser.ParsedElement;
 import by.parser.Parser;
 
@@ -61,7 +63,6 @@ public class NarkamLacinkConverter extends BaseConverter {
         pairsMiakkija.put("c", "ć");
         pairsMiakkija.put("s", "ś");
         pairsMiakkija.put("z", "ź");
-
     }
 
     public static void main(String... args) {
@@ -70,16 +71,11 @@ public class NarkamLacinkConverter extends BaseConverter {
     }
 
     public String convert(String acad) {
-
         if (acad == null || acad.isEmpty()) {
             return acad;
         }
-
         String tarask = (new NarkamTaraskConverter()).convert(acad);
-
-
         ArrayList<ParsedElement> elements = parser.parse(tarask);
-
         StringBuilder result = new StringBuilder();
 
         for (ParsedElement current : elements) {
@@ -90,7 +86,6 @@ public class NarkamLacinkConverter extends BaseConverter {
             }
         }
 
-
         return result.toString();
     }
 
@@ -99,7 +94,6 @@ public class NarkamLacinkConverter extends BaseConverter {
         convertedValue = transformCase(current.getWordCase(), convertedValue);
         return convertedValue;
     }
-
 
     private String advancedReplace(String word) {
         String result = "";
@@ -127,15 +121,11 @@ public class NarkamLacinkConverter extends BaseConverter {
         return result;
     }
 
-
     private String replaceLastToMiakki(String word) {
         if (word.length() == 1) {
             return pairsMiakkija.get(word);
         }
         String replacement = pairsMiakkija.get(getLastSymbol(word)) == null ? getLastSymbol(word) : pairsMiakkija.get(getLastSymbol(word));
-
         return word.substring(0, word.length() - 1) + replacement;
     }
-
-
 }

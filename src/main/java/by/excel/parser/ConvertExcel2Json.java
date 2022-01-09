@@ -3,8 +3,8 @@ package by.excel.parser;
 import java.io.*;
 import java.util.*;
 
-import by.convert.NarkamLacinkConverter;
-import by.convert.NarkamTaraskConverter;
+import by.convert.lacink.NarkamLacinkConverter;
+import by.convert.tarask.NarkamTaraskConverter;
 import by.convert.BaseConverter;
 import by.excel.parser.glossary.Record;
 import by.excel.parser.links.Link;

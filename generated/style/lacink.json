@@ -28,7 +28,7 @@
     "description" : "Addzialiajem slovy ad ličb.",
     "example" : "1h → 1 hadz, 1s → 1 s"
   }, {
-    "description" : "Z vialikaj litary pišam pierašaje slova j ulasnyja nazvy. Jak u anlijskaj koznaje slova z vialikaj pisać nieĺha.",
+    "description" : "Ź vialikaj litary pišam pierašaje slova j ulasnyja nazvy. Jak u anlijskaj koznaje slova ź vialikaj pisać nieĺha.",
     "example" : "\"Night Mode\" → \"Načny rezym\""
   }, {
     "description" : "Nikoli nie pierakladajem kamandy terminala.",

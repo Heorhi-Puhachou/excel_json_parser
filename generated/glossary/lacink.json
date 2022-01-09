@@ -6829,7 +6829,7 @@
 }, {
   "id" : 1139,
   "originalValue" : "tool",
-  "value" : "instrumient",
+  "value" : "instrument",
   "wrong" : "",
   "comment" : ""
 }, {
@@ -6945,7 +6945,7 @@
   "originalValue" : "Ubuntu Software",
   "value" : "Prahramy Ubuntu",
   "wrong" : "",
-  "comment" : "Časam pišuć prosta Software z vialikaj litary jak nazvu instrumienta, tady pierakladajem \"Prahramy\". software jak ahuĺnaje imia tak NIE pierakladajem"
+  "comment" : "Časam pišuć prosta Software ź vialikaj litary jak nazvu instrumenta, tady pierakladajem \"Prahramy\". software jak ahuĺnaje imia tak NIE pierakladajem"
 }, {
   "id" : 1159,
   "originalValue" : "Uganda",
@@ -7135,7 +7135,7 @@
 }, {
   "id" : 1190,
   "originalValue" : "updater",
-  "value" : "instrumient abnaŭlieńnia",
+  "value" : "instrument abnaŭlieńnia",
   "wrong" : "",
   "comment" : ""
 }, {

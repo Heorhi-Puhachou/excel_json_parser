@@ -3,6 +3,8 @@ package by.util;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static by.util.StringUtilGet.findFirstGalosny;
+
 public class StringUtilCheck {
 
     public static boolean isGalosny(String symbol) {
@@ -51,5 +53,14 @@ public class StringUtilCheck {
 
     public static boolean isMiakkiGalosny(char symbol) {
         return isMiakkiGalosny("" + symbol);
+    }
+
+    public static boolean pershySkladPadNaciskam(String word) {
+        return word.equals("бачу")
+                || word.equals("назвы")
+                || word.equals("будзе")
+                || word.equals("трэба")
+                || word.equals("ведаю")
+                || "о".equals(findFirstGalosny(word));
     }
 }
