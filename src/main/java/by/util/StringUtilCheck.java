@@ -63,6 +63,7 @@ public class StringUtilCheck {
         return word.equals("бачу")
                 || word.equals("назвы")
                 || word.equals("будзе")
+                || word.equals("буду")
                 || word.equals("трэба")
                 || word.equals("ведаю")
                 || (isNumber(word) && (word.startsWith("2") || word.startsWith("3")))

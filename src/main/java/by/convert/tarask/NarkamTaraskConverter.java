@@ -3,6 +3,7 @@ package by.convert.tarask;
 import by.convert.BaseConverter;
 import by.convert.tarask.constant.MiakkajaPara;
 import by.convert.tarask.constant.ZmiakcajemyZycny;
+import by.convert.tarask.constant.Zmiakchatel;
 import by.convert.tarask.constant.replace.DummyReplace;
 import by.convert.tarask.constant.replace.EndReplace;
 import by.convert.tarask.constant.replace.StartReplace;
@@ -21,7 +22,7 @@ public class NarkamTaraskConverter extends BaseConverter {
 
     public static void main(String... args) {
         NarkamTaraskConverter converter = new NarkamTaraskConverter();
-        System.out.println(converter.convert("Яна і ён убачылі свет! не ведаю не трэба не той без той... З сямі?"));
+        System.out.println(converter.convert("Яна і ён убачылі свет! не ведаю не трэба не той без той... З сямі? З ім."));
     }
 
     private Parser parser;
@@ -82,6 +83,7 @@ public class NarkamTaraskConverter extends BaseConverter {
         return convertedValue;
     }
 
+    // і -> й
     private String checkI(ParsedElement prev, String current, String delimiter) {
         if (prev != null && current.equals("і") && delimiter.equals(" ")) {
             String lastPrevSymbol = getLastSymbol(prev.getWord());
@@ -92,12 +94,18 @@ public class NarkamTaraskConverter extends BaseConverter {
         return current;
     }
 
+    // з -> зь
     private String checkZ(String current, ParsedElement next) {
         if (next != null
                 && next.getDelimiter().equals(" ")
                 && current.equals("з")) {
             for (int i = 0; i < MiakkajaPara.getMiakkijaPary().size(); i++) {
-                if (next.getWord().startsWith(MiakkajaPara.getMiakkijaPary().get(i))) {
+                if (next.getWord().startsWith(MiakkajaPara.getMiakkijaPary().get(i)) ) {
+                    return "зь";
+                }
+            }
+            for (int i = 0; i < Zmiakchatel.getZmiakcaceli().size(); i++) {
+                if (next.getWord().startsWith(Zmiakchatel.getZmiakcaceli().get(i)) ) {
                     return "зь";
                 }
             }
@@ -105,6 +113,7 @@ public class NarkamTaraskConverter extends BaseConverter {
         return current;
     }
 
+    // не -> ня
     private String checkNe(String current, ParsedElement next) {
         if (current.equals("не")
                 && next != null
@@ -116,6 +125,7 @@ public class NarkamTaraskConverter extends BaseConverter {
         return current;
     }
 
+    // без -> бяз
     private String checkBez(String current, ParsedElement next) {
         if (current.equals("без")
                 && next != null
