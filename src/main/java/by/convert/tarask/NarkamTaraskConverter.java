@@ -22,7 +22,8 @@ public class NarkamTaraskConverter extends BaseConverter {
 
     public static void main(String... args) {
         NarkamTaraskConverter converter = new NarkamTaraskConverter();
-        System.out.println(converter.convert("Яна і ён убачылі свет! не ведаю не трэба не той без той... З сямі? З ім."));
+        //System.out.println(converter.convert("Яна і ён убачылі свет! не ведаю не трэба не той без той... З сямі? З ім."));
+        System.out.println(converter.convert("З ім."));
     }
 
     private Parser parser;

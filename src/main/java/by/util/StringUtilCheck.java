@@ -7,6 +7,13 @@ import static by.util.StringUtilGet.findFirstGalosny;
 
 public class StringUtilCheck {
 
+    public static boolean isWordSymbol(char symbol) {
+        String nonDelimiterPattern = "[\\p{L}\\d']";
+        Pattern pattern = Pattern.compile(nonDelimiterPattern);
+        Matcher matcher = pattern.matcher("" + symbol);
+        return matcher.matches();
+    }
+
     public static boolean isGalosny(String symbol) {
         String nonDelimiterPattern = "[аяоёэеуюыі]";
         Pattern pattern = Pattern.compile(nonDelimiterPattern);

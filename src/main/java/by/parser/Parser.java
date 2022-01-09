@@ -1,8 +1,8 @@
 package by.parser;
 
 import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
+import static by.util.StringUtilCheck.isWordSymbol;
 
 public class Parser {
 
@@ -12,34 +12,30 @@ public class Parser {
         boolean currentDelimiter = true;
         String currentDelimiterValue = "";
         String currentWordValue = "";
-        for (int i = 0; i < text.length(); i++) {
-            boolean isDelimiter = !isWordSymbol(chars[i]);
+        for (int index = 0; index < text.length(); index++) {
+            char currentSymbol = chars[index];
+            boolean isDelimiter = !isWordSymbol(currentSymbol);
+            boolean isLastSymbol = index == text.length() - 1;
 
             // Чыталі не-слова й працягваем чытаць не-слова
             if (currentDelimiter && isDelimiter) {
-                currentDelimiterValue = currentDelimiterValue + chars[i];
-
-                //Апошні сымбаль тэксту
-                if (i == text.length() - 1) {
+                currentDelimiterValue = currentDelimiterValue + currentSymbol;
+                if (isLastSymbol) {
                     result.add(new ParsedElement(currentDelimiterValue, ""));
                 }
             }
             // Чыталі не-слова й пачалі чытаць слова
             else if (currentDelimiter) {
                 currentDelimiter = false;
-                currentWordValue = "" + chars[i];
-
-                //Апошні сымбаль тэксту
-                if (i == text.length() - 1) {
+                currentWordValue = "" + currentSymbol;
+                if (isLastSymbol) {
                     result.add(new ParsedElement(currentDelimiterValue, currentWordValue));
                 }
             }
             // Чыталі слова й працягваем чытаць слова
             else if (!isDelimiter) {
-                currentWordValue = currentWordValue + chars[i];
-
-                //Апошні сымбаль тэксту
-                if (i == text.length() - 1) {
+                currentWordValue = currentWordValue + currentSymbol;
+                if (isLastSymbol) {
                     result.add(new ParsedElement(currentDelimiterValue, currentWordValue));
                 }
             }
@@ -47,21 +43,12 @@ public class Parser {
             else {
                 result.add(new ParsedElement(currentDelimiterValue, currentWordValue));
                 currentDelimiter = true;
-                currentDelimiterValue = "" + chars[i];
-
-                //Апошні сымбаль тэксту
-                if (i == text.length() - 1) {
+                currentDelimiterValue = "" + currentSymbol;
+                if (isLastSymbol) {
                     result.add(new ParsedElement(currentDelimiterValue, ""));
                 }
             }
         }
         return result;
-    }
-
-    private boolean isWordSymbol(char symbol) {
-        String nonDelimiterPattern = "[\\p{L}\\d']";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher("" + symbol);
-        return matcher.matches();
     }
 }
