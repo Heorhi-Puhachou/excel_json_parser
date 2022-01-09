@@ -29,11 +29,15 @@ public class StringUtilCheck {
         return isEngWord("" + symbol);
     }
 
-    public static boolean isNumber(char symbol) {
-        String nonDelimiterPattern = "[\\d]";
+    public static boolean isNumber(String symbol) {
+        String nonDelimiterPattern = "[\\d]+";
         Pattern pattern = Pattern.compile(nonDelimiterPattern);
-        Matcher matcher = pattern.matcher("" + symbol);
+        Matcher matcher = pattern.matcher(symbol);
         return matcher.matches();
+    }
+
+    public static boolean isNumber(char symbol) {
+        return isNumber("" + symbol);
     }
 
     public static boolean isApostraf(String symbol) {
@@ -45,8 +49,8 @@ public class StringUtilCheck {
     }
 
     public static boolean isMiakkiGalosny(String symbol) {
-        String nonDelimiterPattern = "[яёеюі]";
-        Pattern pattern = Pattern.compile(nonDelimiterPattern);
+        String miakkiGalosnyPattern = "[яёеюі]";
+        Pattern pattern = Pattern.compile(miakkiGalosnyPattern);
         Matcher matcher = pattern.matcher(symbol);
         return matcher.matches();
     }
@@ -61,6 +65,7 @@ public class StringUtilCheck {
                 || word.equals("будзе")
                 || word.equals("трэба")
                 || word.equals("ведаю")
+                || (isNumber(word) && (word.startsWith("2") || word.startsWith("3")))
                 || "о".equals(findFirstGalosny(word));
     }
 }
