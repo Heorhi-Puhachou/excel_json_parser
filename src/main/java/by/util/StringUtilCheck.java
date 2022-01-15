@@ -3,7 +3,8 @@ package by.util;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static by.util.StringUtilGet.findFirstGalosny;
+import static by.util.StringUtilGet.findFirstVowel;
+import static by.util.StringUtilGet.getVowelQuantity;
 
 public class StringUtilCheck {
 
@@ -66,6 +67,10 @@ public class StringUtilCheck {
         return isMiakkiGalosny("" + symbol);
     }
 
+    public static boolean isOneVowelInWord(String word) {
+        return getVowelQuantity(word) == 1;
+    }
+
     public static boolean pershySkladPadNaciskam(String word) {
         return word.equals("бачу")
                 || word.equals("назвы")
@@ -74,6 +79,7 @@ public class StringUtilCheck {
                 || word.equals("трэба")
                 || word.equals("ведаю")
                 || (isNumber(word) && (word.startsWith("2") || word.startsWith("3")))
-                || "о".equals(findFirstGalosny(word));
+                || "о".equals(findFirstVowel(word))
+                || isOneVowelInWord(word);
     }
 }

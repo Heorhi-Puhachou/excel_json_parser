@@ -4,7 +4,7 @@ import static by.util.StringUtilCheck.isGalosny;
 
 public class StringUtilGet {
 
-    public static String findFirstGalosny(String word) {
+    public static String findFirstVowel(String word) {
         char[] chars = word.toCharArray();
         String result = null;
 
@@ -14,6 +14,18 @@ public class StringUtilGet {
             }
         }
         return result;
+    }
+
+    public static int getVowelQuantity(String word) {
+        char[] chars = word.toCharArray();
+        int quantity = 0;
+
+        for (int i = 0; i < word.length(); i++) {
+            if (isGalosny("" + chars[i])) {
+                quantity++;
+            }
+        }
+        return quantity;
     }
 
     public static String getLastSymbol(String input) {
